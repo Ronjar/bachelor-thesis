@@ -53,16 +53,3 @@ cleaned_data <- cleaned_data %>%
     gender = as.factor(gender),
     across(all_of(gamified_columns), as.factor)
   )
-
-# Ergebnis anzeigen -------------------------------------------------
-print(head(cleaned_data))
-
-# Levels der Faktoren anzeigen ---------------------------------------
-print("Levels der 'gender' Spalte:")
-print(levels(cleaned_data$gender))
-
-# Levels der 'r*_q' und 'r*_gamifiedElement' Spalten
-for (col in c(question_columns, gamified_columns)) {
-  cat("Levels der", col, "Spalte:\n")
-  print(levels(cleaned_data[[col]]))
-}
