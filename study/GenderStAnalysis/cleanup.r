@@ -46,6 +46,27 @@ cleaned_data <- data %>%
   filter(!(id %in% users_to_remove)) %>%
   select(-starts_with("correct_percentage"))  # Entferne die Hilfsspalten
 
+# Umformen der Daten
+long_data <- cleaned_data %>%
+  gather(key = "dataset", value = "value", starts_with("r1_"), starts_with("r2_"), starts_with("r3_"))
+
+daten_lang <- cleaned_data %>%
+  pivot_longer(
+    cols = starts_with("r"),
+    names_to = "dataset",
+    names_pattern = "(r[1-3])_(.*)",
+    values_to = "value"
+  ) %>%
+  arrange(id, dataset)
+
+df_long <- cleaned_data %>% 
+  pivot_longer(
+    cols = starts_with("r"), 
+    names_to = "dataset", 
+    values_to = "value"
+  )
+
+
 # Spalten "gender" und "r*_gamifiedElement" in Faktoren umwandeln
 gamified_columns <- grep("^r[0-9]+_gamifiedElement", colnames(cleaned_data), value = TRUE)
 cleaned_data <- cleaned_data %>%
