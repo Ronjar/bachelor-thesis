@@ -1,0 +1,2544 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{albuquerqueDoesGenderStereotype2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6dc2526f85f7683c3dc6b160f892ab62}{%
+           family={Albuquerque},
+           familyi={A\bibinitperiod},
+           given={Josmario},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c41b60155658fe5f9fc81b63037d6ba6}{%
+           family={Bittencourt},
+           familyi={B\bibinitperiod},
+           given={Ig\bibnamedelima I.},
+           giveni={I\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed5a6ca34e64bc267aa9ae851622d93b}{%
+           family={Coelho},
+           familyi={C\bibinitperiod},
+           given={Jorge\bibnamedelima A.P.M.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e1296281badd179de921dca74c260ac}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Alan\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fccd19708106deb87bea98958327b5a6}
+      \strng{fullhash}{516d1695909bb070534f2cbd613277f0}
+      \strng{bibnamehash}{516d1695909bb070534f2cbd613277f0}
+      \strng{authorbibnamehash}{516d1695909bb070534f2cbd613277f0}
+      \strng{authornamehash}{fccd19708106deb87bea98958327b5a6}
+      \strng{authorfullhash}{516d1695909bb070534f2cbd613277f0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shortjournal}{Computers \& Education}
+      \field{shorttitle}{Does Gender Stereotype Threat in Gamified Educational Environments Cause Anxiety?}
+      \field{title}{Does Gender Stereotype Threat in Gamified Educational Environments Cause Anxiety? {{An}} Experimental Study}
+      \field{urlday}{29}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{115}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{161\bibrangedash 170}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2017.08.005
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301914
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301914
+      \endverb
+    \endentry
+    \entry{almeidaSystematicMappingNegative2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a9f652e334238b77c10803164ddf99f8}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Cláuvin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a78c08dd05c994fc2712f82578d7d6f}{%
+           family={Kalinowski},
+           familyi={K\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7510dc6da8f70eb7d723bb107a4e443}{%
+           family={Feijó},
+           familyi={F\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
+      \strng{fullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{bibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{authorbibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{authornamehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
+      \strng{authorfullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While most research shows positive effects of gamification, the focus on its adverse effects is considerably smaller. Having this in mind, we conducted a systematic mapping study of the negative effects of game design elements on education/learning systems. The study revealed 77 papers reporting undesired effects of game design elements. We found that badges, competitions, Ieaderboards, and points are the game design elements most often reported as causing negative effects. The most cited negative effects were lack of effect, lack of understanding, irrelevance, motivational issues, and worsened performance. The ethical issue of cheating was also often reported. As part of our results, we map the relations between game design elements and the negative effects that they may cause. Our mapping study can help gamification designers make more informed decisions when selecting game design elements to be included in education/learning systems, raising awareness on potential negative effects.}
+      \field{eventtitle}{2021 47th {{Euromicro Conference}} on {{Software Engineering}} and {{Advanced Applications}} ({{SEAA}})}
+      \field{journaltitle}{2021 47th {{Euromicro Conference}} on {{Software Engineering}} and {{Advanced Applications}} ({{SEAA}})}
+      \field{month}{9}
+      \field{title}{A {{Systematic Mapping}} of {{Negative Effects}} of {{Gamification}} in {{Education}}/{{Learning Systems}}}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{17\bibrangedash 24}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/SEAA53835.2021.00011
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/9582596
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/9582596
+      \endverb
+      \keyw{education,Ethics,Games,gamification,learning,negative effects,snowballing,Software engineering,systematic mapping,Systematics}
+    \endentry
+    \entry{cheryanClassroomsMatterDesign2011}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9f74dee8600fd3a4a219714b3827d5f6}{%
+           family={Cheryan},
+           familyi={C\bibinitperiod},
+           given={Sapna},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6b9311fe7e080600add6006d666efc}{%
+           family={Meltzoff},
+           familyi={M\bibinitperiod},
+           given={Andrew\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fe2d69b937344789c94b919d6ccf5e0}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Saenam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2604c34a7e6f5851b6b1be7196bf5009}
+      \strng{fullhash}{8729a98a861d5b492da8aa248286a293}
+      \strng{bibnamehash}{8729a98a861d5b492da8aa248286a293}
+      \strng{authorbibnamehash}{8729a98a861d5b492da8aa248286a293}
+      \strng{authornamehash}{2604c34a7e6f5851b6b1be7196bf5009}
+      \strng{authorfullhash}{8729a98a861d5b492da8aa248286a293}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{2}
+      \field{shortjournal}{Computers \& Education}
+      \field{shorttitle}{Classrooms Matter}
+      \field{title}{Classrooms Matter: {{The}} Design of Virtual Classrooms Influences Gender Disparities in Computer Science Classes}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{57}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1825\bibrangedash 1835}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2011.02.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S036013151100042X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S036013151100042X
+      \endverb
+    \endentry
+    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6b3eb68e514865c87d16278004a73f6}{%
+           family={Christy},
+           familyi={C\bibinitperiod},
+           given={Katheryn\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a73b9b7d46da66580e8865ab17a34a9}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Jesse},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{219220391049affce55f38493007cfdb}
+      \strng{fullhash}{219220391049affce55f38493007cfdb}
+      \strng{bibnamehash}{219220391049affce55f38493007cfdb}
+      \strng{authorbibnamehash}{219220391049affce55f38493007cfdb}
+      \strng{authornamehash}{219220391049affce55f38493007cfdb}
+      \strng{authorfullhash}{219220391049affce55f38493007cfdb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Gamification includes the use of gaming features, such as points or leaderboards, in non-gaming contexts, and is a frequently-discussed trend in education. One way of gamifying the classroom is to introduce leaderboards. Leaderboards allow students to see how they are performing relative to others in the same class. Little empirical research has investigated the impact of leaderboards on academic performance. In this study, 80 female undergraduates took a math test in a virtual representation of a classroom after being exposed to one of three leaderboard conditions: a leaderboard where men held the majority of the top positions, a leaderboard where women held the majority of top positions, and a no leaderboard condition. Participants in the female majority leaderboard condition performed more poorly on the math test than those in the male leaderboard condition, yet demonstrated a higher level of academic identification than those in the male and control conditions. The authors conclude with a discussion of the implications that this study's findings may have for the use of leaderboards within educational environments.}
+      \field{day}{1}
+      \field{issn}{0360-1315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{9}
+      \field{shortjournal}{Computers \& Education}
+      \field{shorttitle}{Leaderboards in a Virtual Classroom}
+      \field{title}{Leaderboards in a Virtual Classroom: {{A}} Test of Stereotype Threat and Social Comparison Explanations for Women's Math Performance}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{78}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{66\bibrangedash 77}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2014.05.005
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131514001195
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131514001195
+      \endverb
+      \keyw{Distance education and telelearning,Gender studies,Human–computer interface,Interactive learning environments,Teaching/learning strategies}
+    \endentry
+    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f3f534efbb82d811bec48937cff6ef83}{%
+           family={Dehghanzadeh},
+           familyi={D\bibinitperiod},
+           given={Hojjat},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0db8b159a61d5fa948ea8e56b6d5aac8}{%
+           family={Farrokhnia},
+           familyi={F\bibinitperiod},
+           given={Mohammadreza},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86a657b3c88496863c1fe0a39751ba43}{%
+           family={Dehghanzadeh},
+           familyi={D\bibinitperiod},
+           given={Hossein},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59f474346689095f0069db9c10562aa5}{%
+           family={Taghipour},
+           familyi={T\bibinitperiod},
+           given={Kiumars},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae2c62bcf1b8e1ef2763fbb343e03f41}{%
+           family={Noroozi},
+           familyi={N\bibinitperiod},
+           given={Omid},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
+      \strng{fullhash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{bibnamehash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{authorbibnamehash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{authornamehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
+      \strng{authorfullhash}{8f49a1e43df9356da04450d15c57243d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract Using gamification to support learning in K‐12 education has received much attention from scholars in recent years. However, there is still a lack of comprehensive understanding of how gamification should be used to effectively enhance the learning experiences of K‐12 students. The purpose of this review was to synthesize research findings on the use of gamification in K‐12 education and to propose an evidence‐informed framework. This framework will guide teachers and scholars in developing gamified learning environments that are effective in improving K‐12 students' learning. In this regard, 54 empirical studies (out of 907 peer‐reviewed articles), dating from 2008 through 2021, were reviewed using the Preferred Reporting Items for Systematic Reviews and Meta‐Analysis (PRISMA) guideline. The findings were systematically categorized into four essential dimensions of learning environments inspired by Biggs' 3P teaching and learning model, ie, ‘individual factors’, ‘environmental factors’, ‘learning process’ and ‘learning outcome’. The review yielded rich findings concerning each dimension, providing K‐12 teachers and scholars with a comprehensive overview of research findings on using gamification for educational purposes. Meanwhile, the findings indicated the lack of empirical studies regarding constructively aligned gamified courses, in which the different dimensions of the adopted framework are implemented and evaluated coherently. The paper concludes by presenting several suggestions and directions for future research to address this shortcoming. Practitioner notes What is already known about this topic Gamification has demonstrated the potential to enhance learning outcomes in K‐12 education. There are instances where the findings suggest neutral or negative effects of gamification on students' learning outcomes. There is a lack of a comprehensive overview of empirical findings concerning the effectiveness of gamification in K‐12 education. What this paper adds The study highlights the potential of gamification in enhancing cognitive, affective and behavioural learning outcomes in K‐12 education, mainly by increasing motivation, engagement and competitiveness. The study provides a comprehensive overview of empirical studies on using gamification in K‐12 education. The study proposes an evidence‐informed framework that can serve as a blueprint for developing constructively aligned gamified learning environments for K‐12 education. Implications for practice and/or policy The study presents several up‐to‐date and empirically rooted calls for future research on using gamification in K‐12 education. The study makes evidence‐based recommendations for the effective integration of gamification in K‐12 education.}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Brit J Educational Tech}
+      \field{shorttitle}{Using Gamification to Support Learning in {{K}}‐12 Education}
+      \field{title}{Using Gamification to Support Learning in {{K}}‐12 Education: {{A}} Systematic Literature Review}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{55}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{34\bibrangedash 70}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1111/bjet.13335
+      \endverb
+      \verb{urlraw}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13335
+      \endverb
+      \verb{url}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13335
+      \endverb
+    \endentry
+    \entry{deterdingGameDesignElements2011}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
+           family={Deterding},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77b7f2834ada9e806200ca66ed3767a4}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6693a49677bd64d91668dccd98fe0d4e}{%
+           family={Khaled},
+           familyi={K\bibinitperiod},
+           given={Rilla},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8dcd6b16d5cfe0d1191e77e5f709c16}{%
+           family={Nacke},
+           familyi={N\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{fullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{bibnamehash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authorbibnamehash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authornamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{authorfullhash}{5900b306a627b766e3160b1c23b117f2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent years have seen a rapid proliferation of mass-market consumer software that takes inspiration from video games. Usually summarized as “gamification”, this trend connects to a sizeable body of existing concepts and research in humancomputer interaction and game studies, such as serious games, pervasive games, alternate reality games, or playful design. However, it is not clear how “gamification” relates to these, whether it denotes a novel phenomenon, and how to define it. Thus, in this paper we investigate “gamification” and the historical origins of the term in relation to precursors and similar concepts. It is suggested that “gamified” applications provide insight into novel, gameful phenomena complementary to playful phenomena. Based on our research, we propose a definition of “gamification” as the use of game design elements in non-game contexts.}
+      \field{langid}{english}
+      \field{title}{From Game Design Elements to Gamefulness: Defining "Gamification"}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{freedmanLinksWhatIntelligent2000}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fd4fa29607be82c70b5db1a51823ad06}{%
+           family={Freedman},
+           familyi={F\bibinitperiod},
+           given={Reva},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2405ce6522a466d56d52e5075b6016a}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Syed\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1111dbf7f663442b81d8e441c9ccc09b}{%
+           family={McRoy},
+           familyi={M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d14849cff58dd9538637bf0a5e2531f8}
+      \strng{fullhash}{82fbd23a067aaa19791c226400188168}
+      \strng{bibnamehash}{82fbd23a067aaa19791c226400188168}
+      \strng{authorbibnamehash}{82fbd23a067aaa19791c226400188168}
+      \strng{authornamehash}{d14849cff58dd9538637bf0a5e2531f8}
+      \strng{authorfullhash}{82fbd23a067aaa19791c226400188168}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{1}
+      \field{issn}{1523-8822}
+      \field{journaltitle}{intelligence}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shortjournal}{Intelligence}
+      \field{shorttitle}{Links}
+      \field{title}{Links: What Is an Intelligent Tutoring System?}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{11}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{15\bibrangedash 16}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1145/350752.350756
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/350752.350756
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/350752.350756
+      \endverb
+    \endentry
+    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c286a081d07226242ff62579001b5dc0}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Carina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0b73aa0f303a3b46937259597c111d8}{%
+           family={Mora},
+           familyi={M\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bf9511c733d76f5cd58052fdb5ed6d7}{%
+           family={Toledo},
+           familyi={T\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{5267206d1acb3e5b0ed254e511619c1c}
+      \strng{fullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{bibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{authorbibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{authornamehash}{5267206d1acb3e5b0ed254e511619c1c}
+      \strng{authorfullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Gamification is the use of game mechanics and strategies in nongame contexts. Currently, according to various reports, is an emerging trend in many application fields, including education. It seeks to encourage people, behavior change and improve troubleshooting. Furthermore, mobile and ubiquitous learning make possible to extend the teaching-learning beyond formal contexts such as classrooms. Moreover, while the intelligent tutoring systems have been shown to improve student achievement and enhance learning, they still have major problems in their use and need further investigation. Among them, one of the main problems found is the inappropriate use of these systems by the students, perhaps due to boredom, lack of interest or motivation and monotony, which among other factors, cause the student to behave incorrectly when interacting with these kind systems. For this reason, in this paper we present a conceptual architecture proposal for an Intelligent Tutorial System (ITS) known as EMATIC (Mathematics Education through ICT) that includes gamification elements as key components of the system.}
+      \field{day}{1}
+      \field{isbn}{978-1-4503-2896-8}
+      \field{journaltitle}{Proceedings of the {{Second International Conference}} on {{Technological Ecosystems}} for {{Enhancing Multiculturality}}}
+      \field{month}{10}
+      \field{series}{{{TEEM}} '14}
+      \field{title}{Gamification in Intelligent Tutoring Systems}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{221\bibrangedash 225}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1145/2669711.2669903
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/2669711.2669903
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/2669711.2669903
+      \endverb
+      \keyw{gamification,GBL,ITS}
+    \endentry
+    \entry{hamariDoesGamificationWork2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Juho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8094ef3cdc640cff0e290d32d85869c6}{%
+           family={Koivisto},
+           familyi={K\bibinitperiod},
+           given={Jonna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dd89d1ebd375757b8466f2a4fc7f33f}{%
+           family={Sarsa},
+           familyi={S\bibinitperiod},
+           given={Harri},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{abbbc8908f6e89738e74c6165985a45a}
+      \strng{fullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{bibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{authorbibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{authornamehash}{abbbc8908f6e89738e74c6165985a45a}
+      \strng{authorfullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper reviews peer-reviewed empirical studies on gamification. We create a framework for examining the effects of gamification by drawing from the definitions of gamification and the discussion on motivational affordances. The literature review covers results, independent variables (examined motivational affordances), dependent variables (examined psychological/behavioral outcomes from gamification), the contexts of gamification, and types of studies performed on the gamified systems. The paper examines the state of current research on the topic and points out gaps in existing literature. The review indicates that gamification provides positive effects, however, the effects are greatly dependent on the context in which the gamification is being implemented, as well as on the users using it. The findings of the review provide insight for further studies as well as for the design of gamified systems.}
+      \field{day}{1}
+      \field{eventtitle}{Proceedings of the {{Annual Hawaii International Conference}} on {{System Sciences}}}
+      \field{month}{1}
+      \field{shorttitle}{Does {{Gamification Work}}?}
+      \field{title}{Does {{Gamification Work}}? — {{A Literature Review}} of {{Empirical Studies}} on {{Gamification}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/HICSS.2014.377
+      \endverb
+    \endentry
+    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=7d05031ede84b203ae4d4d88e6a4b1b0}{%
+           family={Kampshoff},
+           familyi={K\bibinitperiod},
+           given={Marita},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3476395c2d4e3b43f49123c7cee944f7}{%
+           family={Wiepcke},
+           familyi={W\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{fullhash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{bibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{editorbibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{editornamehash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{editorfullhash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-531-18222-3 978-3-531-18984-0}
+      \field{langid}{ngerman}
+      \field{title}{Handbuch Geschlechterforschung und Fachdidaktik}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-531-18984-0
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-531-18984-0
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-531-18984-0
+      \endverb
+    \endentry
+    \entry{klabbersArchitectureGameScience2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14ab837667ced135603a37329b9fabf9}{%
+           family={Klabbers},
+           familyi={K\bibinitperiod},
+           given={Jan\bibnamedelima HG},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Inc}%
+      }
+      \strng{namehash}{14ab837667ced135603a37329b9fabf9}
+      \strng{fullhash}{14ab837667ced135603a37329b9fabf9}
+      \strng{bibnamehash}{14ab837667ced135603a37329b9fabf9}
+      \strng{authorbibnamehash}{14ab837667ced135603a37329b9fabf9}
+      \strng{authornamehash}{14ab837667ced135603a37329b9fabf9}
+      \strng{authorfullhash}{14ab837667ced135603a37329b9fabf9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background. Game studies show a high diversity of university departments that contribute to the field. They offer a cross-disciplinary image that includes a range of professions. Game science is responsive to the needs of government institutions, to industry, and to individuals vis-à-vis institutions. That pragmatism makes the field issue-oriented, representing a post-normal science approach in a context of political pressure, values in dispute, high decision stakes and high epistemological and ethical systems uncertainties. The body of knowledge is not yet in the form of a cohesive structure: a game science paradigm. Thematic diversity, theoretical and methodological pluralism, and a strong focus on the instrumentality of games are weak credentials within academia, arranged according to analytical science (normal science) principles. Moreover, within the conventional academic settings, game science faces serious limitations, due to the fragmented positioning in different departments and faculties (Klabbers, 2009). Aim. A comprehensive and coherent view on game science is needed that connects three levels of inquiry: the philosophy of science level, the science level, and the application level. Advances in physics have impacted on the philosophy of science, on modernism and postmodernism, and as a consequence, on game science. Being able to understand the current position of game science requires that we are aware of its scientific roots, and future options for research and professional practice. Method. Literature review with emphasis on theories of knowledge (epistemology) that focuses on game architecture, and the player’s experience. The analytical science approach to game science is insufficient to deal adequately with key questions societies nowadays are facing. Therefore, in addition to the analytical science, the design science approach to gaming is needed to be able to address issues that apply to various zones of practice, and related questions about social problem solving. Results. A coordinating frame-of-reference – a game science paradigm – is presented, independent of the instrumentality of games - taking into account the great variety of forms of play, and gaming applications. Conclusion. To advance game science, well-equipped game centers are needed that cover the three levels of inquiry: the philosophy of science level, the science level, and the application level. They should pursue a long term coherent research and educational policy, in line with the natural sciences tradition, offering both continuity and innovation.}
+      \field{day}{1}
+      \field{issn}{1046-8781}
+      \field{journaltitle}{Simulation \& Gaming}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{On the {{Architecture}} of {{Game Science}}}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{49}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{207\bibrangedash 245}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1177/1046878118762534
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/1046878118762534
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/1046878118762534
+      \endverb
+    \endentry
+    \entry{lindqvistWhatGenderAnyway2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f991d3c71383bc5ed5b1d63eb2838c96}{%
+           family={Lindqvist},
+           familyi={L\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf5e5678e2558da241f1e8040479feaf}{%
+           family={Sendén},
+           familyi={S\bibinitperiod},
+           given={Marie\bibnamedelima Gustafsson},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad5b77dd125506fb332900f15adbdbbf}{%
+           family={Renström},
+           familyi={R\bibinitperiod},
+           given={Emma\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{baeeb0b218942dafde90346f514f06f0}
+      \strng{fullhash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{bibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{authorbibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{authornamehash}{baeeb0b218942dafde90346f514f06f0}
+      \strng{authorfullhash}{38d9339a8ebde10a2bd69a1b51569047}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the social sciences, many quantitative research findings as well as presentations of demographics are related to participants’ gender. Most often, gender is represented by a dichotomous variable...}
+      \field{day}{2}
+      \field{issn}{1941-9899}
+      \field{journaltitle}{Psychology \& Sexuality}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shorttitle}{What Is Gender, Anyway}
+      \field{title}{What Is Gender, Anyway: A Review of the Options for Operationalising Gender}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/19419899.2020.1729844
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/19419899.2020.1729844
+      \endverb
+    \endentry
+    \entry{oliveiraTailoredGamificationEducation2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=b0f73f05f9ab7e746b38ec853880e2e8}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Wilk},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Juho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3a6ddf32b96c99874c9f76d86efa2cf}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae7ac16495aa88501fa92ce7aff1dcb0}{%
+           family={Toda},
+           familyi={T\bibinitperiod},
+           given={Armando\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f105dafcb527a1bda80744570b7351a}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Luiz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b95ca6bd3a8631408506d80637d118eb}{%
+           family={Palomino},
+           familyi={P\bibinitperiod},
+           given={Paula\bibnamedelima T.},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddbd4420293c6679bec91464f2e01b87}{%
+           family={Isotani},
+           familyi={I\bibinitperiod},
+           given={Seiji},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8ee74e66ecc5e97e44821324f5baa99c}
+      \strng{fullhash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{bibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{authorbibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{authornamehash}{8ee74e66ecc5e97e44821324f5baa99c}
+      \strng{authorfullhash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Gamification has been widely used to design better educational systems aiming to increase students’ concentration, motivation, engagement, flow experience, and others positive experiences. With advances in research on gamification in education, over the past few years, many studies have highlighted the need to tailor the gamification design properties to match individual students’ needs, characteristics and preferences. Thus, different studies have been conducted to personalize the gamification in education. However, the results are still contradictory and need to be better understood to advance this field. To provide a complete understanding of this research domain, we conducted a systematic literature review to summarize the results and discussions on studies that cover the field of tailored gamified education. Following a systematic process, we analysed 2108 studies and identified 19 studies to answer our research questions. The results indicate that most of the studies only consider students’ gamer types to tailor the systems, and most of the experiments do not provide sufficient statistical evidence, especially regarding learning performance using tailored gamified systems. Based on the results, we also provided an agenda with different challenges, opportunities, and research directions to improve the literature on tailored gamification in education. Our study contributes to the field of gamification design in education.}
+      \field{day}{1}
+      \field{issn}{1573-7608}
+      \field{journaltitle}{Education and Information Technologies}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Educ Inf Technol}
+      \field{shorttitle}{Tailored Gamification in Education}
+      \field{title}{Tailored Gamification in Education: {{A}} Literature Review and Future Agenda}
+      \field{urlday}{4}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{28}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{373\bibrangedash 406}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1007/s10639-022-11122-4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10639-022-11122-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10639-022-11122-4
+      \endverb
+      \keyw{Adaptive learning,Game-based learning,Gamification,Literature review,Tailoring}
+    \endentry
+    \entry{psotkaIntelligentTutoringSystems1988}{book}{}
+      \name{editor}{3}{}{%
+        {{un=0,uniquepart=base,hash=6133977c3b6f6d8321f75164fe9fef08}{%
+           family={Psotka},
+           familyi={P\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45032f3a1188fc9709b8fba2ff6b233c}{%
+           family={Massey},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi Dan},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5849338698ade1517b66dadc848da9ca}{%
+           family={Mutter},
+           familyi={M\bibinitperiod},
+           given={Sharon\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Hillsdale, NJ, US}%
+      }
+      \list{publisher}{1}{%
+        {Lawrence Erlbaum Associates, Inc}%
+      }
+      \strng{namehash}{e0b6abc013fcf44ac78ef39b847e6284}
+      \strng{fullhash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{bibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{editorbibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{editornamehash}{e0b6abc013fcf44ac78ef39b847e6284}
+      \strng{editorfullhash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The book is divided into four roughly equal sections dealing with knowledge acquisition, intelligent instructional design, knowledge representation, and intelligent tutoring architectures. Each section has its own preface, in which we summarize the section, draw salient relations to the other sections, and highlight lessons learned. (PsycINFO Database Record (c) 2016 APA, all rights reserved)}
+      \field{editortype}{redactor}
+      \field{isbn}{978-0-8058-0023-4 978-0-8058-0192-7}
+      \field{pagetotal}{xxii, 552}
+      \field{series}{Intelligent Tutoring Systems: {{Lessons}} Learned}
+      \field{shorttitle}{Intelligent Tutoring Systems}
+      \field{title}{Intelligent Tutoring Systems: {{Lessons}} Learned}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{pages}{xxii\bibrangessep 552}
+      \range{pages}{2}
+      \keyw{Artificial Intelligence,Computer Assisted Instruction}
+    \endentry
+    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
+           family={Sailer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb0bec3339b2493a085309d5f6cd8d4f}{%
+           family={Homner},
+           familyi={H\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{fullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{bibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{authorbibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{authornamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{authorfullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This meta-analysis was conducted to systematically synthesize research findings on effects of gamification on cognitive, motivational, and behavioral learning outcomes. Results from random effects models showed significant small effects of gamification on cognitive (g\,=\,.49, 95\% CI [0.30, 0.69], k\,=\,19, N\,=\,1686), motivational (g\,=\,.36, 95\% CI [0.18, 0.54], k\,=\,16, N\,=\,2246), and behavioral learning outcomes (g\,=\,.25, 95\% CI [0.04, 0.46], k\,=\,9, N\,=\,951). Whereas the effect of gamification on cognitive learning outcomes was stable in a subsplit analysis of studies employing high methodological rigor, effects on motivational and behavioral outcomes were less stable. Given the heterogeneity of effect sizes, moderator analyses were conducted to examine inclusion of game fiction, social interaction, learning arrangement of the comparison group, as well as situational, contextual, and methodological moderators, namely, period of time, research context, randomization, design, and instruments. Inclusion of game fiction and social interaction were significant moderators of the effect of gamification on behavioral learning outcomes. Inclusion of game fiction and combining competition with collaboration were particularly effective within gamification for fostering behavioral learning outcomes. Results of the subsplit analysis indicated that effects of competition augmented with collaboration might also be valid for motivational learning outcomes. The results suggest that gamification as it is currently operationalized in empirical studies is an effective method for instruction, even though factors contributing to successful gamification are still somewhat unresolved, especially for cognitive learning outcomes.}
+      \field{day}{1}
+      \field{issn}{1573-336X}
+      \field{journaltitle}{Educational Psychology Review}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Educ Psychol Rev}
+      \field{shorttitle}{The {{Gamification}} of {{Learning}}}
+      \field{title}{The {{Gamification}} of {{Learning}}: A {{Meta-analysis}}}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{77\bibrangedash 112}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1007/s10648-019-09498-w
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10648-019-09498-w
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10648-019-09498-w
+      \endverb
+      \keyw{Behavior,Cognition,Gamification,Gamified learning,Learning,Meta-analysis,Motivation}
+    \endentry
+    \entry{santosDoesGenderStereotype2023}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=654b7b2fdc6640c69347e1138d42eed5}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Jário},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eed228afa2413b4fb070e9959479d4fa}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Ester},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48152db356bfcb853594ace465322f3e}{%
+           family={Benevides},
+           familyi={B\bibinitperiod},
+           given={Kamila},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41c9d4a398addf684ef0e885633e1e6b}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Kelly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7515e687513d78876eef5eba53f7bb2a}{%
+           family={Nascimento},
+           familyi={N\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc8e18d16ab20a41ced7bf89374203ec}{%
+           family={Bittencourt},
+           familyi={B\bibinitperiod},
+           given={Ig},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa8ec03820e84e3d46028bc8feeec839}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f3c23b054f9e4f10bb1183cc7228e94}{%
+           family={Fernandes},
+           familyi={F\bibinitperiod},
+           given={Sheyla},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddbd4420293c6679bec91464f2e01b87}{%
+           family={Isotani},
+           familyi={I\bibinitperiod},
+           given={Seiji},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c6654b8bf7f50306324814902956858f}
+      \strng{fullhash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{bibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{authorbibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{authornamehash}{c6654b8bf7f50306324814902956858f}
+      \strng{authorfullhash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Studies in the literature reported several positive benefits provided by the use of technology in online education, especially in the gamified tutoring system. However, despite the benefits of intelligent tutoring systems, recent studies indicate the presence of a gender gap not considered in the construction of the attributes present in the gamified tutoring system. To investigate this impact by observing users’ behavioral changes in gamified online educational environments, the present study aims to investigate the effects of the stereotype threats using a quantitative experiment with a Factorial Design in three gamified environments (stereotypical male version, stereotypical female version and control environment). Was conducted an experiment with 150 individuals (high school and undergraduate students) without considering age, ethnicity, or social class. The results show that the participants allocated to the male learning environment present an increase in aggressiveness level. Furthermore, the results also show the stereotypical male and female learning environments increased the participants’ performance level. Another finding was that the threatening condition provided a significant increase in the participants’ flow level among males subjected to a threatening condition, which did not manifest in the case of females. In addition, this study also observed the effect of the stereotype threat on men and women in the threatening condition by division in the 34-year age group, resulting in a significant increase in the level of flow among men. This study showed previous results show that the gamified environment influences psychological variables as aggressiveness, intellectual performance, and flow level, they raise questions about the direction of these changes and the impact they may have on users’ usability and performance in these systems.}
+      \field{day}{1}
+      \field{issn}{1573-7608}
+      \field{journaltitle}{Education and Information Technologies}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Educ Inf Technol}
+      \field{shorttitle}{Does Gender Stereotype Threat Affects the Levels of Aggressiveness, Learning and Flow in Gamified Learning Environments?}
+      \field{title}{Does Gender Stereotype Threat Affects the Levels of Aggressiveness, Learning and Flow in Gamified Learning Environments?: {{An}} Experimental Study}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{28}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1637\bibrangedash 1662}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/s10639-022-11220-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10639-022-11220-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10639-022-11220-3
+      \endverb
+      \keyw{Aggressiveness,Gender stereotype threat,Intelligent tutoring systems,Stereotype threat,Stereotyped educational environments}
+    \endentry
+    \entry{spencerStereotypeThreatWomen1999}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d55215f7710d8cba4c7082a40f6d47c1}{%
+           family={Spencer},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56d7da85520a4d4c42bdcf376a3a3377}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Claude\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8588e4194817563332bd4635e1de8ed8}{%
+           family={Quinn},
+           familyi={Q\bibinitperiod},
+           given={Diane\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6da3356f94aff142c18004de4933e4de}
+      \strng{fullhash}{7e31789cdff9d3d80306550e801964c0}
+      \strng{bibnamehash}{7e31789cdff9d3d80306550e801964c0}
+      \strng{authorbibnamehash}{7e31789cdff9d3d80306550e801964c0}
+      \strng{authornamehash}{6da3356f94aff142c18004de4933e4de}
+      \strng{authorfullhash}{7e31789cdff9d3d80306550e801964c0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When women perform math, unlike men, they risk being judged by the negative stereotype that women have weaker math ability. We call this predicamentstereotype threatand hypothesize that the apprehension it causes may disrupt women's math performance. In Study 1 we demonstrated that the pattern observed in the literature that women underperform on difficult (but not easy) math tests was observed among a highly selected sample of men and women. In Study 2 we demonstrated that this difference in performance could be eliminated when we lowered stereotype threat by describing the test as not producing gender differences. However, when the test was described as producing gender differences and stereotype threat was high, women performed substantially worse than equally qualified men did. A third experiment replicated this finding with a less highly selected population and explored the mediation of the effect. The implication that stereotype threat may underlie gender differences in advanced math performance, even those that have been attributed to genetically rooted sex differences, is discussed.}
+      \field{day}{1}
+      \field{issn}{0022-1031}
+      \field{journaltitle}{Journal of Experimental Social Psychology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Journal of Experimental Social Psychology}
+      \field{title}{Stereotype {{Threat}} and {{Women}}'s {{Math Performance}}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{35}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4\bibrangedash 28}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1006/jesp.1998.1373
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022103198913737
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022103198913737
+      \endverb
+    \endentry
+    \entry{werbachWinHowGame2012}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=23013e615d774419d7e40f1e14594e57}{%
+           family={Werbach},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38e933ab6b32b05a2a8d54abe9c6303f}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7558792aae9c0f366a73672471be5579}
+      \strng{fullhash}{7558792aae9c0f366a73672471be5579}
+      \strng{bibnamehash}{7558792aae9c0f366a73672471be5579}
+      \strng{authorbibnamehash}{7558792aae9c0f366a73672471be5579}
+      \strng{authornamehash}{7558792aae9c0f366a73672471be5579}
+      \strng{authorfullhash}{7558792aae9c0f366a73672471be5579}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Millions play Farmville, Scrabble, and countless other games, generating billions in sales each year. The careful and skillful construction of these games is built on decades of research into human motivation and psychology: A well-designed game goes right to the motivational heart of the human psyche. In For the Win, Kevin Werbach and Dan Hunter argue persuasively that game-makers need not be the only ones benefiting from game design. Werbach and Hunter, lawyers and World of Warcraft players, created the world's first course on gamification at the Wharton School. In their book, they reveal how game thinking--addressing problems like a game designer--can motivate employees and customers and create engaging experiences that can transform your business. For the Win reveals how a wide range of companies are successfully using game thinking. It also offers an explanation of when gamifying makes the most sense and a 6-step framework for using games for marketing, productivity enhancement, innovation, employee motivation, customer engagement, and more.}
+      \field{day}{1}
+      \field{month}{1}
+      \field{shorttitle}{For the {{Win}}}
+      \field{title}{For the {{Win}}: {{How Game Thinking}} Can {{Revolutionize}} Your {{Business}}}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=55be320e8437b2dedbd66a2f047806af}{%
+           family={Woolf},
+           familyi={W\bibinitperiod},
+           given={Beverly\bibnamedelima Park},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=979b0c7ad49822e0541710ce55cdb297}{%
+           family={Arroyo},
+           familyi={A\bibinitperiod},
+           given={Ivon},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55ce8a11ba5c4de991df997ca57511ac}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38009f5678c1d76d1cabecfe51874c30}{%
+           family={Burleson},
+           familyi={B\bibinitperiod},
+           given={Winslow},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb298bd7d36087bac892a32069455f0e}{%
+           family={Muldner},
+           familyi={M\bibinitperiod},
+           given={Kasia},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=02158ea5cfb00ded8a3c96a6c8be84ba}{%
+           family={Nkambou},
+           familyi={N\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cc7f0002eda523eddb70156004b902e3}{%
+           family={Bourdeau},
+           familyi={B\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a1441e7fe79c856e39cab232737002ac}{%
+           family={Mizoguchi},
+           familyi={M\bibinitperiod},
+           given={Riichiro},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5b34cfe5538e218657b33b24b1bf6627}
+      \strng{fullhash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{bibnamehash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{authorbibnamehash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{authornamehash}{5b34cfe5538e218657b33b24b1bf6627}
+      \strng{authorfullhash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
+      \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This chapter describes the automatic recognition of and response to human emotion within intelligent tutors. Tutors can recognize student emotion with more than 80\%accuracy compared to student self-reports, using wireless sensors that provide data about posture, movement, grip tension, facially expressed mental states and arousal. Pedagogical agents have been used that provide emotional or motivational feedback. Students using such agents increased their math value, self-concept and mastery orientation, with females reporting more confidence and less frustration. Low-achieving students—one third of whom have learning disabilities—report higher affective needs than their higher-achieving peers. After interacting with affective pedagogical agents, low-achieving students improved their affective outcomes and reported reduced frustration and anxiety.}
+      \field{booktitle}{Advances in {{Intelligent Tutoring Systems}}}
+      \field{isbn}{978-3-642-14363-2}
+      \field{langid}{english}
+      \field{shorttitle}{Affective {{Tutors}}}
+      \field{title}{Affective {{Tutors}}: {{Automatic Detection}} of and {{Response}} to {{Student Emotion}}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{207\bibrangedash 227}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/978-3-642-14363-2_10
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-14363-2_10
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-14363-2_10
+      \endverb
+      \keyw{Automatic Detection,Intelligent Tutor System,Learn Disability,Pedagogical Agent,Skin Conductance}
+    \endentry
+    \entry{zainuddinImpactGamificationLearning2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=fe6d5145f9545fdec9efee3b62b23372}{%
+           family={Zainuddin},
+           familyi={Z\bibinitperiod},
+           given={Zamzami},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65fe29b1bd12cc75365e7f2201fbd587}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Samuel\bibnamedelimb Kai\bibnamedelima Wah},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c82f2cd884d852059632e62c7c5c5cd}{%
+           family={Shujahat},
+           familyi={S\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc6d525396be87266f7e5a6186428f7f}{%
+           family={Perera},
+           familyi={P\bibinitperiod},
+           given={Corinne\bibnamedelima Jacqueline},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c2412bf20db441f56520cdc1ea9854e}
+      \strng{fullhash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{bibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{authorbibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{authornamehash}{6c2412bf20db441f56520cdc1ea9854e}
+      \strng{authorfullhash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The adoption of gamification in learning and instruction is perceived to have mass appeal among the learners in stimulating motivation, learner engagement and social influence. This study is an attempt to present a summary of the empirical findings of state-of-the-art literature in the emerging field of gamification within the educational domain of learning and instruction. It reveals the latest scientific research evidence on the emerging trends of learning technologies and gamification plugins along with extending the possibilities for future research directions in revolutionizing learning and instruction through gamification. A systematic literature review examined the thematic and content analysis of 46 empirical research papers published in the Web of Science database between 2016 and 2019. The review critically appraised and evaluated the various contradictions found in the literature along with setting the stage for the significance of future research studies to re-examine the theoretical foundations of gamification, its methodological approaches, theoretical models, gaming platforms and apps, game mechanics and learning outcomes. This study not only attempts to shed light on the novelty of gamified learning perceived as a game-changer and key enabler of motivation, engagement, and user experience but also sought to outline the key challenges and barriers of gamification.}
+      \field{day}{1}
+      \field{issn}{1747-938X}
+      \field{journaltitle}{Educational Research Review}
+      \field{month}{6}
+      \field{shortjournal}{Educational Research Review}
+      \field{shorttitle}{The Impact of Gamification on Learning and Instruction}
+      \field{title}{The Impact of Gamification on Learning and Instruction: {{A}} Systematic Review of Empirical Evidence}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{30}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{100326}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.edurev.2020.100326
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1747938X19301058
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1747938X19301058
+      \endverb
+      \keyw{Empirical evidence,Engagement,Gamification,Motivation,Social influence,Systematic literature review}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{albuquerqueDoesGenderStereotype2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6dc2526f85f7683c3dc6b160f892ab62}{%
+           family={Albuquerque},
+           familyi={A\bibinitperiod},
+           given={Josmario},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c41b60155658fe5f9fc81b63037d6ba6}{%
+           family={Bittencourt},
+           familyi={B\bibinitperiod},
+           given={Ig\bibnamedelima I.},
+           giveni={I\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed5a6ca34e64bc267aa9ae851622d93b}{%
+           family={Coelho},
+           familyi={C\bibinitperiod},
+           given={Jorge\bibnamedelima A.P.M.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e1296281badd179de921dca74c260ac}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Alan\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fccd19708106deb87bea98958327b5a6}
+      \strng{fullhash}{516d1695909bb070534f2cbd613277f0}
+      \strng{bibnamehash}{516d1695909bb070534f2cbd613277f0}
+      \strng{authorbibnamehash}{516d1695909bb070534f2cbd613277f0}
+      \strng{authornamehash}{fccd19708106deb87bea98958327b5a6}
+      \strng{authorfullhash}{516d1695909bb070534f2cbd613277f0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shortjournal}{Computers \& Education}
+      \field{shorttitle}{Does Gender Stereotype Threat in Gamified Educational Environments Cause Anxiety?}
+      \field{title}{Does Gender Stereotype Threat in Gamified Educational Environments Cause Anxiety? {{An}} Experimental Study}
+      \field{urlday}{29}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{115}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{161\bibrangedash 170}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2017.08.005
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301914
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301914
+      \endverb
+    \endentry
+    \entry{almeidaSystematicMappingNegative2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a9f652e334238b77c10803164ddf99f8}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Cláuvin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a78c08dd05c994fc2712f82578d7d6f}{%
+           family={Kalinowski},
+           familyi={K\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7510dc6da8f70eb7d723bb107a4e443}{%
+           family={Feijó},
+           familyi={F\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
+      \strng{fullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{bibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{authorbibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{authornamehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
+      \strng{authorfullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While most research shows positive effects of gamification, the focus on its adverse effects is considerably smaller. Having this in mind, we conducted a systematic mapping study of the negative effects of game design elements on education/learning systems. The study revealed 77 papers reporting undesired effects of game design elements. We found that badges, competitions, Ieaderboards, and points are the game design elements most often reported as causing negative effects. The most cited negative effects were lack of effect, lack of understanding, irrelevance, motivational issues, and worsened performance. The ethical issue of cheating was also often reported. As part of our results, we map the relations between game design elements and the negative effects that they may cause. Our mapping study can help gamification designers make more informed decisions when selecting game design elements to be included in education/learning systems, raising awareness on potential negative effects.}
+      \field{eventtitle}{2021 47th {{Euromicro Conference}} on {{Software Engineering}} and {{Advanced Applications}} ({{SEAA}})}
+      \field{journaltitle}{2021 47th {{Euromicro Conference}} on {{Software Engineering}} and {{Advanced Applications}} ({{SEAA}})}
+      \field{month}{9}
+      \field{title}{A {{Systematic Mapping}} of {{Negative Effects}} of {{Gamification}} in {{Education}}/{{Learning Systems}}}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{17\bibrangedash 24}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/SEAA53835.2021.00011
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/9582596
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/9582596
+      \endverb
+      \keyw{education,Ethics,Games,gamification,learning,negative effects,snowballing,Software engineering,systematic mapping,Systematics}
+    \endentry
+    \entry{cheryanClassroomsMatterDesign2011}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9f74dee8600fd3a4a219714b3827d5f6}{%
+           family={Cheryan},
+           familyi={C\bibinitperiod},
+           given={Sapna},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6b9311fe7e080600add6006d666efc}{%
+           family={Meltzoff},
+           familyi={M\bibinitperiod},
+           given={Andrew\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fe2d69b937344789c94b919d6ccf5e0}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Saenam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2604c34a7e6f5851b6b1be7196bf5009}
+      \strng{fullhash}{8729a98a861d5b492da8aa248286a293}
+      \strng{bibnamehash}{8729a98a861d5b492da8aa248286a293}
+      \strng{authorbibnamehash}{8729a98a861d5b492da8aa248286a293}
+      \strng{authornamehash}{2604c34a7e6f5851b6b1be7196bf5009}
+      \strng{authorfullhash}{8729a98a861d5b492da8aa248286a293}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{2}
+      \field{shortjournal}{Computers \& Education}
+      \field{shorttitle}{Classrooms Matter}
+      \field{title}{Classrooms Matter: {{The}} Design of Virtual Classrooms Influences Gender Disparities in Computer Science Classes}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{57}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1825\bibrangedash 1835}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2011.02.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S036013151100042X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S036013151100042X
+      \endverb
+    \endentry
+    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6b3eb68e514865c87d16278004a73f6}{%
+           family={Christy},
+           familyi={C\bibinitperiod},
+           given={Katheryn\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a73b9b7d46da66580e8865ab17a34a9}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Jesse},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{219220391049affce55f38493007cfdb}
+      \strng{fullhash}{219220391049affce55f38493007cfdb}
+      \strng{bibnamehash}{219220391049affce55f38493007cfdb}
+      \strng{authorbibnamehash}{219220391049affce55f38493007cfdb}
+      \strng{authornamehash}{219220391049affce55f38493007cfdb}
+      \strng{authorfullhash}{219220391049affce55f38493007cfdb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Gamification includes the use of gaming features, such as points or leaderboards, in non-gaming contexts, and is a frequently-discussed trend in education. One way of gamifying the classroom is to introduce leaderboards. Leaderboards allow students to see how they are performing relative to others in the same class. Little empirical research has investigated the impact of leaderboards on academic performance. In this study, 80 female undergraduates took a math test in a virtual representation of a classroom after being exposed to one of three leaderboard conditions: a leaderboard where men held the majority of the top positions, a leaderboard where women held the majority of top positions, and a no leaderboard condition. Participants in the female majority leaderboard condition performed more poorly on the math test than those in the male leaderboard condition, yet demonstrated a higher level of academic identification than those in the male and control conditions. The authors conclude with a discussion of the implications that this study's findings may have for the use of leaderboards within educational environments.}
+      \field{day}{1}
+      \field{issn}{0360-1315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{9}
+      \field{shortjournal}{Computers \& Education}
+      \field{shorttitle}{Leaderboards in a Virtual Classroom}
+      \field{title}{Leaderboards in a Virtual Classroom: {{A}} Test of Stereotype Threat and Social Comparison Explanations for Women's Math Performance}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{78}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{66\bibrangedash 77}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2014.05.005
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131514001195
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131514001195
+      \endverb
+      \keyw{Distance education and telelearning,Gender studies,Human–computer interface,Interactive learning environments,Teaching/learning strategies}
+    \endentry
+    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f3f534efbb82d811bec48937cff6ef83}{%
+           family={Dehghanzadeh},
+           familyi={D\bibinitperiod},
+           given={Hojjat},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0db8b159a61d5fa948ea8e56b6d5aac8}{%
+           family={Farrokhnia},
+           familyi={F\bibinitperiod},
+           given={Mohammadreza},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86a657b3c88496863c1fe0a39751ba43}{%
+           family={Dehghanzadeh},
+           familyi={D\bibinitperiod},
+           given={Hossein},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59f474346689095f0069db9c10562aa5}{%
+           family={Taghipour},
+           familyi={T\bibinitperiod},
+           given={Kiumars},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae2c62bcf1b8e1ef2763fbb343e03f41}{%
+           family={Noroozi},
+           familyi={N\bibinitperiod},
+           given={Omid},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
+      \strng{fullhash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{bibnamehash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{authorbibnamehash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{authornamehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
+      \strng{authorfullhash}{8f49a1e43df9356da04450d15c57243d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract Using gamification to support learning in K‐12 education has received much attention from scholars in recent years. However, there is still a lack of comprehensive understanding of how gamification should be used to effectively enhance the learning experiences of K‐12 students. The purpose of this review was to synthesize research findings on the use of gamification in K‐12 education and to propose an evidence‐informed framework. This framework will guide teachers and scholars in developing gamified learning environments that are effective in improving K‐12 students' learning. In this regard, 54 empirical studies (out of 907 peer‐reviewed articles), dating from 2008 through 2021, were reviewed using the Preferred Reporting Items for Systematic Reviews and Meta‐Analysis (PRISMA) guideline. The findings were systematically categorized into four essential dimensions of learning environments inspired by Biggs' 3P teaching and learning model, ie, ‘individual factors’, ‘environmental factors’, ‘learning process’ and ‘learning outcome’. The review yielded rich findings concerning each dimension, providing K‐12 teachers and scholars with a comprehensive overview of research findings on using gamification for educational purposes. Meanwhile, the findings indicated the lack of empirical studies regarding constructively aligned gamified courses, in which the different dimensions of the adopted framework are implemented and evaluated coherently. The paper concludes by presenting several suggestions and directions for future research to address this shortcoming. Practitioner notes What is already known about this topic Gamification has demonstrated the potential to enhance learning outcomes in K‐12 education. There are instances where the findings suggest neutral or negative effects of gamification on students' learning outcomes. There is a lack of a comprehensive overview of empirical findings concerning the effectiveness of gamification in K‐12 education. What this paper adds The study highlights the potential of gamification in enhancing cognitive, affective and behavioural learning outcomes in K‐12 education, mainly by increasing motivation, engagement and competitiveness. The study provides a comprehensive overview of empirical studies on using gamification in K‐12 education. The study proposes an evidence‐informed framework that can serve as a blueprint for developing constructively aligned gamified learning environments for K‐12 education. Implications for practice and/or policy The study presents several up‐to‐date and empirically rooted calls for future research on using gamification in K‐12 education. The study makes evidence‐based recommendations for the effective integration of gamification in K‐12 education.}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Brit J Educational Tech}
+      \field{shorttitle}{Using Gamification to Support Learning in {{K}}‐12 Education}
+      \field{title}{Using Gamification to Support Learning in {{K}}‐12 Education: {{A}} Systematic Literature Review}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{55}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{34\bibrangedash 70}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1111/bjet.13335
+      \endverb
+      \verb{urlraw}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13335
+      \endverb
+      \verb{url}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13335
+      \endverb
+    \endentry
+    \entry{deterdingGameDesignElements2011}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
+           family={Deterding},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77b7f2834ada9e806200ca66ed3767a4}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6693a49677bd64d91668dccd98fe0d4e}{%
+           family={Khaled},
+           familyi={K\bibinitperiod},
+           given={Rilla},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8dcd6b16d5cfe0d1191e77e5f709c16}{%
+           family={Nacke},
+           familyi={N\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{fullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{bibnamehash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authorbibnamehash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authornamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{authorfullhash}{5900b306a627b766e3160b1c23b117f2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent years have seen a rapid proliferation of mass-market consumer software that takes inspiration from video games. Usually summarized as “gamification”, this trend connects to a sizeable body of existing concepts and research in humancomputer interaction and game studies, such as serious games, pervasive games, alternate reality games, or playful design. However, it is not clear how “gamification” relates to these, whether it denotes a novel phenomenon, and how to define it. Thus, in this paper we investigate “gamification” and the historical origins of the term in relation to precursors and similar concepts. It is suggested that “gamified” applications provide insight into novel, gameful phenomena complementary to playful phenomena. Based on our research, we propose a definition of “gamification” as the use of game design elements in non-game contexts.}
+      \field{langid}{english}
+      \field{title}{From Game Design Elements to Gamefulness: Defining "Gamification"}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{freedmanLinksWhatIntelligent2000}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fd4fa29607be82c70b5db1a51823ad06}{%
+           family={Freedman},
+           familyi={F\bibinitperiod},
+           given={Reva},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2405ce6522a466d56d52e5075b6016a}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Syed\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1111dbf7f663442b81d8e441c9ccc09b}{%
+           family={McRoy},
+           familyi={M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d14849cff58dd9538637bf0a5e2531f8}
+      \strng{fullhash}{82fbd23a067aaa19791c226400188168}
+      \strng{bibnamehash}{82fbd23a067aaa19791c226400188168}
+      \strng{authorbibnamehash}{82fbd23a067aaa19791c226400188168}
+      \strng{authornamehash}{d14849cff58dd9538637bf0a5e2531f8}
+      \strng{authorfullhash}{82fbd23a067aaa19791c226400188168}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{1}
+      \field{issn}{1523-8822}
+      \field{journaltitle}{intelligence}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shortjournal}{Intelligence}
+      \field{shorttitle}{Links}
+      \field{title}{Links: What Is an Intelligent Tutoring System?}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{11}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{15\bibrangedash 16}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1145/350752.350756
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/350752.350756
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/350752.350756
+      \endverb
+    \endentry
+    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c286a081d07226242ff62579001b5dc0}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Carina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0b73aa0f303a3b46937259597c111d8}{%
+           family={Mora},
+           familyi={M\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bf9511c733d76f5cd58052fdb5ed6d7}{%
+           family={Toledo},
+           familyi={T\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{5267206d1acb3e5b0ed254e511619c1c}
+      \strng{fullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{bibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{authorbibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{authornamehash}{5267206d1acb3e5b0ed254e511619c1c}
+      \strng{authorfullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Gamification is the use of game mechanics and strategies in nongame contexts. Currently, according to various reports, is an emerging trend in many application fields, including education. It seeks to encourage people, behavior change and improve troubleshooting. Furthermore, mobile and ubiquitous learning make possible to extend the teaching-learning beyond formal contexts such as classrooms. Moreover, while the intelligent tutoring systems have been shown to improve student achievement and enhance learning, they still have major problems in their use and need further investigation. Among them, one of the main problems found is the inappropriate use of these systems by the students, perhaps due to boredom, lack of interest or motivation and monotony, which among other factors, cause the student to behave incorrectly when interacting with these kind systems. For this reason, in this paper we present a conceptual architecture proposal for an Intelligent Tutorial System (ITS) known as EMATIC (Mathematics Education through ICT) that includes gamification elements as key components of the system.}
+      \field{day}{1}
+      \field{isbn}{978-1-4503-2896-8}
+      \field{journaltitle}{Proceedings of the {{Second International Conference}} on {{Technological Ecosystems}} for {{Enhancing Multiculturality}}}
+      \field{month}{10}
+      \field{series}{{{TEEM}} '14}
+      \field{title}{Gamification in Intelligent Tutoring Systems}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{221\bibrangedash 225}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1145/2669711.2669903
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/2669711.2669903
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/2669711.2669903
+      \endverb
+      \keyw{gamification,GBL,ITS}
+    \endentry
+    \entry{hamariDoesGamificationWork2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Juho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8094ef3cdc640cff0e290d32d85869c6}{%
+           family={Koivisto},
+           familyi={K\bibinitperiod},
+           given={Jonna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dd89d1ebd375757b8466f2a4fc7f33f}{%
+           family={Sarsa},
+           familyi={S\bibinitperiod},
+           given={Harri},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{abbbc8908f6e89738e74c6165985a45a}
+      \strng{fullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{bibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{authorbibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{authornamehash}{abbbc8908f6e89738e74c6165985a45a}
+      \strng{authorfullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper reviews peer-reviewed empirical studies on gamification. We create a framework for examining the effects of gamification by drawing from the definitions of gamification and the discussion on motivational affordances. The literature review covers results, independent variables (examined motivational affordances), dependent variables (examined psychological/behavioral outcomes from gamification), the contexts of gamification, and types of studies performed on the gamified systems. The paper examines the state of current research on the topic and points out gaps in existing literature. The review indicates that gamification provides positive effects, however, the effects are greatly dependent on the context in which the gamification is being implemented, as well as on the users using it. The findings of the review provide insight for further studies as well as for the design of gamified systems.}
+      \field{day}{1}
+      \field{eventtitle}{Proceedings of the {{Annual Hawaii International Conference}} on {{System Sciences}}}
+      \field{month}{1}
+      \field{shorttitle}{Does {{Gamification Work}}?}
+      \field{title}{Does {{Gamification Work}}? — {{A Literature Review}} of {{Empirical Studies}} on {{Gamification}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1109/HICSS.2014.377
+      \endverb
+    \endentry
+    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=7d05031ede84b203ae4d4d88e6a4b1b0}{%
+           family={Kampshoff},
+           familyi={K\bibinitperiod},
+           given={Marita},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3476395c2d4e3b43f49123c7cee944f7}{%
+           family={Wiepcke},
+           familyi={W\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{fullhash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{bibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{editorbibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{editornamehash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{editorfullhash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-531-18222-3 978-3-531-18984-0}
+      \field{langid}{ngerman}
+      \field{title}{Handbuch Geschlechterforschung und Fachdidaktik}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-531-18984-0
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-531-18984-0
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-531-18984-0
+      \endverb
+    \endentry
+    \entry{klabbersArchitectureGameScience2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14ab837667ced135603a37329b9fabf9}{%
+           family={Klabbers},
+           familyi={K\bibinitperiod},
+           given={Jan\bibnamedelima HG},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Inc}%
+      }
+      \strng{namehash}{14ab837667ced135603a37329b9fabf9}
+      \strng{fullhash}{14ab837667ced135603a37329b9fabf9}
+      \strng{bibnamehash}{14ab837667ced135603a37329b9fabf9}
+      \strng{authorbibnamehash}{14ab837667ced135603a37329b9fabf9}
+      \strng{authornamehash}{14ab837667ced135603a37329b9fabf9}
+      \strng{authorfullhash}{14ab837667ced135603a37329b9fabf9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background. Game studies show a high diversity of university departments that contribute to the field. They offer a cross-disciplinary image that includes a range of professions. Game science is responsive to the needs of government institutions, to industry, and to individuals vis-à-vis institutions. That pragmatism makes the field issue-oriented, representing a post-normal science approach in a context of political pressure, values in dispute, high decision stakes and high epistemological and ethical systems uncertainties. The body of knowledge is not yet in the form of a cohesive structure: a game science paradigm. Thematic diversity, theoretical and methodological pluralism, and a strong focus on the instrumentality of games are weak credentials within academia, arranged according to analytical science (normal science) principles. Moreover, within the conventional academic settings, game science faces serious limitations, due to the fragmented positioning in different departments and faculties (Klabbers, 2009). Aim. A comprehensive and coherent view on game science is needed that connects three levels of inquiry: the philosophy of science level, the science level, and the application level. Advances in physics have impacted on the philosophy of science, on modernism and postmodernism, and as a consequence, on game science. Being able to understand the current position of game science requires that we are aware of its scientific roots, and future options for research and professional practice. Method. Literature review with emphasis on theories of knowledge (epistemology) that focuses on game architecture, and the player’s experience. The analytical science approach to game science is insufficient to deal adequately with key questions societies nowadays are facing. Therefore, in addition to the analytical science, the design science approach to gaming is needed to be able to address issues that apply to various zones of practice, and related questions about social problem solving. Results. A coordinating frame-of-reference – a game science paradigm – is presented, independent of the instrumentality of games - taking into account the great variety of forms of play, and gaming applications. Conclusion. To advance game science, well-equipped game centers are needed that cover the three levels of inquiry: the philosophy of science level, the science level, and the application level. They should pursue a long term coherent research and educational policy, in line with the natural sciences tradition, offering both continuity and innovation.}
+      \field{day}{1}
+      \field{issn}{1046-8781}
+      \field{journaltitle}{Simulation \& Gaming}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{On the {{Architecture}} of {{Game Science}}}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{49}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{207\bibrangedash 245}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1177/1046878118762534
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/1046878118762534
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/1046878118762534
+      \endverb
+    \endentry
+    \entry{lindqvistWhatGenderAnyway2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f991d3c71383bc5ed5b1d63eb2838c96}{%
+           family={Lindqvist},
+           familyi={L\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf5e5678e2558da241f1e8040479feaf}{%
+           family={Sendén},
+           familyi={S\bibinitperiod},
+           given={Marie\bibnamedelima Gustafsson},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad5b77dd125506fb332900f15adbdbbf}{%
+           family={Renström},
+           familyi={R\bibinitperiod},
+           given={Emma\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{baeeb0b218942dafde90346f514f06f0}
+      \strng{fullhash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{bibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{authorbibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{authornamehash}{baeeb0b218942dafde90346f514f06f0}
+      \strng{authorfullhash}{38d9339a8ebde10a2bd69a1b51569047}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the social sciences, many quantitative research findings as well as presentations of demographics are related to participants’ gender. Most often, gender is represented by a dichotomous variable...}
+      \field{day}{2}
+      \field{issn}{1941-9899}
+      \field{journaltitle}{Psychology \& Sexuality}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shorttitle}{What Is Gender, Anyway}
+      \field{title}{What Is Gender, Anyway: A Review of the Options for Operationalising Gender}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/19419899.2020.1729844
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/19419899.2020.1729844
+      \endverb
+    \endentry
+    \entry{oliveiraTailoredGamificationEducation2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=b0f73f05f9ab7e746b38ec853880e2e8}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Wilk},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Juho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3a6ddf32b96c99874c9f76d86efa2cf}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae7ac16495aa88501fa92ce7aff1dcb0}{%
+           family={Toda},
+           familyi={T\bibinitperiod},
+           given={Armando\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f105dafcb527a1bda80744570b7351a}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Luiz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b95ca6bd3a8631408506d80637d118eb}{%
+           family={Palomino},
+           familyi={P\bibinitperiod},
+           given={Paula\bibnamedelima T.},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddbd4420293c6679bec91464f2e01b87}{%
+           family={Isotani},
+           familyi={I\bibinitperiod},
+           given={Seiji},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8ee74e66ecc5e97e44821324f5baa99c}
+      \strng{fullhash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{bibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{authorbibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{authornamehash}{8ee74e66ecc5e97e44821324f5baa99c}
+      \strng{authorfullhash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Gamification has been widely used to design better educational systems aiming to increase students’ concentration, motivation, engagement, flow experience, and others positive experiences. With advances in research on gamification in education, over the past few years, many studies have highlighted the need to tailor the gamification design properties to match individual students’ needs, characteristics and preferences. Thus, different studies have been conducted to personalize the gamification in education. However, the results are still contradictory and need to be better understood to advance this field. To provide a complete understanding of this research domain, we conducted a systematic literature review to summarize the results and discussions on studies that cover the field of tailored gamified education. Following a systematic process, we analysed 2108 studies and identified 19 studies to answer our research questions. The results indicate that most of the studies only consider students’ gamer types to tailor the systems, and most of the experiments do not provide sufficient statistical evidence, especially regarding learning performance using tailored gamified systems. Based on the results, we also provided an agenda with different challenges, opportunities, and research directions to improve the literature on tailored gamification in education. Our study contributes to the field of gamification design in education.}
+      \field{day}{1}
+      \field{issn}{1573-7608}
+      \field{journaltitle}{Education and Information Technologies}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Educ Inf Technol}
+      \field{shorttitle}{Tailored Gamification in Education}
+      \field{title}{Tailored Gamification in Education: {{A}} Literature Review and Future Agenda}
+      \field{urlday}{4}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{28}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{373\bibrangedash 406}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1007/s10639-022-11122-4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10639-022-11122-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10639-022-11122-4
+      \endverb
+      \keyw{Adaptive learning,Game-based learning,Gamification,Literature review,Tailoring}
+    \endentry
+    \entry{psotkaIntelligentTutoringSystems1988}{book}{}
+      \name{editor}{3}{}{%
+        {{un=0,uniquepart=base,hash=6133977c3b6f6d8321f75164fe9fef08}{%
+           family={Psotka},
+           familyi={P\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45032f3a1188fc9709b8fba2ff6b233c}{%
+           family={Massey},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi Dan},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5849338698ade1517b66dadc848da9ca}{%
+           family={Mutter},
+           familyi={M\bibinitperiod},
+           given={Sharon\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Hillsdale, NJ, US}%
+      }
+      \list{publisher}{1}{%
+        {Lawrence Erlbaum Associates, Inc}%
+      }
+      \strng{namehash}{e0b6abc013fcf44ac78ef39b847e6284}
+      \strng{fullhash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{bibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{editorbibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{editornamehash}{e0b6abc013fcf44ac78ef39b847e6284}
+      \strng{editorfullhash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The book is divided into four roughly equal sections dealing with knowledge acquisition, intelligent instructional design, knowledge representation, and intelligent tutoring architectures. Each section has its own preface, in which we summarize the section, draw salient relations to the other sections, and highlight lessons learned. (PsycINFO Database Record (c) 2016 APA, all rights reserved)}
+      \field{editortype}{redactor}
+      \field{isbn}{978-0-8058-0023-4 978-0-8058-0192-7}
+      \field{pagetotal}{xxii, 552}
+      \field{series}{Intelligent Tutoring Systems: {{Lessons}} Learned}
+      \field{shorttitle}{Intelligent Tutoring Systems}
+      \field{title}{Intelligent Tutoring Systems: {{Lessons}} Learned}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{pages}{xxii\bibrangessep 552}
+      \range{pages}{2}
+      \keyw{Artificial Intelligence,Computer Assisted Instruction}
+    \endentry
+    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
+           family={Sailer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb0bec3339b2493a085309d5f6cd8d4f}{%
+           family={Homner},
+           familyi={H\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{fullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{bibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{authorbibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{authornamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{authorfullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This meta-analysis was conducted to systematically synthesize research findings on effects of gamification on cognitive, motivational, and behavioral learning outcomes. Results from random effects models showed significant small effects of gamification on cognitive (g\,=\,.49, 95\% CI [0.30, 0.69], k\,=\,19, N\,=\,1686), motivational (g\,=\,.36, 95\% CI [0.18, 0.54], k\,=\,16, N\,=\,2246), and behavioral learning outcomes (g\,=\,.25, 95\% CI [0.04, 0.46], k\,=\,9, N\,=\,951). Whereas the effect of gamification on cognitive learning outcomes was stable in a subsplit analysis of studies employing high methodological rigor, effects on motivational and behavioral outcomes were less stable. Given the heterogeneity of effect sizes, moderator analyses were conducted to examine inclusion of game fiction, social interaction, learning arrangement of the comparison group, as well as situational, contextual, and methodological moderators, namely, period of time, research context, randomization, design, and instruments. Inclusion of game fiction and social interaction were significant moderators of the effect of gamification on behavioral learning outcomes. Inclusion of game fiction and combining competition with collaboration were particularly effective within gamification for fostering behavioral learning outcomes. Results of the subsplit analysis indicated that effects of competition augmented with collaboration might also be valid for motivational learning outcomes. The results suggest that gamification as it is currently operationalized in empirical studies is an effective method for instruction, even though factors contributing to successful gamification are still somewhat unresolved, especially for cognitive learning outcomes.}
+      \field{day}{1}
+      \field{issn}{1573-336X}
+      \field{journaltitle}{Educational Psychology Review}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Educ Psychol Rev}
+      \field{shorttitle}{The {{Gamification}} of {{Learning}}}
+      \field{title}{The {{Gamification}} of {{Learning}}: A {{Meta-analysis}}}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{77\bibrangedash 112}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1007/s10648-019-09498-w
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10648-019-09498-w
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10648-019-09498-w
+      \endverb
+      \keyw{Behavior,Cognition,Gamification,Gamified learning,Learning,Meta-analysis,Motivation}
+    \endentry
+    \entry{santosDoesGenderStereotype2023}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=654b7b2fdc6640c69347e1138d42eed5}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Jário},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eed228afa2413b4fb070e9959479d4fa}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Ester},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48152db356bfcb853594ace465322f3e}{%
+           family={Benevides},
+           familyi={B\bibinitperiod},
+           given={Kamila},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41c9d4a398addf684ef0e885633e1e6b}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Kelly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7515e687513d78876eef5eba53f7bb2a}{%
+           family={Nascimento},
+           familyi={N\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc8e18d16ab20a41ced7bf89374203ec}{%
+           family={Bittencourt},
+           familyi={B\bibinitperiod},
+           given={Ig},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa8ec03820e84e3d46028bc8feeec839}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f3c23b054f9e4f10bb1183cc7228e94}{%
+           family={Fernandes},
+           familyi={F\bibinitperiod},
+           given={Sheyla},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddbd4420293c6679bec91464f2e01b87}{%
+           family={Isotani},
+           familyi={I\bibinitperiod},
+           given={Seiji},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c6654b8bf7f50306324814902956858f}
+      \strng{fullhash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{bibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{authorbibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{authornamehash}{c6654b8bf7f50306324814902956858f}
+      \strng{authorfullhash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Studies in the literature reported several positive benefits provided by the use of technology in online education, especially in the gamified tutoring system. However, despite the benefits of intelligent tutoring systems, recent studies indicate the presence of a gender gap not considered in the construction of the attributes present in the gamified tutoring system. To investigate this impact by observing users’ behavioral changes in gamified online educational environments, the present study aims to investigate the effects of the stereotype threats using a quantitative experiment with a Factorial Design in three gamified environments (stereotypical male version, stereotypical female version and control environment). Was conducted an experiment with 150 individuals (high school and undergraduate students) without considering age, ethnicity, or social class. The results show that the participants allocated to the male learning environment present an increase in aggressiveness level. Furthermore, the results also show the stereotypical male and female learning environments increased the participants’ performance level. Another finding was that the threatening condition provided a significant increase in the participants’ flow level among males subjected to a threatening condition, which did not manifest in the case of females. In addition, this study also observed the effect of the stereotype threat on men and women in the threatening condition by division in the 34-year age group, resulting in a significant increase in the level of flow among men. This study showed previous results show that the gamified environment influences psychological variables as aggressiveness, intellectual performance, and flow level, they raise questions about the direction of these changes and the impact they may have on users’ usability and performance in these systems.}
+      \field{day}{1}
+      \field{issn}{1573-7608}
+      \field{journaltitle}{Education and Information Technologies}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Educ Inf Technol}
+      \field{shorttitle}{Does Gender Stereotype Threat Affects the Levels of Aggressiveness, Learning and Flow in Gamified Learning Environments?}
+      \field{title}{Does Gender Stereotype Threat Affects the Levels of Aggressiveness, Learning and Flow in Gamified Learning Environments?: {{An}} Experimental Study}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{28}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1637\bibrangedash 1662}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/s10639-022-11220-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10639-022-11220-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10639-022-11220-3
+      \endverb
+      \keyw{Aggressiveness,Gender stereotype threat,Intelligent tutoring systems,Stereotype threat,Stereotyped educational environments}
+    \endentry
+    \entry{spencerStereotypeThreatWomen1999}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d55215f7710d8cba4c7082a40f6d47c1}{%
+           family={Spencer},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56d7da85520a4d4c42bdcf376a3a3377}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Claude\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8588e4194817563332bd4635e1de8ed8}{%
+           family={Quinn},
+           familyi={Q\bibinitperiod},
+           given={Diane\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6da3356f94aff142c18004de4933e4de}
+      \strng{fullhash}{7e31789cdff9d3d80306550e801964c0}
+      \strng{bibnamehash}{7e31789cdff9d3d80306550e801964c0}
+      \strng{authorbibnamehash}{7e31789cdff9d3d80306550e801964c0}
+      \strng{authornamehash}{6da3356f94aff142c18004de4933e4de}
+      \strng{authorfullhash}{7e31789cdff9d3d80306550e801964c0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When women perform math, unlike men, they risk being judged by the negative stereotype that women have weaker math ability. We call this predicamentstereotype threatand hypothesize that the apprehension it causes may disrupt women's math performance. In Study 1 we demonstrated that the pattern observed in the literature that women underperform on difficult (but not easy) math tests was observed among a highly selected sample of men and women. In Study 2 we demonstrated that this difference in performance could be eliminated when we lowered stereotype threat by describing the test as not producing gender differences. However, when the test was described as producing gender differences and stereotype threat was high, women performed substantially worse than equally qualified men did. A third experiment replicated this finding with a less highly selected population and explored the mediation of the effect. The implication that stereotype threat may underlie gender differences in advanced math performance, even those that have been attributed to genetically rooted sex differences, is discussed.}
+      \field{day}{1}
+      \field{issn}{0022-1031}
+      \field{journaltitle}{Journal of Experimental Social Psychology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Journal of Experimental Social Psychology}
+      \field{title}{Stereotype {{Threat}} and {{Women}}'s {{Math Performance}}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{35}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4\bibrangedash 28}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1006/jesp.1998.1373
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022103198913737
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022103198913737
+      \endverb
+    \endentry
+    \entry{werbachWinHowGame2012}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=23013e615d774419d7e40f1e14594e57}{%
+           family={Werbach},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38e933ab6b32b05a2a8d54abe9c6303f}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7558792aae9c0f366a73672471be5579}
+      \strng{fullhash}{7558792aae9c0f366a73672471be5579}
+      \strng{bibnamehash}{7558792aae9c0f366a73672471be5579}
+      \strng{authorbibnamehash}{7558792aae9c0f366a73672471be5579}
+      \strng{authornamehash}{7558792aae9c0f366a73672471be5579}
+      \strng{authorfullhash}{7558792aae9c0f366a73672471be5579}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Millions play Farmville, Scrabble, and countless other games, generating billions in sales each year. The careful and skillful construction of these games is built on decades of research into human motivation and psychology: A well-designed game goes right to the motivational heart of the human psyche. In For the Win, Kevin Werbach and Dan Hunter argue persuasively that game-makers need not be the only ones benefiting from game design. Werbach and Hunter, lawyers and World of Warcraft players, created the world's first course on gamification at the Wharton School. In their book, they reveal how game thinking--addressing problems like a game designer--can motivate employees and customers and create engaging experiences that can transform your business. For the Win reveals how a wide range of companies are successfully using game thinking. It also offers an explanation of when gamifying makes the most sense and a 6-step framework for using games for marketing, productivity enhancement, innovation, employee motivation, customer engagement, and more.}
+      \field{day}{1}
+      \field{month}{1}
+      \field{shorttitle}{For the {{Win}}}
+      \field{title}{For the {{Win}}: {{How Game Thinking}} Can {{Revolutionize}} Your {{Business}}}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=55be320e8437b2dedbd66a2f047806af}{%
+           family={Woolf},
+           familyi={W\bibinitperiod},
+           given={Beverly\bibnamedelima Park},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=979b0c7ad49822e0541710ce55cdb297}{%
+           family={Arroyo},
+           familyi={A\bibinitperiod},
+           given={Ivon},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55ce8a11ba5c4de991df997ca57511ac}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38009f5678c1d76d1cabecfe51874c30}{%
+           family={Burleson},
+           familyi={B\bibinitperiod},
+           given={Winslow},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb298bd7d36087bac892a32069455f0e}{%
+           family={Muldner},
+           familyi={M\bibinitperiod},
+           given={Kasia},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=02158ea5cfb00ded8a3c96a6c8be84ba}{%
+           family={Nkambou},
+           familyi={N\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cc7f0002eda523eddb70156004b902e3}{%
+           family={Bourdeau},
+           familyi={B\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a1441e7fe79c856e39cab232737002ac}{%
+           family={Mizoguchi},
+           familyi={M\bibinitperiod},
+           given={Riichiro},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5b34cfe5538e218657b33b24b1bf6627}
+      \strng{fullhash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{bibnamehash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{authorbibnamehash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{authornamehash}{5b34cfe5538e218657b33b24b1bf6627}
+      \strng{authorfullhash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
+      \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This chapter describes the automatic recognition of and response to human emotion within intelligent tutors. Tutors can recognize student emotion with more than 80\%accuracy compared to student self-reports, using wireless sensors that provide data about posture, movement, grip tension, facially expressed mental states and arousal. Pedagogical agents have been used that provide emotional or motivational feedback. Students using such agents increased their math value, self-concept and mastery orientation, with females reporting more confidence and less frustration. Low-achieving students—one third of whom have learning disabilities—report higher affective needs than their higher-achieving peers. After interacting with affective pedagogical agents, low-achieving students improved their affective outcomes and reported reduced frustration and anxiety.}
+      \field{booktitle}{Advances in {{Intelligent Tutoring Systems}}}
+      \field{isbn}{978-3-642-14363-2}
+      \field{langid}{english}
+      \field{shorttitle}{Affective {{Tutors}}}
+      \field{title}{Affective {{Tutors}}: {{Automatic Detection}} of and {{Response}} to {{Student Emotion}}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{207\bibrangedash 227}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/978-3-642-14363-2_10
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-14363-2_10
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-14363-2_10
+      \endverb
+      \keyw{Automatic Detection,Intelligent Tutor System,Learn Disability,Pedagogical Agent,Skin Conductance}
+    \endentry
+    \entry{zainuddinImpactGamificationLearning2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=fe6d5145f9545fdec9efee3b62b23372}{%
+           family={Zainuddin},
+           familyi={Z\bibinitperiod},
+           given={Zamzami},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65fe29b1bd12cc75365e7f2201fbd587}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Samuel\bibnamedelimb Kai\bibnamedelima Wah},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c82f2cd884d852059632e62c7c5c5cd}{%
+           family={Shujahat},
+           familyi={S\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc6d525396be87266f7e5a6186428f7f}{%
+           family={Perera},
+           familyi={P\bibinitperiod},
+           given={Corinne\bibnamedelima Jacqueline},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c2412bf20db441f56520cdc1ea9854e}
+      \strng{fullhash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{bibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{authorbibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{authornamehash}{6c2412bf20db441f56520cdc1ea9854e}
+      \strng{authorfullhash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The adoption of gamification in learning and instruction is perceived to have mass appeal among the learners in stimulating motivation, learner engagement and social influence. This study is an attempt to present a summary of the empirical findings of state-of-the-art literature in the emerging field of gamification within the educational domain of learning and instruction. It reveals the latest scientific research evidence on the emerging trends of learning technologies and gamification plugins along with extending the possibilities for future research directions in revolutionizing learning and instruction through gamification. A systematic literature review examined the thematic and content analysis of 46 empirical research papers published in the Web of Science database between 2016 and 2019. The review critically appraised and evaluated the various contradictions found in the literature along with setting the stage for the significance of future research studies to re-examine the theoretical foundations of gamification, its methodological approaches, theoretical models, gaming platforms and apps, game mechanics and learning outcomes. This study not only attempts to shed light on the novelty of gamified learning perceived as a game-changer and key enabler of motivation, engagement, and user experience but also sought to outline the key challenges and barriers of gamification.}
+      \field{day}{1}
+      \field{issn}{1747-938X}
+      \field{journaltitle}{Educational Research Review}
+      \field{month}{6}
+      \field{shortjournal}{Educational Research Review}
+      \field{shorttitle}{The Impact of Gamification on Learning and Instruction}
+      \field{title}{The Impact of Gamification on Learning and Instruction: {{A}} Systematic Review of Empirical Evidence}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{30}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{100326}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.edurev.2020.100326
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1747938X19301058
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1747938X19301058
+      \endverb
+      \keyw{Empirical evidence,Engagement,Gamification,Motivation,Social influence,Systematic literature review}
+    \endentry
+  \enddatalist
+  \missing{ravenStandardProgressiveMatrices2003}
+\endrefsection
+\endinput
+
