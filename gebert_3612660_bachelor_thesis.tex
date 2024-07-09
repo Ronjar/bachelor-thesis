@@ -27,7 +27,7 @@
 %% 
 %% ----------------------------------------------------------------------
 %% 
-\documentclass[man]{apa7}
+\documentclass[man, donotrepeattitle, floatsintext]{apa7}
 
 \usepackage{lipsum}
 
@@ -38,7 +38,7 @@
 \usepackage{csquotes}
 \usepackage{float}
 \usepackage{caption}
-
+\usepackage{subcaption}
 \usepackage{placeins}
 \usepackage[style=apa,backend=biber]{biblatex}
 \addbibresource{bibliography.bib}
@@ -74,6 +74,8 @@
 %%\input{content/chapter3}
 %%\input{content/evaluation}
 %%\input{content/conclusion_and_future_work}
+
+\printbibliography
 
 \end{document}
 
