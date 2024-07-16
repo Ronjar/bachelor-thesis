@@ -782,6 +782,9 @@
 \long\def\sixaffiliations#1#2#3#4#5#6{\ClassError{apa7}{Deprecated: see documentation for \string\authorsaffiliations}{For multiple affiliations use \string\authorsaffiliations}}
 \long\def\course#1{\long\def\@course{#1}}
 \long\def\professor#1{\long\def\@professor{#1}}
+\long\def\advisor#1{\long\def\@advisor{#1}}
+\long\def\startdate#1{\long\def\@startdate{#1}}
+\long\def\enddate#1{\long\def\@enddate{#1}}
 \long\def\duedate#1{\long\def\@duedate{#1}}
 \long\def\shorttitle#1{\long\def\@shorttitle{#1}}
 \long\def\note#1{\long\def\@note{#1}}
@@ -1249,17 +1252,22 @@
 \@ifundefined{hrm}{}{\hrm}
  \check@author
 
+  \newgeometry{left=4cm,right=4cm} % Veränderte Ränder nur für die Titelseite
+
   \begin{center}
 
+  % Text ganz oben auf der Seite
+  Lehren und Lernen mit Intelligenten Systemen\\[4cm]
 
-  \vspace*{4\baselineskip}
+  % Bachelorarbeit Text über dem Titel
+  Bachelorarbeit\\[0.5cm]
   \textbf\@title%
   \ifapamodeman{%
     \@ifundefined{def@noextraspace}{%
-      \vspace{\baselineskip}\\
+      \\
     }{\\}
   }{%
-    \vspace{\baselineskip}\\
+    \\
   }
 \@ifundefined{def@stu}{ %Professional manuscript
   \@ifundefined{apaSeven@maskauthoridentity}{%  BDB
@@ -1290,13 +1298,20 @@
   }}{% Student Manuscript
     \@ifundefined{apaSeven@maskauthoridentity}{%  BDB
       \displayauthors \\
-
-      \displayaffiliations
-    }{%  mask author identity -- show nothing in the author or affiliations space
+      \vspace{2cm}
+    }{%  mask author identity -- show nothing in the affiliations space
     }
-      \@course \\
-      \@professor \\
-      \@duedate \\
+    \noindent\begin{minipage}{\textwidth}
+      \begin{center}
+      \begin{description}[labelwidth=3cm, leftmargin=4cm, rightmargin=4cm, labelsep=0.5cm, align=left]
+        \item[Studiengang:] \@course
+        \item[Prüfer/in:] \@professor
+        \item[Betreuer/in:] \@advisor
+        \item[Beginn am:] \@startdate
+        \item[Beendet am:] \@enddate
+      \end{description}
+      \end{center}
+      \end{minipage}
 
     \@ifundefined{apaSeven@maskauthoridentity}{%  BDB
       \@ifundefined{@note}
@@ -1321,6 +1336,7 @@
        }
 
   }
+  \restoregeometry  % Wiederherstellen der ursprünglichen Geometrie für die restlichen Seiten
   \newpage
   %BDB\hyphenpenalty 10000
   \fussy
@@ -1340,6 +1356,8 @@
   \raggedright%
   \setlength{\parindent}{0.5in}%
 }
+
+
 
 \thispagestyle{titlepage}
 
