@@ -16,10 +16,10 @@ Participants underwent a series of tests in a fixed order during each round, beg
 At the end participants were given a monetary compensation of €15.
 The performance tests utilized standard progressive matrices, adapted with gamification techniques to engage and challenge participants uniquely in each round.
 The dependent variables included:
-\begin{itemize}
+\begin{APAitemize}
   \item \textbf{Performance}, assessed through accuracy and response times in the gamified progressive matrices.
   \item \textbf{Anxiety}, evaluated using a standardized questionnaire immediately after the performance test. Anxiety was measured using a shortened form of the State-Trait Anxiety Inventory (STAI) with 6 items \parencite{marteauDevelopmentSixitemShortform1992}.
-\end{itemize}
+\end{APAitemize}
 
 This research employed a repeated-measures design, where each participant was exposed to three different gamification conditions chosen randomly.
 This within-subjects approach facilitated the analysis of individual responses to each condition across the different rounds, providing insights into how variations in gamification can affect psychological states and performance.
@@ -49,18 +49,18 @@ The matrices were taken from \textcite{albuquerqueDoesGenderStereotype2017}, to 
   \label{fig:figureMatrix}
 \end{figure}
 The gamified learning environment consisted of different UI elements representing the gamified elements.
-\begin{description}
-  \item[Leaderboards]: A list of participants and scores, including the current participant. The other players shown were not real.
-  \item[Badges]: An array of four badges that were awarded for 1, 5, 10 and 18 correctly answered questions.
-  \item[Avatars]: A small avatar that was shown in the top right corner of the screen and on the leaderboard. To increase identification with the avatar further, the participants were asked to choose one of 15 different avatars before the iteration.
-  \item[Narrated content]: Narrated content was shown in the bottom right corner of the screen. It was presented as a speech bubble with an avatar next to it, in case avatars were enabled. It showed a random praise or encouragement sentence every three questions.
-  \item[Points]: A counter next to the question frame showed the current points. One point was awarded for each correctly answered question.
-\end{description}
+\begin{APAitemize}
+  \item \textbf{Leaderboards}: A list of participants and scores, including the current participant. The other players shown were not real.
+  \item \textbf{Badges}: An array of four badges that were awarded for 1, 5, 10 and 18 correctly answered questions.
+  \item \textbf{Avatars}: A small avatar that was shown in the top right corner of the screen and on the leaderboard. To increase identification with the avatar further, the participants were asked to choose one of 15 different avatars before the iteration.
+  \item \textbf{Narrated content}: Narrated content was shown in the bottom right corner of the screen. It was presented as a speech bubble with an avatar next to it, in case avatars were enabled. It showed a random praise or encouragement sentence every three questions.
+  \item \textbf{Points}: A counter next to the question frame showed the current points. One point was awarded for each correctly answered question.
+\end{APAitemize}
 \begin{figure}[H]
   \centering
   \begin{subfigure}[t]{0.4\textwidth}
     \includegraphics[width=\textwidth]{img/question_screen.png}
-    \caption{The Digital Learning Environment with Points, Badges, Leaderboards and Avatars enabled}
+    \caption{The Digital Learning Environment with Points, Badges, Leaderboards and Avatars enabled. Narrated content in only shown between questions.}
     \label{fig:figureScreenEnabled}
   \end{subfigure}
   \hspace{5mm}
@@ -83,6 +83,12 @@ The three questionnaires were a six-question shortened form of the State-Trait A
 To submit data to the backend there was a data submission screen that guided the participants to the next iteration or in case of the third iteration to the end of the study.
 
 \subsection{Procedure}
+\begin{figure}[H]
+  \centering
+  \includegraphics{img/Procedure}
+  \caption{The personal details collection form}
+  \label{fig:figureDetails}
+\end{figure}
 Participants have been enlisted at the university campus and invited to engage in a study concerning gamification, with an incentive of 15€ offered upfront for their involvement.
 Following a brief overview of the study's framework, they have been directed to select both a room and a computer.
 The initial screens presented were those seeking consent and outlining the study details. Subsequently, participants have inputted their data, leading into a series of three questioning phases.
@@ -93,10 +99,15 @@ Participants have been advised to proceed at their own pace and refrain from com
 Upon completion of the third iteration, they have been acknowledged for their contribution and compensated with the 15€.
 
 \subsection{Scoring}
-The data was cleaned up before the analysis.
-The scores for the different conditions were calculated as follows:
-\begin{description}
-  \item[Performance] was calculated as the sum of the correctly answered questions divided by the number of questions. If this value was below 0.25 the particular dataset was excluded from the analysis.
-  \item[STAI] was calculated using the formula provided by \textcite{marteauDevelopmentSixitemShortform1992}. As participants had answers from "Not at all" to "Very much so" the answers are represented by numbers from zero to five. As the original test has 20 questions, weights according to \textcite{marteauDevelopmentSixitemShortform1992} were applied to the answers. Negative weights were applied for negative questions like "Right now I am worried".
-  \item[New GSE] was calculated using the formula provided by \textcite{guayAssessmentSituationalIntrinsic2000}. The mean of the number representation of the answers was calculated.
-\end{description}
+
+The data was cleaned and processed before analysis to ensure accuracy and reliability. The scores for the different conditions were calculated as follows:
+
+\begin{APAitemize}
+\item \textbf{Performance:} Performance was calculated as the ratio of correctly answered questions to the total number of questions. If this ratio was below 0.25 for any dataset, that dataset was excluded from further analysis. This threshold ensures that only participants with a sufficient level of engagement are included in the study.
+
+\item \textbf{State-Trait Anxiety Inventory (STAI):} The STAI scores were calculated using the six-item short-form version of the State scale, as developed by \textcite{marteauDevelopmentSixitemShortform1992}. Participants rated their responses on a scale from "Not at all" to "Very much so," corresponding to numerical values from zero to five. The original test contains both anxiety-present and anxiety-absent items, with appropriate weights applied as per the guidelines by \textcite{marteauDevelopmentSixitemShortform1992}. Negative weights were used for items indicating anxiety (e.g., "Right now I am worried").
+
+\item \textbf{New General Self-Efficacy Scale (NGSE):} The NGSE scores were calculated based on the method outlined by \textcite{chenValidationNewGeneral2001}. Participants' responses were averaged to obtain the mean score, which indicates their overall self-efficacy across different situations. This scale, validated by \textcite{chenValidationNewGeneral2001}, captures the general sense of self-efficacy.
+
+\item \textbf{Situational Motivation Scale (SIMS):} The SIMS was used to measure participants' situational motivation in the gamified test environment. This scale assesses intrinsic motivation, identified regulation, external regulation, and amotivation, providing a comprehensive view of the participants' motivational states. Scores were calculated by averaging the participants' responses, as suggested by \textcite{guayAssessmentSituationalIntrinsic2000}.
+\end{APAitemize}

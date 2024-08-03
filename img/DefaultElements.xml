@@ -1,0 +1,16 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=1;strokeWidth=1.5;jumpStyle=none;strokeColor=#1A1A1A;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"5.684341886080802e-14\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"94.00000000000006\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 94.00000000000006,
+    "h": 0.18867924528301888,
+    "aspect": "fixed",
+    "title": "DefaultArrow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#000000;strokeColor=none;arcSize=20;align=center;spacingLeft=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"140\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140,
+    "h": 59.99999999999999,
+    "aspect": "fixed",
+    "title": "DefaultBlock"
+  }
+]</mxlibrary>
