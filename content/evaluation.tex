@@ -10,15 +10,43 @@ Therefore, a performance below 25\% suggests either random guessing or a fundame
 Furthermore, any incomplete data sets were excluded to ensure the integrity and consistency of the analysis, resulting in the exclusion of one additional participant.
 Initially, there were 120 data sets, and after applying the exclusion criteria, 117 data sets remained.
 
+\section{Outline of statistical analysis}
+Having preprocessed and cleaned the data, we proceeded with our statistical analysis using linear mixed models (LMMs).
+These models were chosen for their ability to handle the complexities of repeated measures from the same subjects under varying conditions.
+By incorporating both fixed effects (gender and gamified elements) and random effects (individual differences), LMMs provided a robust framework for our analysis.
+
+We utilized the Nelder-Mead optimization method to estimate the parameters of our models.
+This method is ideal for our needs as it efficiently handles models with multiple interacting effects without requiring derivative calculations, making it suitable for our complex dataset.
+
+For the estimation of variance components within our models, we employed Restricted Maximum Likelihood (REML).
+REML is preferred in mixed model contexts because it adjusts the estimates for the fixed effects, providing unbiased variance estimates despite the presence of random effects.
+
+Finally, to ensure accurate inference regarding the fixed effects, we applied the Satterthwaite approximation for estimating degrees of freedom.
+This method helps in achieving more reliable p-values by adjusting the degrees of freedom for the complexity of the model, crucial in cases with multiple levels of interactions and a limited sample size.
+
+This combination of methods and their implementation through LMMs allowed us to systematically analyse the effects of gender and gamified elements on performance and anxiety, controlling for individual variability and the specifics of the experimental design.
+
 \subsection{Results}
-... what is the result of your e.g., Questionnaire or experimentation.. 
 
-\subsection{Discussion}
-... Based on the results argue about acceptance or rejection of your research hypothesis   .. 
+\begin{table}[h]
+    \centering
+    \caption{Ergebnisse des Experiments}
+    \label{tab:experiment_results}
+    \resizebox{\textwidth}{!}{ % Skaliert die Tabelle auf Textbreite
+        \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+            \hline
+            \textbf{Variable} & \textbf{Mean experimental} & \textbf{Mean control} & \textbf{Estimated difference \( d \)} & \textbf{t} & \textbf{p} & \textbf{df} & \textbf{95\% LCI of \( d \)} & \textbf{95\% UCI of \( d \)} & \textbf{Cohen's \( d \)} \\
+            \hline
+            gender [male] &  &  & 0.01 & 0.27 & 0.994 & 277.62 & -0.06 & 0.08 & 0.07 \\
+            gamifiedElement [Points (P)] &  &  & -0.04 & -1.35 & 0.493 & 211.82 & -0.11 & 0.02 & -0.33 \\
+            gamifiedElement [Badges (B)] &  &  & 0.01 & 0.21 & 0.994 & 214.27 & -0.06 & 0.08 & 0.06 \\
+            gamifiedElement [Level (L)] &  &  & -0.06 & -1.67 & 0.384 & 213.69 & -0.13 & 0.01 & -0.48 \\
+            gamifiedElement [Avatars (A)] &  &  & 0.02 & 0.49 & 0.994 & 208.19 & -0.05 & 0.08 & 0.13 \\
+            gamifiedElement [Narrative Content (N)] &  &  & 0.06 & 1.70 & 0.384 & 207.03 & -0.01 & 0.12 & 0.44 \\
+            gamifiedElement [Combination (PBLA)] &  &  & 0.00 & 0.06 & 0.994 & 208.37 & -0.06 & 0.06 & 0.01 \\
+            gamifiedElement [All Elements (PBLAN)] &  &  & 0.01 & 0.22 & 0.994 & 210.22 & -0.06 & 0.07 & 0.06 \\
+            \hline
+        \end{tabular}
+    }
+\end{table}
 
-\subsection{Threats to Validity}
-... Discuss what threatens validity of your result. In case you could counteract them explain how. For experimentation in software engineering there is already a classification of this threats and a check-list \cite{DBLP:journals/ese/RunesonH09}.   
-%LaTeX-Hinweise stehen in \cref{chap:latexhints}.
-
-%noch etwas Fülltext
-%\blinddocument
