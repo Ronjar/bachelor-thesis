@@ -42,9 +42,16 @@
 \usepackage{float}
 \usepackage{caption}
 \usepackage{subcaption}
+\usepackage{makecell}
 \usepackage{placeins}
 \usepackage[style=apa,backend=biber]{biblatex}
 \addbibresource{bibliography.bib}
+
+
+\renewcommand\theadalign{cc} % Zentriert den Text in der Kopfzeile
+\renewcommand\theadfont{\bfseries} % Fettgedruckter Text für die Kopfzeile
+\renewcommand\cellalign{l} % Setzt die Standardausrichtung von makecell auf linksbündig
+
 
 \title{Gender Differences in the Impact of Gamification Elements on Performance and Anxiety}
 \shorttitle{Gender Differences in the Impact of Gamification Elements}

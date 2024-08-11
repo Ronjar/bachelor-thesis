@@ -30,23 +30,32 @@ This combination of methods and their implementation through LMMs allowed us to 
 
 \begin{table}[h]
     \centering
-    \caption{Ergebnisse des Experiments}
-    \label{tab:experiment_results}
+    \caption{Results of the linear mixed model analysis for performance effects.}
+    \label{tab:lmm_performance}
     \resizebox{\textwidth}{!}{ % Skaliert die Tabelle auf Textbreite
         \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
             \hline
-            \textbf{Variable} & \textbf{Mean experimental} & \textbf{Mean control} & \textbf{Estimated difference \( d \)} & \textbf{t} & \textbf{p} & \textbf{df} & \textbf{95\% LCI of \( d \)} & \textbf{95\% UCI of \( d \)} & \textbf{Cohen's \( d \)} \\
+            \thead{Variable} & \thead{Mean\\experimental} & \thead{Mean\\control} & \thead{Estimated\\difference \( d \)} & \thead{\( t \)} & \thead{\( p \)} & \thead{\( df \)} & \thead{95\% LCI\\of \( d \)} & \thead{95\% UCI\\of \( d \)} & \thead{Cohen's \( d \)} \\
             \hline
-            gender [male] &  &  & 0.01 & 0.27 & 0.994 & 277.62 & -0.06 & 0.08 & 0.07 \\
-            gamifiedElement [Points (P)] &  &  & -0.04 & -1.35 & 0.493 & 211.82 & -0.11 & 0.02 & -0.33 \\
-            gamifiedElement [Badges (B)] &  &  & 0.01 & 0.21 & 0.994 & 214.27 & -0.06 & 0.08 & 0.06 \\
-            gamifiedElement [Level (L)] &  &  & -0.06 & -1.67 & 0.384 & 213.69 & -0.13 & 0.01 & -0.48 \\
-            gamifiedElement [Avatars (A)] &  &  & 0.02 & 0.49 & 0.994 & 208.19 & -0.05 & 0.08 & 0.13 \\
-            gamifiedElement [Narrative Content (N)] &  &  & 0.06 & 1.70 & 0.384 & 207.03 & -0.01 & 0.12 & 0.44 \\
-            gamifiedElement [Combination (PBLA)] &  &  & 0.00 & 0.06 & 0.994 & 208.37 & -0.06 & 0.06 & 0.01 \\
-            gamifiedElement [All Elements (PBLAN)] &  &  & 0.01 & 0.22 & 0.994 & 210.22 & -0.06 & 0.07 & 0.06 \\
+            gender [male] &  &  & .01 & .27 & .994 & 278 & -.06 & .08 & .07 \\
+            gamifiedElement [Points (P)] &  &  & -.04 & -1.35 & .493 & 212 & -.11 & .02 & -.33 \\
+            gamifiedElement [Badges (B)] &  &  & .01 & .21 & .994 & 214 & -.06 & .08 & .06 \\
+            gamifiedElement [Level (L)] &  &  & -.06 & -1.67 & .384 & 214 & -.13 & .01 & -.48 \\
+            gamifiedElement [Avatars (A)] &  &  & .02 & .49 & .994 & 208 & -.05 & .08 & .13 \\
+            gamifiedElement [Narrative Content (N)] &  &  & .06 & 1.70 & .384 & 207 & -.01 & .12 & .44 \\
+            gamifiedElement [Combination (PBLA)] &  &  & .00 & .06 & .994 & 208 & -.06 & .06 & .01 \\
+            gamifiedElement [All Elements (PBLAN)] &  &  & .01 & .22 & .994 & 210 & -.06 & .07 & .06 \\
+            \makecell{gender [male] x \\ gamifiedElement [Points (P)]} &  &  & .05 & 1.33 & .493 & 214 & -.03 & .13 & .42 \\
+            \makecell{gender [male] x \\ gamifiedElement [Badges (B)]} &  &  & -.03 & -.64 & .994 & 214 & -.11 & .06 & -.22 \\
+            \makecell{gender [male] x \\ gamifiedElement [Level (L)]} &  &  & .08 & 1.79 & .384 & 215 & -.01 & .17 & .61 \\
+            \makecell{gender [male] x \\ gamifiedElement [Avatars (A)]} &  &  & .00 & .03 & .994 & 210 & -.08 & .08 & .01 \\
+            \makecell{gender [male] x \\ gamifiedElement [Narrative Content (N)]} &  &  & .00 & -.01 & .994 & 210 & -.08 & .08 & .00 \\
+            \makecell{gender [male] x \\ gamifiedElement [Combination (PBLA)]} &  &  & .05 & 1.18 & .548 & 212 & -.03 & .13 & .37 \\
+            \makecell{gender [male] x \\ gamifiedElement [All Elements (PBLAN)]} &  &  & .00 & .02 & .994 & 210 & -.08 & .08 & .01 \\
             \hline
         \end{tabular}
     }
 \end{table}
 
+Our analysis revealed no significant main effects and no significant interactions for all hypotheses regarding performance and anxiety.
+The results of the linear mixed model analysis for performance effects are shown in Table \ref{tab:lmm_performance}, for anxiety effects in Table \ref{tab:lmm_anxiety}.
