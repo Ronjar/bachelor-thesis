@@ -1,22 +1,36 @@
-% !TeX spellcheck = en_US
-The concept of grading can be seen as a form of gamification, as it adds feedback and a competitive element to the learning process.
-But in recent years especially with the advance of computers, gamification has become an increasingly popular topic in education science \parencite{swachaStateResearchGamification2021}.
-Especially in computer science the use of gamified elements is well researched \parencite{dichevGamifyingEducationWhat2017}, which could be related to the already great use of computers in the field.
-But as this field is still relatively new, many topics are still not well researched, especially how individual factors, such as gender, can influence the effects of gamification \parencite{dehghanzadehUsingGamificationSupport2024,oliveiraTailoredGamificationEducation2023}.
-This thesis aims to explore the effects of different gamified elements and their combinations on performance and anxiety in a digital learning environment, especially focusing on the influence of gender on these effects.
-Digital learning environments, or tutoring systems, were hugely affected by the shift of teaching to remote classes during the COVID-19 pandemic.
-In 2019, 54\% of students utilized digital learning materials, which increased to 70\% the following year. Meanwhile, only 32\% of German scholars aged ten to fifteen engaged with digital learning materials, a figure that doubled to 64\% just one year later.
-Gamification and Digital learning environments are often combined \parencite{gonzalezGamificationIntelligentTutoring2014} with good results \parencite{jacksonMotivationPerformanceGamebased2013} regarding motivation and enjoyment.
-Implementing gamified elements into tutoring systems, while showing positive impact overall, could also lead to negative outcome, for example demotivation while being part of a leaderboard \parencite{almeidaSystematicMappingNegative2021}.
-\textcite{almeidaSystematicMappingNegative2021} also found in their systematic mapping, 77 papers mentioned negative effects like cheating, lack of understanding and most often lack of effect.
-This leads to the question on how gamified digital learning environments could be further improved.
+\section{Introduction}
 
-Multiple meta analyses came to the conclusion, further investigation on the effects of different gamification elements on individuals is needed \textcite{oliveiraTailoredGamificationEducation2023,dehghanzadehUsingGamificationSupport2024,hamariDoesGamificationWork2014}, as future systems could also use more individualized data to further enhance the experience of the gamified elements inside the tutoring system.
-Factors mentioned by \textcite{dehghanzadehUsingGamificationSupport2024} include gender and age, \textcite{oliveiraTailoredGamificationEducation2023} mentions culture and gender. All studies highlight the importance of the context, in which the learner is exposed to gamified elements.
+The often mandated transition to remote education during the COVID-19 pandemic highlighted the indispensable role of digital learning environments (DLEs) \parencite{garcia-moralesTransformationHigherEducation2021}.
+The usage of digital learning resources saw a significant increase during this period; in 2019, 54\% of students utilized such resources, with the figure rising to 70\% in 2020.
+In Germany, the percentage of scholars aged ten to fifteen engaging with digital learning materials doubled from 32\% to 64\% within the same timeframe \parencite{pressestelledesstatistischenbundesamtsDigitalesLernenNimmt2020}.
 
-Gender could be one of the most significant factors, as it is often discussed in aforementioned studies and was already subject to many studies concerning gamification in different groups and systems.
-\textcite{albuquerqueDoesGenderStereotype2017} which serves as foundation for this paper, investigates the influence of stereotype threat in gendered gamified educational scenarios.
-\textcite{dehghanzadehUsingGamificationSupport2024} showed, that gender is the most controlled factor in their reviewed articles, with mixed outcome. Some studies showed no effect of including gender, others significant differences.
+The integration of gamified elements into DLEs is a common practice, aimed at enhancing motivation and enjoyment \parencite{gonzalezGamificationIntelligentTutoring2014, jacksonMotivationPerformanceGamebased2013}.
+However, despite the positive impacts, the introduction of some elements can also lead to negative outcomes, including demotivation \parencite{almeidaSystematicMappingNegative2021}.
+The concept of gamification has attracted substantial interest within the educational sciences, becoming a prevalent topic \parencite{swachaStateResearchGamification2021}.
+In the realm of computer science, the application of gamified elements is well-documented, demonstrating a important presence due to the inherent integration of technology in the field \parencite{dichevGamifyingEducationWhat2017}.
 
-It becomes crucial to expand our understanding of how gender influences the effectiveness of various gamified elements in digital environments. This thesis will assess whether these factors can enhance the learning experience without disadvantaging any gender group.
-Thus, the primary goal is to design digital tutoring systems that fully leverage the potential of gamification to benefit all users equally, fostering an inclusive and effective educational environment.
+Although there is extensive research on the general application of gamification, the effects related to individual factors, such as gender, are less understood and warrant further investigation \parencite{dehghanzadehUsingGamificationSupport2024, oliveiraTailoredGamificationEducation2023}.
+
+
+%% !TeX spellcheck = en_US
+%The concept of grading can be seen as a form of gamification, as it adds feedback and a competitive element to the learning process.
+%But in recent years especially with the advance of computers, gamification has become an increasingly popular topic in education science \parencite{swachaStateResearchGamification2021}.
+%Especially in computer science the use of gamified elements is well researched \parencite{dichevGamifyingEducationWhat2017}, which could be related to the already great use of computers in the field.
+%But as this field is still relatively new, many topics are still not well researched, especially how individual factors, such as gender, can influence the effects of gamification \parencite{dehghanzadehUsingGamificationSupport2024,oliveiraTailoredGamificationEducation2023}.
+%This thesis aims to explore the effects of different gamified elements and their combinations on performance and anxiety in a digital learning environment, especially focusing on the influence of gender on these effects.
+%Digital learning environments, or tutoring systems, were hugely affected by the shift of teaching to remote classes during the COVID-19 pandemic.
+%In 2019, 54\% of students utilized digital learning materials, which increased to 70\% the following year. Meanwhile, only 32\% of German scholars aged ten to fifteen engaged with digital learning materials, a figure that doubled to 64\% just one year later.
+%Gamification and Digital learning environments are often combined \parencite{gonzalezGamificationIntelligentTutoring2014} with good results \parencite{jacksonMotivationPerformanceGamebased2013} regarding motivation and enjoyment.
+%Implementing gamified elements into tutoring systems, while showing positive impact overall, could also lead to negative outcome, for example demotivation while being part of a leaderboard \parencite{almeidaSystematicMappingNegative2021}.
+%\textcite{almeidaSystematicMappingNegative2021} also found in their systematic mapping, 77 papers mentioned negative effects like cheating, lack of understanding and most often lack of effect.
+%This leads to the question on how gamified digital learning environments could be further improved.
+%
+%Multiple meta analyses came to the conclusion, further investigation on the effects of different gamification elements on individuals is needed \textcite{oliveiraTailoredGamificationEducation2023,dehghanzadehUsingGamificationSupport2024,hamariDoesGamificationWork2014}, as future systems could also use more individualized data to further enhance the experience of the gamified elements inside the tutoring system.
+%Factors mentioned by \textcite{dehghanzadehUsingGamificationSupport2024} include gender and age, \textcite{oliveiraTailoredGamificationEducation2023} mentions culture and gender. All studies highlight the importance of the context, in which the learner is exposed to gamified elements.
+%
+%Gender could be one of the most significant factors, as it is often discussed in aforementioned studies and was already subject to many studies concerning gamification in different groups and systems.
+%\textcite{albuquerqueDoesGenderStereotype2017} which serves as foundation for this paper, investigates the influence of stereotype threat in gendered gamified educational scenarios.
+%\textcite{dehghanzadehUsingGamificationSupport2024} showed, that gender is the most controlled factor in their reviewed articles, with mixed outcome. Some studies showed no effect of including gender, others significant differences.
+%
+%It becomes crucial to expand our understanding of how gender influences the effectiveness of various gamified elements in digital environments. This thesis will assess whether these factors can enhance the learning experience without disadvantaging any gender group.
+%Thus, the primary goal is to design digital tutoring systems that fully leverage the potential of gamification to benefit all users equally, fostering an inclusive and effective educational environment.
