@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{albuquerqueDoesGenderStereotype2017}{article}{}{}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{albuquerqueDoesGenderStereotype2017}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=6dc2526f85f7683c3dc6b160f892ab62}{%
            family={Albuquerque},
@@ -48,12 +48,10 @@
       }
       \strng{namehash}{fccd19708106deb87bea98958327b5a6}
       \strng{fullhash}{516d1695909bb070534f2cbd613277f0}
-      \strng{fullhashraw}{516d1695909bb070534f2cbd613277f0}
       \strng{bibnamehash}{516d1695909bb070534f2cbd613277f0}
       \strng{authorbibnamehash}{516d1695909bb070534f2cbd613277f0}
       \strng{authornamehash}{fccd19708106deb87bea98958327b5a6}
       \strng{authorfullhash}{516d1695909bb070534f2cbd613277f0}
-      \strng{authorfullhashraw}{516d1695909bb070534f2cbd613277f0}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -90,7 +88,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301914
       \endverb
     \endentry
-    \entry{almeidaSystematicMappingNegative2021}{article}{}{}
+    \entry{almeidaSystematicMappingNegative2021}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a9f652e334238b77c10803164ddf99f8}{%
            family={Almeida},
@@ -113,12 +111,10 @@
       }
       \strng{namehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
       \strng{fullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
-      \strng{fullhashraw}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{bibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{authorbibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{authornamehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
       \strng{authorfullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
-      \strng{authorfullhashraw}{32bcee9c09112bbca0f14ab08f24cfc3}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -153,7 +149,7 @@
       \endverb
       \keyw{education,Ethics,Games,gamification,learning,negative effects,snowballing,Software engineering,systematic mapping,Systematics}
     \endentry
-    \entry{chenValidationNewGeneral2001}{article}{}{}
+    \entry{chenValidationNewGeneral2001}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=5ee7ef22770160196a96055862b01412}{%
            family={Chen},
@@ -179,12 +175,10 @@
       }
       \strng{namehash}{31568a015bb2172588de9d229a31577f}
       \strng{fullhash}{48ba123915744ce6e43d76eb340b7fb8}
-      \strng{fullhashraw}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{bibnamehash}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{authorbibnamehash}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{authornamehash}{31568a015bb2172588de9d229a31577f}
       \strng{authorfullhash}{48ba123915744ce6e43d76eb340b7fb8}
-      \strng{authorfullhashraw}{48ba123915744ce6e43d76eb340b7fb8}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -222,7 +216,7 @@
       \verb https://doi.org/10.1177/109442810141004
       \endverb
     \endentry
-    \entry{cheryanClassroomsMatterDesign2011}{article}{}{}
+    \entry{cheryanClassroomsMatterDesign2011}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9f74dee8600fd3a4a219714b3827d5f6}{%
            family={Cheryan},
@@ -245,12 +239,10 @@
       }
       \strng{namehash}{2604c34a7e6f5851b6b1be7196bf5009}
       \strng{fullhash}{8729a98a861d5b492da8aa248286a293}
-      \strng{fullhashraw}{8729a98a861d5b492da8aa248286a293}
       \strng{bibnamehash}{8729a98a861d5b492da8aa248286a293}
       \strng{authorbibnamehash}{8729a98a861d5b492da8aa248286a293}
       \strng{authornamehash}{2604c34a7e6f5851b6b1be7196bf5009}
       \strng{authorfullhash}{8729a98a861d5b492da8aa248286a293}
-      \strng{authorfullhashraw}{8729a98a861d5b492da8aa248286a293}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -288,7 +280,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S036013151100042X
       \endverb
     \endentry
-    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}{}
+    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b6b3eb68e514865c87d16278004a73f6}{%
            family={Christy},
@@ -305,12 +297,10 @@
       }
       \strng{namehash}{219220391049affce55f38493007cfdb}
       \strng{fullhash}{219220391049affce55f38493007cfdb}
-      \strng{fullhashraw}{219220391049affce55f38493007cfdb}
       \strng{bibnamehash}{219220391049affce55f38493007cfdb}
       \strng{authorbibnamehash}{219220391049affce55f38493007cfdb}
       \strng{authornamehash}{219220391049affce55f38493007cfdb}
       \strng{authorfullhash}{219220391049affce55f38493007cfdb}
-      \strng{authorfullhashraw}{219220391049affce55f38493007cfdb}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -349,7 +339,7 @@
       \endverb
       \keyw{Distance education and telelearning,Gender studies,Human–computer interface,Interactive learning environments,Teaching/learning strategies}
     \endentry
-    \entry{dabajRoleGenderAge2009}{report}{}{}
+    \entry{dabajRoleGenderAge2009}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a02dd8932644fde2ea7e5bd4b988d053}{%
            family={Dabaj},
@@ -360,12 +350,10 @@
       }
       \strng{namehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{fullhash}{a02dd8932644fde2ea7e5bd4b988d053}
-      \strng{fullhashraw}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{bibnamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authorbibnamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authornamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authorfullhash}{a02dd8932644fde2ea7e5bd4b988d053}
-      \strng{authorfullhashraw}{a02dd8932644fde2ea7e5bd4b988d053}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -400,7 +388,7 @@
       \endverb
       \keyw{Age Differences,Case Studies,College Programs,College School Cooperation,Computer Assisted Instruction,Computer Attitudes,Computer Science Education,Conventional Instruction,Distance Education,Educational Technology,Electronic Learning,Foreign Countries,Gender Differences,Internet,Nonverbal Communication,Online Courses,Questionnaires,Student Attitudes,Virtual Classrooms,Vocational High Schools,Web Based Instruction}
     \endentry
-    \entry{desantanaEvaluatingImpactMars2016}{article}{}{}
+    \entry{desantanaEvaluatingImpactMars2016}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=d5b728e332595084cc39c466d5f98278}{%
            family={De\bibnamedelima Santana},
@@ -441,12 +429,10 @@
       }
       \strng{namehash}{f2ade78411381ed0ca9d4cdc7686f9dd}
       \strng{fullhash}{b0e1ef55852191e1853cf0b0e12a1140}
-      \strng{fullhashraw}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{bibnamehash}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{authorbibnamehash}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{authornamehash}{f2ade78411381ed0ca9d4cdc7686f9dd}
       \strng{authorfullhash}{b0e1ef55852191e1853cf0b0e12a1140}
-      \strng{authorfullhashraw}{b0e1ef55852191e1853cf0b0e12a1140}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -482,7 +468,7 @@
       \endverb
       \keyw{Adaptive Learning Technology,Computational modeling,Controlled Experiment,Educational technology,Gender Difference,Mars,Mars and Venus Effect,Mathematical model,Venus}
     \endentry
-    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}{}
+    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=f3f534efbb82d811bec48937cff6ef83}{%
            family={Dehghanzadeh},
@@ -517,12 +503,10 @@
       }
       \strng{namehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
       \strng{fullhash}{8f49a1e43df9356da04450d15c57243d}
-      \strng{fullhashraw}{8f49a1e43df9356da04450d15c57243d}
       \strng{bibnamehash}{8f49a1e43df9356da04450d15c57243d}
       \strng{authorbibnamehash}{8f49a1e43df9356da04450d15c57243d}
       \strng{authornamehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
       \strng{authorfullhash}{8f49a1e43df9356da04450d15c57243d}
-      \strng{authorfullhashraw}{8f49a1e43df9356da04450d15c57243d}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -561,7 +545,7 @@
       \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13335
       \endverb
     \endentry
-    \entry{dermevalGaTOOntologicalModel2019}{article}{}{}
+    \entry{dermevalGaTOOntologicalModel2019}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=6593b71bd4f473bb0b7824efda63b291}{%
            family={Dermeval},
@@ -605,12 +589,10 @@
       }
       \strng{namehash}{719a28883f4f7d999fc1f872940e59bd}
       \strng{fullhash}{a15096d2f9274f65775a9ba0c91ec25f}
-      \strng{fullhashraw}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{bibnamehash}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{authorbibnamehash}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{authornamehash}{719a28883f4f7d999fc1f872940e59bd}
       \strng{authorfullhash}{a15096d2f9274f65775a9ba0c91ec25f}
-      \strng{authorfullhashraw}{a15096d2f9274f65775a9ba0c91ec25f}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -648,7 +630,7 @@
       \endverb
       \keyw{Gamification (GAM),Gamified intelligent tutoring systems,Intelligent tutoring systems (ITS),Intelligent tutoring systems (ITSs),Ontologies (26)}
     \endentry
-    \entry{deterdingGameDesignElements2011}{article}{}{}
+    \entry{deterdingGameDesignElements2011}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
            family={Deterding},
@@ -677,12 +659,10 @@
       }
       \strng{namehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
       \strng{fullhash}{5900b306a627b766e3160b1c23b117f2}
-      \strng{fullhashraw}{5900b306a627b766e3160b1c23b117f2}
       \strng{bibnamehash}{5900b306a627b766e3160b1c23b117f2}
       \strng{authorbibnamehash}{5900b306a627b766e3160b1c23b117f2}
       \strng{authornamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
       \strng{authorfullhash}{5900b306a627b766e3160b1c23b117f2}
-      \strng{authorfullhashraw}{5900b306a627b766e3160b1c23b117f2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -699,7 +679,7 @@
       \verb C:\Users\robin\Zotero\storage\HZ9CWJSG\Deterding et al. - From game design elements to gamefulness defining.pdf
       \endverb
     \endentry
-    \entry{dichevGamifyingEducationWhat2017}{article}{}{}
+    \entry{dichevGamifyingEducationWhat2017}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=48a561a04f455ae1b27c05cda5287736}{%
            family={Dichev},
@@ -716,12 +696,10 @@
       }
       \strng{namehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{fullhash}{6e9f9638b3352f9132c832139b90546f}
-      \strng{fullhashraw}{6e9f9638b3352f9132c832139b90546f}
       \strng{bibnamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authorbibnamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authornamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authorfullhash}{6e9f9638b3352f9132c832139b90546f}
-      \strng{authorfullhashraw}{6e9f9638b3352f9132c832139b90546f}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -761,7 +739,7 @@
       \endverb
       \keyw{Critical literature review,Empirical studies,Gamification in education,Gamifying learning}
     \endentry
-    \entry{elhadbiReviewStudyAdaptive2024}{inbook}{}{}
+    \entry{elhadbiReviewStudyAdaptive2024}{inbook}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=2253cfc5d2a8ced8b3ad49268f36deff}{%
            family={El\bibnamedelima Hadbi},
@@ -819,16 +797,13 @@
       }
       \strng{namehash}{00649789511ba4236b3bd1d66a8c91a5}
       \strng{fullhash}{00f598ef54ed593ff606a15fea19267f}
-      \strng{fullhashraw}{00f598ef54ed593ff606a15fea19267f}
       \strng{bibnamehash}{00f598ef54ed593ff606a15fea19267f}
       \strng{authorbibnamehash}{00f598ef54ed593ff606a15fea19267f}
       \strng{authornamehash}{00649789511ba4236b3bd1d66a8c91a5}
       \strng{authorfullhash}{00f598ef54ed593ff606a15fea19267f}
-      \strng{authorfullhashraw}{00f598ef54ed593ff606a15fea19267f}
       \strng{editorbibnamehash}{c53eecf16cc1b61c3444c70af21783f2}
       \strng{editornamehash}{afd6d0b7bc628b7e5385dd2c5690457c}
       \strng{editorfullhash}{c53eecf16cc1b61c3444c70af21783f2}
-      \strng{editorfullhashraw}{c53eecf16cc1b61c3444c70af21783f2}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -853,7 +828,7 @@
       \endverb
       \keyw{Adaptative E-learning,Adaptative E-learning Systems,Adaptive E-learning,E-learning,Intelligent Tutoring,Intelligent Tutoring Systems,Its,Personalized E-learning}
     \endentry
-    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}{}
+    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=c286a081d07226242ff62579001b5dc0}{%
            family={González},
@@ -882,12 +857,10 @@
       }
       \strng{namehash}{5267206d1acb3e5b0ed254e511619c1c}
       \strng{fullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
-      \strng{fullhashraw}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{bibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{authorbibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{authornamehash}{5267206d1acb3e5b0ed254e511619c1c}
       \strng{authorfullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
-      \strng{authorfullhashraw}{3e9469e14146df8cc63e8059ff9b8f1d}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -924,7 +897,7 @@
       \endverb
       \keyw{gamification,GBL,ITS}
     \endentry
-    \entry{guayAssessmentSituationalIntrinsic2000}{article}{}{}
+    \entry{guayAssessmentSituationalIntrinsic2000}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9f75ae264efaeed69b9fd3e41c7ee146}{%
            family={Guay},
@@ -947,12 +920,10 @@
       }
       \strng{namehash}{0df3278a28ae44c03cddc7baba4c3637}
       \strng{fullhash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
-      \strng{fullhashraw}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{bibnamehash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{authorbibnamehash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{authornamehash}{0df3278a28ae44c03cddc7baba4c3637}
       \strng{authorfullhash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
-      \strng{authorfullhashraw}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -993,7 +964,7 @@
       \endverb
       \keyw{Construct Validity,Intrinsic Motivation,Laboratory Setting,Laboratory Study,Social Psychology}
     \endentry
-    \entry{hamariDoesGamificationWork2014}{article}{}{}
+    \entry{hamariDoesGamificationWork2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
            family={Hamari},
@@ -1016,12 +987,10 @@
       }
       \strng{namehash}{abbbc8908f6e89738e74c6165985a45a}
       \strng{fullhash}{d0a428170cd0c96f6811c01b642b11bc}
-      \strng{fullhashraw}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{bibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{authorbibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{authornamehash}{abbbc8908f6e89738e74c6165985a45a}
       \strng{authorfullhash}{d0a428170cd0c96f6811c01b642b11bc}
-      \strng{authorfullhashraw}{d0a428170cd0c96f6811c01b642b11bc}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -1044,7 +1013,7 @@
       \verb C:\Users\robin\Zotero\storage\3IB7SVSY\Hamari et al. - 2014 - Does Gamification Work — A Literature Review of E.pdf
       \endverb
     \endentry
-    \entry{jacksonMotivationPerformanceGamebased2013}{article}{}{}
+    \entry{jacksonMotivationPerformanceGamebased2013}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=4c477be08045c3cbb7a2d31f092881f1}{%
            family={Jackson},
@@ -1067,12 +1036,10 @@
       }
       \strng{namehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{fullhash}{4dca9f56d0719ed4ed9f3280b7c301cc}
-      \strng{fullhashraw}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{bibnamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authorbibnamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authornamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authorfullhash}{4dca9f56d0719ed4ed9f3280b7c301cc}
-      \strng{authorfullhashraw}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -1098,7 +1065,7 @@
       \endverb
       \keyw{Games,Intelligent Tutoring Systems,Learning Environment,Motivation,Performance}
     \endentry
-    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}{}
+    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=7d05031ede84b203ae4d4d88e6a4b1b0}{%
            family={Kampshoff},
@@ -1121,12 +1088,10 @@
       }
       \strng{namehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{fullhash}{6632fcbbc712f57a73e8e92be5f925a4}
-      \strng{fullhashraw}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{bibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editorbibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editornamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editorfullhash}{6632fcbbc712f57a73e8e92be5f925a4}
-      \strng{editorfullhashraw}{6632fcbbc712f57a73e8e92be5f925a4}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -1156,7 +1121,7 @@
       \verb https://link.springer.com/10.1007/978-3-531-18984-0
       \endverb
     \endentry
-    \entry{klabbersArchitectureGameScience2018}{article}{}{}
+    \entry{klabbersArchitectureGameScience2018}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=14ab837667ced135603a37329b9fabf9}{%
            family={Klabbers},
@@ -1170,12 +1135,10 @@
       }
       \strng{namehash}{14ab837667ced135603a37329b9fabf9}
       \strng{fullhash}{14ab837667ced135603a37329b9fabf9}
-      \strng{fullhashraw}{14ab837667ced135603a37329b9fabf9}
       \strng{bibnamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authorbibnamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authornamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authorfullhash}{14ab837667ced135603a37329b9fabf9}
-      \strng{authorfullhashraw}{14ab837667ced135603a37329b9fabf9}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -1213,7 +1176,7 @@
       \verb https://doi.org/10.1177/1046878118762534
       \endverb
     \endentry
-    \entry{lindqvistWhatGenderAnyway2021}{article}{}{}
+    \entry{lindqvistWhatGenderAnyway2021}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f991d3c71383bc5ed5b1d63eb2838c96}{%
            family={Lindqvist},
@@ -1239,12 +1202,10 @@
       }
       \strng{namehash}{baeeb0b218942dafde90346f514f06f0}
       \strng{fullhash}{38d9339a8ebde10a2bd69a1b51569047}
-      \strng{fullhashraw}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{bibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{authorbibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{authornamehash}{baeeb0b218942dafde90346f514f06f0}
       \strng{authorfullhash}{38d9339a8ebde10a2bd69a1b51569047}
-      \strng{authorfullhashraw}{38d9339a8ebde10a2bd69a1b51569047}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -1276,7 +1237,7 @@
       \verb https://www.tandfonline.com/doi/abs/10.1080/19419899.2020.1729844
       \endverb
     \endentry
-    \entry{marteauDevelopmentSixitemShortform1992}{article}{}{}
+    \entry{marteauDevelopmentSixitemShortform1992}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=758841d73486de8a783144e8841088c0}{%
            family={Marteau},
@@ -1293,12 +1254,10 @@
       }
       \strng{namehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{fullhash}{e9d490f8b31302bad9a93a92d9a70a51}
-      \strng{fullhashraw}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{bibnamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authorbibnamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authornamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authorfullhash}{e9d490f8b31302bad9a93a92d9a70a51}
-      \strng{authorfullhashraw}{e9d490f8b31302bad9a93a92d9a70a51}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -1334,7 +1293,7 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8260.1992.tb00997.x
       \endverb
     \endentry
-    \entry{nkambouAdvancesIntelligentTutoring2010}{book}{}{}
+    \entry{nkambouAdvancesIntelligentTutoring2010}{book}{}
       \name{editor}{3}{}{%
         {{un=0,uniquepart=base,hash=02158ea5cfb00ded8a3c96a6c8be84ba}{%
            family={Nkambou},
@@ -1370,16 +1329,13 @@
       }
       \strng{namehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{fullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
-      \strng{fullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{bibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
-      \strng{editorfullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editorabibnamehash}{291b9ed2ce22bd924c545353989f0a73}
       \strng{editoranamehash}{291b9ed2ce22bd924c545353989f0a73}
       \strng{editorafullhash}{291b9ed2ce22bd924c545353989f0a73}
-      \strng{editorafullhashraw}{291b9ed2ce22bd924c545353989f0a73}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -1413,7 +1369,7 @@
       \endverb
       \keyw{Artificial Intelligence in Education,Computational Intelligence,E-learning,Emotion,Intellignet Tutoring,knowledge,learning,modeling,natural language,ontology,Simulation}
     \endentry
-    \entry{oliveiraTailoredGamificationEducation2023}{article}{}{}
+    \entry{oliveiraTailoredGamificationEducation2023}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=b0f73f05f9ab7e746b38ec853880e2e8}{%
            family={Oliveira},
@@ -1460,12 +1416,10 @@
       }
       \strng{namehash}{8ee74e66ecc5e97e44821324f5baa99c}
       \strng{fullhash}{c8ef26b1543783a4202bb36e2c8235ca}
-      \strng{fullhashraw}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{bibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{authorbibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{authornamehash}{8ee74e66ecc5e97e44821324f5baa99c}
       \strng{authorfullhash}{c8ef26b1543783a4202bb36e2c8235ca}
-      \strng{authorfullhashraw}{c8ef26b1543783a4202bb36e2c8235ca}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -1506,7 +1460,7 @@
       \endverb
       \keyw{Adaptive learning,Game-based learning,Gamification,Literature review,Tailoring}
     \endentry
-    \entry{psotkaIntelligentTutoringSystems1988}{book}{}{}
+    \entry{psotkaIntelligentTutoringSystems1988}{book}{}
       \name{editor}{3}{}{%
         {{un=0,uniquepart=base,hash=6133977c3b6f6d8321f75164fe9fef08}{%
            family={Psotka},
@@ -1535,12 +1489,10 @@
       }
       \strng{namehash}{e0b6abc013fcf44ac78ef39b847e6284}
       \strng{fullhash}{4236212c14e89675bc98ec4d86bd2eaa}
-      \strng{fullhashraw}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{bibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{editorbibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{editornamehash}{e0b6abc013fcf44ac78ef39b847e6284}
       \strng{editorfullhash}{4236212c14e89675bc98ec4d86bd2eaa}
-      \strng{editorfullhashraw}{4236212c14e89675bc98ec4d86bd2eaa}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -1564,7 +1516,7 @@
       \endverb
       \keyw{Artificial Intelligence,Computer Assisted Instruction}
     \endentry
-    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}{}
+    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
            family={Sailer},
@@ -1581,12 +1533,10 @@
       }
       \strng{namehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{fullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
-      \strng{fullhashraw}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{bibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authorbibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authornamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authorfullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
-      \strng{authorfullhashraw}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -1627,7 +1577,7 @@
       \endverb
       \keyw{Behavior,Cognition,Gamification,Gamified learning,Learning,Meta-analysis,Motivation}
     \endentry
-    \entry{santosDoesGenderStereotype2023}{article}{}{}
+    \entry{santosDoesGenderStereotype2023}{article}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=654b7b2fdc6640c69347e1138d42eed5}{%
            family={Santos},
@@ -1686,12 +1636,10 @@
       }
       \strng{namehash}{c6654b8bf7f50306324814902956858f}
       \strng{fullhash}{8aaf24f8f0995a356bb03dcec157f76c}
-      \strng{fullhashraw}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{bibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{authorbibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{authornamehash}{c6654b8bf7f50306324814902956858f}
       \strng{authorfullhash}{8aaf24f8f0995a356bb03dcec157f76c}
-      \strng{authorfullhashraw}{8aaf24f8f0995a356bb03dcec157f76c}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -1732,7 +1680,7 @@
       \endverb
       \keyw{Aggressiveness,Gender stereotype threat,Intelligent tutoring systems,Stereotype threat,Stereotyped educational environments}
     \endentry
-    \entry{swachaStateResearchGamification2021}{article}{}{}
+    \entry{swachaStateResearchGamification2021}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0f8b6cb4e5c5b0423414f1badee0c458}{%
            family={Swacha},
@@ -1746,12 +1694,10 @@
       }
       \strng{namehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{fullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
-      \strng{fullhashraw}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{bibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authorbibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authornamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authorfullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
-      \strng{authorfullhashraw}{0f8b6cb4e5c5b0423414f1badee0c458}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -1791,7 +1737,7 @@
       \endverb
       \keyw{education,gamification,literature survey,publication analysis}
     \endentry
-    \entry{wehrweinGenderDifferencesLearning2007}{article}{}{}
+    \entry{wehrweinGenderDifferencesLearning2007}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b13d96b04ea9cbe618e4cf004bd8ae8c}{%
            family={Wehrwein},
@@ -1814,12 +1760,10 @@
       }
       \strng{namehash}{05df0c6074a71c30d591eb302312f093}
       \strng{fullhash}{9a3cc3e29c5f563061c04b23b5dd5b79}
-      \strng{fullhashraw}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{bibnamehash}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{authorbibnamehash}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{authornamehash}{05df0c6074a71c30d591eb302312f093}
       \strng{authorfullhash}{9a3cc3e29c5f563061c04b23b5dd5b79}
-      \strng{authorfullhashraw}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -1857,7 +1801,7 @@
       \verb https://www.physiology.org/doi/10.1152/advan.00060.2006
       \endverb
     \endentry
-    \entry{werbachWinHowGame2012}{book}{}{}
+    \entry{werbachWinHowGame2012}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=23013e615d774419d7e40f1e14594e57}{%
            family={Werbach},
@@ -1874,12 +1818,10 @@
       }
       \strng{namehash}{7558792aae9c0f366a73672471be5579}
       \strng{fullhash}{7558792aae9c0f366a73672471be5579}
-      \strng{fullhashraw}{7558792aae9c0f366a73672471be5579}
       \strng{bibnamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authorbibnamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authornamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authorfullhash}{7558792aae9c0f366a73672471be5579}
-      \strng{authorfullhashraw}{7558792aae9c0f366a73672471be5579}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -1898,7 +1840,7 @@
       \verb C:\Users\robin\Zotero\storage\U5FNTL9Y\Werbach und Hunter - 2012 - For the Win How Game Thinking can Revolutionize y.pdf
       \endverb
     \endentry
-    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}{}
+    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=55be320e8437b2dedbd66a2f047806af}{%
            family={Woolf},
@@ -1956,16 +1898,13 @@
       }
       \strng{namehash}{5b34cfe5538e218657b33b24b1bf6627}
       \strng{fullhash}{7a67cfffc1af1212929e3094189cb931}
-      \strng{fullhashraw}{7a67cfffc1af1212929e3094189cb931}
       \strng{bibnamehash}{7a67cfffc1af1212929e3094189cb931}
       \strng{authorbibnamehash}{7a67cfffc1af1212929e3094189cb931}
       \strng{authornamehash}{5b34cfe5538e218657b33b24b1bf6627}
       \strng{authorfullhash}{7a67cfffc1af1212929e3094189cb931}
-      \strng{authorfullhashraw}{7a67cfffc1af1212929e3094189cb931}
       \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
-      \strng{editorfullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -2001,7 +1940,7 @@
       \endverb
       \keyw{Automatic Detection,Intelligent Tutor System,Learn Disability,Pedagogical Agent,Skin Conductance}
     \endentry
-    \entry{zainuddinImpactGamificationLearning2020}{article}{}{}
+    \entry{zainuddinImpactGamificationLearning2020}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=fe6d5145f9545fdec9efee3b62b23372}{%
            family={Zainuddin},
@@ -2030,12 +1969,10 @@
       }
       \strng{namehash}{6c2412bf20db441f56520cdc1ea9854e}
       \strng{fullhash}{9ac9b414ba0d83fab41c0ba60faab665}
-      \strng{fullhashraw}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{bibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{authorbibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{authornamehash}{6c2412bf20db441f56520cdc1ea9854e}
       \strng{authorfullhash}{9ac9b414ba0d83fab41c0ba60faab665}
-      \strng{authorfullhashraw}{9ac9b414ba0d83fab41c0ba60faab665}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
@@ -2074,7 +2011,7 @@
       \endverb
       \keyw{Empirical evidence,Engagement,Gamification,Motivation,Social influence,Systematic literature review}
     \endentry
-    \entry{zawacki-richterSystematicReviewResearch2019}{article}{}{}
+    \entry{zawacki-richterSystematicReviewResearch2019}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c23524c2c85c64ea58f95e884e6c760c}{%
            family={Zawacki-Richter},
@@ -2103,12 +2040,10 @@
       }
       \strng{namehash}{50b28aed2201b3003b3bda80f5b81a0a}
       \strng{fullhash}{07714e7882dd904fe72d7656b5bd231b}
-      \strng{fullhashraw}{07714e7882dd904fe72d7656b5bd231b}
       \strng{bibnamehash}{07714e7882dd904fe72d7656b5bd231b}
       \strng{authorbibnamehash}{07714e7882dd904fe72d7656b5bd231b}
       \strng{authornamehash}{50b28aed2201b3003b3bda80f5b81a0a}
       \strng{authorfullhash}{07714e7882dd904fe72d7656b5bd231b}
-      \strng{authorfullhashraw}{07714e7882dd904fe72d7656b5bd231b}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
@@ -2147,8 +2082,8 @@
       \endverb
     \endentry
   \enddatalist
-  \datalist[entry]{apa/global//global/global/global}
-    \entry{albuquerqueDoesGenderStereotype2017}{article}{}{}
+  \datalist[entry]{apa/global//global/global}
+    \entry{albuquerqueDoesGenderStereotype2017}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=6dc2526f85f7683c3dc6b160f892ab62}{%
            family={Albuquerque},
@@ -2177,12 +2112,10 @@
       }
       \strng{namehash}{fccd19708106deb87bea98958327b5a6}
       \strng{fullhash}{516d1695909bb070534f2cbd613277f0}
-      \strng{fullhashraw}{516d1695909bb070534f2cbd613277f0}
       \strng{bibnamehash}{516d1695909bb070534f2cbd613277f0}
       \strng{authorbibnamehash}{516d1695909bb070534f2cbd613277f0}
       \strng{authornamehash}{fccd19708106deb87bea98958327b5a6}
       \strng{authorfullhash}{516d1695909bb070534f2cbd613277f0}
-      \strng{authorfullhashraw}{516d1695909bb070534f2cbd613277f0}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2219,7 +2152,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301914
       \endverb
     \endentry
-    \entry{almeidaSystematicMappingNegative2021}{article}{}{}
+    \entry{almeidaSystematicMappingNegative2021}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a9f652e334238b77c10803164ddf99f8}{%
            family={Almeida},
@@ -2242,12 +2175,10 @@
       }
       \strng{namehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
       \strng{fullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
-      \strng{fullhashraw}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{bibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{authorbibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{authornamehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
       \strng{authorfullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
-      \strng{authorfullhashraw}{32bcee9c09112bbca0f14ab08f24cfc3}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2282,7 +2213,7 @@
       \endverb
       \keyw{education,Ethics,Games,gamification,learning,negative effects,snowballing,Software engineering,systematic mapping,Systematics}
     \endentry
-    \entry{chenValidationNewGeneral2001}{article}{}{}
+    \entry{chenValidationNewGeneral2001}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=5ee7ef22770160196a96055862b01412}{%
            family={Chen},
@@ -2308,12 +2239,10 @@
       }
       \strng{namehash}{31568a015bb2172588de9d229a31577f}
       \strng{fullhash}{48ba123915744ce6e43d76eb340b7fb8}
-      \strng{fullhashraw}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{bibnamehash}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{authorbibnamehash}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{authornamehash}{31568a015bb2172588de9d229a31577f}
       \strng{authorfullhash}{48ba123915744ce6e43d76eb340b7fb8}
-      \strng{authorfullhashraw}{48ba123915744ce6e43d76eb340b7fb8}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -2351,7 +2280,7 @@
       \verb https://doi.org/10.1177/109442810141004
       \endverb
     \endentry
-    \entry{cheryanClassroomsMatterDesign2011}{article}{}{}
+    \entry{cheryanClassroomsMatterDesign2011}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9f74dee8600fd3a4a219714b3827d5f6}{%
            family={Cheryan},
@@ -2374,12 +2303,10 @@
       }
       \strng{namehash}{2604c34a7e6f5851b6b1be7196bf5009}
       \strng{fullhash}{8729a98a861d5b492da8aa248286a293}
-      \strng{fullhashraw}{8729a98a861d5b492da8aa248286a293}
       \strng{bibnamehash}{8729a98a861d5b492da8aa248286a293}
       \strng{authorbibnamehash}{8729a98a861d5b492da8aa248286a293}
       \strng{authornamehash}{2604c34a7e6f5851b6b1be7196bf5009}
       \strng{authorfullhash}{8729a98a861d5b492da8aa248286a293}
-      \strng{authorfullhashraw}{8729a98a861d5b492da8aa248286a293}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -2417,7 +2344,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S036013151100042X
       \endverb
     \endentry
-    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}{}
+    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b6b3eb68e514865c87d16278004a73f6}{%
            family={Christy},
@@ -2434,12 +2361,10 @@
       }
       \strng{namehash}{219220391049affce55f38493007cfdb}
       \strng{fullhash}{219220391049affce55f38493007cfdb}
-      \strng{fullhashraw}{219220391049affce55f38493007cfdb}
       \strng{bibnamehash}{219220391049affce55f38493007cfdb}
       \strng{authorbibnamehash}{219220391049affce55f38493007cfdb}
       \strng{authornamehash}{219220391049affce55f38493007cfdb}
       \strng{authorfullhash}{219220391049affce55f38493007cfdb}
-      \strng{authorfullhashraw}{219220391049affce55f38493007cfdb}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -2478,7 +2403,7 @@
       \endverb
       \keyw{Distance education and telelearning,Gender studies,Human–computer interface,Interactive learning environments,Teaching/learning strategies}
     \endentry
-    \entry{dabajRoleGenderAge2009}{report}{}{}
+    \entry{dabajRoleGenderAge2009}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a02dd8932644fde2ea7e5bd4b988d053}{%
            family={Dabaj},
@@ -2489,12 +2414,10 @@
       }
       \strng{namehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{fullhash}{a02dd8932644fde2ea7e5bd4b988d053}
-      \strng{fullhashraw}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{bibnamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authorbibnamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authornamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authorfullhash}{a02dd8932644fde2ea7e5bd4b988d053}
-      \strng{authorfullhashraw}{a02dd8932644fde2ea7e5bd4b988d053}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2529,7 +2452,7 @@
       \endverb
       \keyw{Age Differences,Case Studies,College Programs,College School Cooperation,Computer Assisted Instruction,Computer Attitudes,Computer Science Education,Conventional Instruction,Distance Education,Educational Technology,Electronic Learning,Foreign Countries,Gender Differences,Internet,Nonverbal Communication,Online Courses,Questionnaires,Student Attitudes,Virtual Classrooms,Vocational High Schools,Web Based Instruction}
     \endentry
-    \entry{desantanaEvaluatingImpactMars2016}{article}{}{}
+    \entry{desantanaEvaluatingImpactMars2016}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=d5b728e332595084cc39c466d5f98278}{%
            family={De\bibnamedelima Santana},
@@ -2570,12 +2493,10 @@
       }
       \strng{namehash}{f2ade78411381ed0ca9d4cdc7686f9dd}
       \strng{fullhash}{b0e1ef55852191e1853cf0b0e12a1140}
-      \strng{fullhashraw}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{bibnamehash}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{authorbibnamehash}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{authornamehash}{f2ade78411381ed0ca9d4cdc7686f9dd}
       \strng{authorfullhash}{b0e1ef55852191e1853cf0b0e12a1140}
-      \strng{authorfullhashraw}{b0e1ef55852191e1853cf0b0e12a1140}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2611,7 +2532,7 @@
       \endverb
       \keyw{Adaptive Learning Technology,Computational modeling,Controlled Experiment,Educational technology,Gender Difference,Mars,Mars and Venus Effect,Mathematical model,Venus}
     \endentry
-    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}{}
+    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=f3f534efbb82d811bec48937cff6ef83}{%
            family={Dehghanzadeh},
@@ -2646,12 +2567,10 @@
       }
       \strng{namehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
       \strng{fullhash}{8f49a1e43df9356da04450d15c57243d}
-      \strng{fullhashraw}{8f49a1e43df9356da04450d15c57243d}
       \strng{bibnamehash}{8f49a1e43df9356da04450d15c57243d}
       \strng{authorbibnamehash}{8f49a1e43df9356da04450d15c57243d}
       \strng{authornamehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
       \strng{authorfullhash}{8f49a1e43df9356da04450d15c57243d}
-      \strng{authorfullhashraw}{8f49a1e43df9356da04450d15c57243d}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2690,7 +2609,7 @@
       \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13335
       \endverb
     \endentry
-    \entry{dermevalGaTOOntologicalModel2019}{article}{}{}
+    \entry{dermevalGaTOOntologicalModel2019}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=6593b71bd4f473bb0b7824efda63b291}{%
            family={Dermeval},
@@ -2734,12 +2653,10 @@
       }
       \strng{namehash}{719a28883f4f7d999fc1f872940e59bd}
       \strng{fullhash}{a15096d2f9274f65775a9ba0c91ec25f}
-      \strng{fullhashraw}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{bibnamehash}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{authorbibnamehash}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{authornamehash}{719a28883f4f7d999fc1f872940e59bd}
       \strng{authorfullhash}{a15096d2f9274f65775a9ba0c91ec25f}
-      \strng{authorfullhashraw}{a15096d2f9274f65775a9ba0c91ec25f}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2777,7 +2694,7 @@
       \endverb
       \keyw{Gamification (GAM),Gamified intelligent tutoring systems,Intelligent tutoring systems (ITS),Intelligent tutoring systems (ITSs),Ontologies (26)}
     \endentry
-    \entry{deterdingGameDesignElements2011}{article}{}{}
+    \entry{deterdingGameDesignElements2011}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
            family={Deterding},
@@ -2806,12 +2723,10 @@
       }
       \strng{namehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
       \strng{fullhash}{5900b306a627b766e3160b1c23b117f2}
-      \strng{fullhashraw}{5900b306a627b766e3160b1c23b117f2}
       \strng{bibnamehash}{5900b306a627b766e3160b1c23b117f2}
       \strng{authorbibnamehash}{5900b306a627b766e3160b1c23b117f2}
       \strng{authornamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
       \strng{authorfullhash}{5900b306a627b766e3160b1c23b117f2}
-      \strng{authorfullhashraw}{5900b306a627b766e3160b1c23b117f2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2828,7 +2743,7 @@
       \verb C:\Users\robin\Zotero\storage\HZ9CWJSG\Deterding et al. - From game design elements to gamefulness defining.pdf
       \endverb
     \endentry
-    \entry{dichevGamifyingEducationWhat2017}{article}{}{}
+    \entry{dichevGamifyingEducationWhat2017}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=48a561a04f455ae1b27c05cda5287736}{%
            family={Dichev},
@@ -2845,12 +2760,10 @@
       }
       \strng{namehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{fullhash}{6e9f9638b3352f9132c832139b90546f}
-      \strng{fullhashraw}{6e9f9638b3352f9132c832139b90546f}
       \strng{bibnamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authorbibnamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authornamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authorfullhash}{6e9f9638b3352f9132c832139b90546f}
-      \strng{authorfullhashraw}{6e9f9638b3352f9132c832139b90546f}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2890,7 +2803,7 @@
       \endverb
       \keyw{Critical literature review,Empirical studies,Gamification in education,Gamifying learning}
     \endentry
-    \entry{elhadbiReviewStudyAdaptive2024}{inbook}{}{}
+    \entry{elhadbiReviewStudyAdaptive2024}{inbook}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=2253cfc5d2a8ced8b3ad49268f36deff}{%
            family={El\bibnamedelima Hadbi},
@@ -2948,16 +2861,13 @@
       }
       \strng{namehash}{00649789511ba4236b3bd1d66a8c91a5}
       \strng{fullhash}{00f598ef54ed593ff606a15fea19267f}
-      \strng{fullhashraw}{00f598ef54ed593ff606a15fea19267f}
       \strng{bibnamehash}{00f598ef54ed593ff606a15fea19267f}
       \strng{authorbibnamehash}{00f598ef54ed593ff606a15fea19267f}
       \strng{authornamehash}{00649789511ba4236b3bd1d66a8c91a5}
       \strng{authorfullhash}{00f598ef54ed593ff606a15fea19267f}
-      \strng{authorfullhashraw}{00f598ef54ed593ff606a15fea19267f}
       \strng{editorbibnamehash}{c53eecf16cc1b61c3444c70af21783f2}
       \strng{editornamehash}{afd6d0b7bc628b7e5385dd2c5690457c}
       \strng{editorfullhash}{c53eecf16cc1b61c3444c70af21783f2}
-      \strng{editorfullhashraw}{c53eecf16cc1b61c3444c70af21783f2}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -2982,7 +2892,7 @@
       \endverb
       \keyw{Adaptative E-learning,Adaptative E-learning Systems,Adaptive E-learning,E-learning,Intelligent Tutoring,Intelligent Tutoring Systems,Its,Personalized E-learning}
     \endentry
-    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}{}
+    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=c286a081d07226242ff62579001b5dc0}{%
            family={González},
@@ -3011,12 +2921,10 @@
       }
       \strng{namehash}{5267206d1acb3e5b0ed254e511619c1c}
       \strng{fullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
-      \strng{fullhashraw}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{bibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{authorbibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{authornamehash}{5267206d1acb3e5b0ed254e511619c1c}
       \strng{authorfullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
-      \strng{authorfullhashraw}{3e9469e14146df8cc63e8059ff9b8f1d}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -3053,7 +2961,7 @@
       \endverb
       \keyw{gamification,GBL,ITS}
     \endentry
-    \entry{guayAssessmentSituationalIntrinsic2000}{article}{}{}
+    \entry{guayAssessmentSituationalIntrinsic2000}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9f75ae264efaeed69b9fd3e41c7ee146}{%
            family={Guay},
@@ -3076,12 +2984,10 @@
       }
       \strng{namehash}{0df3278a28ae44c03cddc7baba4c3637}
       \strng{fullhash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
-      \strng{fullhashraw}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{bibnamehash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{authorbibnamehash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{authornamehash}{0df3278a28ae44c03cddc7baba4c3637}
       \strng{authorfullhash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
-      \strng{authorfullhashraw}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -3122,7 +3028,7 @@
       \endverb
       \keyw{Construct Validity,Intrinsic Motivation,Laboratory Setting,Laboratory Study,Social Psychology}
     \endentry
-    \entry{hamariDoesGamificationWork2014}{article}{}{}
+    \entry{hamariDoesGamificationWork2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
            family={Hamari},
@@ -3145,12 +3051,10 @@
       }
       \strng{namehash}{abbbc8908f6e89738e74c6165985a45a}
       \strng{fullhash}{d0a428170cd0c96f6811c01b642b11bc}
-      \strng{fullhashraw}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{bibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{authorbibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{authornamehash}{abbbc8908f6e89738e74c6165985a45a}
       \strng{authorfullhash}{d0a428170cd0c96f6811c01b642b11bc}
-      \strng{authorfullhashraw}{d0a428170cd0c96f6811c01b642b11bc}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -3173,7 +3077,7 @@
       \verb C:\Users\robin\Zotero\storage\3IB7SVSY\Hamari et al. - 2014 - Does Gamification Work — A Literature Review of E.pdf
       \endverb
     \endentry
-    \entry{jacksonMotivationPerformanceGamebased2013}{article}{}{}
+    \entry{jacksonMotivationPerformanceGamebased2013}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=4c477be08045c3cbb7a2d31f092881f1}{%
            family={Jackson},
@@ -3196,12 +3100,10 @@
       }
       \strng{namehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{fullhash}{4dca9f56d0719ed4ed9f3280b7c301cc}
-      \strng{fullhashraw}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{bibnamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authorbibnamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authornamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authorfullhash}{4dca9f56d0719ed4ed9f3280b7c301cc}
-      \strng{authorfullhashraw}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -3227,7 +3129,7 @@
       \endverb
       \keyw{Games,Intelligent Tutoring Systems,Learning Environment,Motivation,Performance}
     \endentry
-    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}{}
+    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=7d05031ede84b203ae4d4d88e6a4b1b0}{%
            family={Kampshoff},
@@ -3250,12 +3152,10 @@
       }
       \strng{namehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{fullhash}{6632fcbbc712f57a73e8e92be5f925a4}
-      \strng{fullhashraw}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{bibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editorbibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editornamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editorfullhash}{6632fcbbc712f57a73e8e92be5f925a4}
-      \strng{editorfullhashraw}{6632fcbbc712f57a73e8e92be5f925a4}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -3285,7 +3185,7 @@
       \verb https://link.springer.com/10.1007/978-3-531-18984-0
       \endverb
     \endentry
-    \entry{klabbersArchitectureGameScience2018}{article}{}{}
+    \entry{klabbersArchitectureGameScience2018}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=14ab837667ced135603a37329b9fabf9}{%
            family={Klabbers},
@@ -3299,12 +3199,10 @@
       }
       \strng{namehash}{14ab837667ced135603a37329b9fabf9}
       \strng{fullhash}{14ab837667ced135603a37329b9fabf9}
-      \strng{fullhashraw}{14ab837667ced135603a37329b9fabf9}
       \strng{bibnamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authorbibnamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authornamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authorfullhash}{14ab837667ced135603a37329b9fabf9}
-      \strng{authorfullhashraw}{14ab837667ced135603a37329b9fabf9}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -3342,7 +3240,7 @@
       \verb https://doi.org/10.1177/1046878118762534
       \endverb
     \endentry
-    \entry{lindqvistWhatGenderAnyway2021}{article}{}{}
+    \entry{lindqvistWhatGenderAnyway2021}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f991d3c71383bc5ed5b1d63eb2838c96}{%
            family={Lindqvist},
@@ -3368,12 +3266,10 @@
       }
       \strng{namehash}{baeeb0b218942dafde90346f514f06f0}
       \strng{fullhash}{38d9339a8ebde10a2bd69a1b51569047}
-      \strng{fullhashraw}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{bibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{authorbibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{authornamehash}{baeeb0b218942dafde90346f514f06f0}
       \strng{authorfullhash}{38d9339a8ebde10a2bd69a1b51569047}
-      \strng{authorfullhashraw}{38d9339a8ebde10a2bd69a1b51569047}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -3405,7 +3301,7 @@
       \verb https://www.tandfonline.com/doi/abs/10.1080/19419899.2020.1729844
       \endverb
     \endentry
-    \entry{marteauDevelopmentSixitemShortform1992}{article}{}{}
+    \entry{marteauDevelopmentSixitemShortform1992}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=758841d73486de8a783144e8841088c0}{%
            family={Marteau},
@@ -3422,12 +3318,10 @@
       }
       \strng{namehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{fullhash}{e9d490f8b31302bad9a93a92d9a70a51}
-      \strng{fullhashraw}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{bibnamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authorbibnamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authornamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authorfullhash}{e9d490f8b31302bad9a93a92d9a70a51}
-      \strng{authorfullhashraw}{e9d490f8b31302bad9a93a92d9a70a51}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -3463,7 +3357,7 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8260.1992.tb00997.x
       \endverb
     \endentry
-    \entry{nkambouAdvancesIntelligentTutoring2010}{book}{}{}
+    \entry{nkambouAdvancesIntelligentTutoring2010}{book}{}
       \name{editor}{3}{}{%
         {{un=0,uniquepart=base,hash=02158ea5cfb00ded8a3c96a6c8be84ba}{%
            family={Nkambou},
@@ -3499,16 +3393,13 @@
       }
       \strng{namehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{fullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
-      \strng{fullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{bibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
-      \strng{editorfullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editorabibnamehash}{291b9ed2ce22bd924c545353989f0a73}
       \strng{editoranamehash}{291b9ed2ce22bd924c545353989f0a73}
       \strng{editorafullhash}{291b9ed2ce22bd924c545353989f0a73}
-      \strng{editorafullhashraw}{291b9ed2ce22bd924c545353989f0a73}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -3542,7 +3433,7 @@
       \endverb
       \keyw{Artificial Intelligence in Education,Computational Intelligence,E-learning,Emotion,Intellignet Tutoring,knowledge,learning,modeling,natural language,ontology,Simulation}
     \endentry
-    \entry{oliveiraTailoredGamificationEducation2023}{article}{}{}
+    \entry{oliveiraTailoredGamificationEducation2023}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=b0f73f05f9ab7e746b38ec853880e2e8}{%
            family={Oliveira},
@@ -3589,12 +3480,10 @@
       }
       \strng{namehash}{8ee74e66ecc5e97e44821324f5baa99c}
       \strng{fullhash}{c8ef26b1543783a4202bb36e2c8235ca}
-      \strng{fullhashraw}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{bibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{authorbibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{authornamehash}{8ee74e66ecc5e97e44821324f5baa99c}
       \strng{authorfullhash}{c8ef26b1543783a4202bb36e2c8235ca}
-      \strng{authorfullhashraw}{c8ef26b1543783a4202bb36e2c8235ca}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -3635,7 +3524,7 @@
       \endverb
       \keyw{Adaptive learning,Game-based learning,Gamification,Literature review,Tailoring}
     \endentry
-    \entry{psotkaIntelligentTutoringSystems1988}{book}{}{}
+    \entry{psotkaIntelligentTutoringSystems1988}{book}{}
       \name{editor}{3}{}{%
         {{un=0,uniquepart=base,hash=6133977c3b6f6d8321f75164fe9fef08}{%
            family={Psotka},
@@ -3664,12 +3553,10 @@
       }
       \strng{namehash}{e0b6abc013fcf44ac78ef39b847e6284}
       \strng{fullhash}{4236212c14e89675bc98ec4d86bd2eaa}
-      \strng{fullhashraw}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{bibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{editorbibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{editornamehash}{e0b6abc013fcf44ac78ef39b847e6284}
       \strng{editorfullhash}{4236212c14e89675bc98ec4d86bd2eaa}
-      \strng{editorfullhashraw}{4236212c14e89675bc98ec4d86bd2eaa}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -3693,7 +3580,7 @@
       \endverb
       \keyw{Artificial Intelligence,Computer Assisted Instruction}
     \endentry
-    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}{}
+    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
            family={Sailer},
@@ -3710,12 +3597,10 @@
       }
       \strng{namehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{fullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
-      \strng{fullhashraw}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{bibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authorbibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authornamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authorfullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
-      \strng{authorfullhashraw}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -3756,7 +3641,7 @@
       \endverb
       \keyw{Behavior,Cognition,Gamification,Gamified learning,Learning,Meta-analysis,Motivation}
     \endentry
-    \entry{santosDoesGenderStereotype2023}{article}{}{}
+    \entry{santosDoesGenderStereotype2023}{article}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=654b7b2fdc6640c69347e1138d42eed5}{%
            family={Santos},
@@ -3815,12 +3700,10 @@
       }
       \strng{namehash}{c6654b8bf7f50306324814902956858f}
       \strng{fullhash}{8aaf24f8f0995a356bb03dcec157f76c}
-      \strng{fullhashraw}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{bibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{authorbibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{authornamehash}{c6654b8bf7f50306324814902956858f}
       \strng{authorfullhash}{8aaf24f8f0995a356bb03dcec157f76c}
-      \strng{authorfullhashraw}{8aaf24f8f0995a356bb03dcec157f76c}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -3861,7 +3744,7 @@
       \endverb
       \keyw{Aggressiveness,Gender stereotype threat,Intelligent tutoring systems,Stereotype threat,Stereotyped educational environments}
     \endentry
-    \entry{swachaStateResearchGamification2021}{article}{}{}
+    \entry{swachaStateResearchGamification2021}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0f8b6cb4e5c5b0423414f1badee0c458}{%
            family={Swacha},
@@ -3875,12 +3758,10 @@
       }
       \strng{namehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{fullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
-      \strng{fullhashraw}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{bibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authorbibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authornamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authorfullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
-      \strng{authorfullhashraw}{0f8b6cb4e5c5b0423414f1badee0c458}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -3920,7 +3801,7 @@
       \endverb
       \keyw{education,gamification,literature survey,publication analysis}
     \endentry
-    \entry{wehrweinGenderDifferencesLearning2007}{article}{}{}
+    \entry{wehrweinGenderDifferencesLearning2007}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b13d96b04ea9cbe618e4cf004bd8ae8c}{%
            family={Wehrwein},
@@ -3943,12 +3824,10 @@
       }
       \strng{namehash}{05df0c6074a71c30d591eb302312f093}
       \strng{fullhash}{9a3cc3e29c5f563061c04b23b5dd5b79}
-      \strng{fullhashraw}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{bibnamehash}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{authorbibnamehash}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{authornamehash}{05df0c6074a71c30d591eb302312f093}
       \strng{authorfullhash}{9a3cc3e29c5f563061c04b23b5dd5b79}
-      \strng{authorfullhashraw}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -3986,7 +3865,7 @@
       \verb https://www.physiology.org/doi/10.1152/advan.00060.2006
       \endverb
     \endentry
-    \entry{werbachWinHowGame2012}{book}{}{}
+    \entry{werbachWinHowGame2012}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=23013e615d774419d7e40f1e14594e57}{%
            family={Werbach},
@@ -4003,12 +3882,10 @@
       }
       \strng{namehash}{7558792aae9c0f366a73672471be5579}
       \strng{fullhash}{7558792aae9c0f366a73672471be5579}
-      \strng{fullhashraw}{7558792aae9c0f366a73672471be5579}
       \strng{bibnamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authorbibnamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authornamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authorfullhash}{7558792aae9c0f366a73672471be5579}
-      \strng{authorfullhashraw}{7558792aae9c0f366a73672471be5579}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -4027,7 +3904,7 @@
       \verb C:\Users\robin\Zotero\storage\U5FNTL9Y\Werbach und Hunter - 2012 - For the Win How Game Thinking can Revolutionize y.pdf
       \endverb
     \endentry
-    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}{}
+    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=55be320e8437b2dedbd66a2f047806af}{%
            family={Woolf},
@@ -4085,16 +3962,13 @@
       }
       \strng{namehash}{5b34cfe5538e218657b33b24b1bf6627}
       \strng{fullhash}{7a67cfffc1af1212929e3094189cb931}
-      \strng{fullhashraw}{7a67cfffc1af1212929e3094189cb931}
       \strng{bibnamehash}{7a67cfffc1af1212929e3094189cb931}
       \strng{authorbibnamehash}{7a67cfffc1af1212929e3094189cb931}
       \strng{authornamehash}{5b34cfe5538e218657b33b24b1bf6627}
       \strng{authorfullhash}{7a67cfffc1af1212929e3094189cb931}
-      \strng{authorfullhashraw}{7a67cfffc1af1212929e3094189cb931}
       \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
-      \strng{editorfullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -4130,7 +4004,7 @@
       \endverb
       \keyw{Automatic Detection,Intelligent Tutor System,Learn Disability,Pedagogical Agent,Skin Conductance}
     \endentry
-    \entry{zainuddinImpactGamificationLearning2020}{article}{}{}
+    \entry{zainuddinImpactGamificationLearning2020}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=fe6d5145f9545fdec9efee3b62b23372}{%
            family={Zainuddin},
@@ -4159,12 +4033,10 @@
       }
       \strng{namehash}{6c2412bf20db441f56520cdc1ea9854e}
       \strng{fullhash}{9ac9b414ba0d83fab41c0ba60faab665}
-      \strng{fullhashraw}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{bibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{authorbibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{authornamehash}{6c2412bf20db441f56520cdc1ea9854e}
       \strng{authorfullhash}{9ac9b414ba0d83fab41c0ba60faab665}
-      \strng{authorfullhashraw}{9ac9b414ba0d83fab41c0ba60faab665}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
@@ -4203,7 +4075,7 @@
       \endverb
       \keyw{Empirical evidence,Engagement,Gamification,Motivation,Social influence,Systematic literature review}
     \endentry
-    \entry{zawacki-richterSystematicReviewResearch2019}{article}{}{}
+    \entry{zawacki-richterSystematicReviewResearch2019}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c23524c2c85c64ea58f95e884e6c760c}{%
            family={Zawacki-Richter},
@@ -4232,12 +4104,10 @@
       }
       \strng{namehash}{50b28aed2201b3003b3bda80f5b81a0a}
       \strng{fullhash}{07714e7882dd904fe72d7656b5bd231b}
-      \strng{fullhashraw}{07714e7882dd904fe72d7656b5bd231b}
       \strng{bibnamehash}{07714e7882dd904fe72d7656b5bd231b}
       \strng{authorbibnamehash}{07714e7882dd904fe72d7656b5bd231b}
       \strng{authornamehash}{50b28aed2201b3003b3bda80f5b81a0a}
       \strng{authorfullhash}{07714e7882dd904fe72d7656b5bd231b}
-      \strng{authorfullhashraw}{07714e7882dd904fe72d7656b5bd231b}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}

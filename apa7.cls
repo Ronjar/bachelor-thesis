@@ -788,8 +788,10 @@
 \long\def\duedate#1{\long\def\@duedate{#1}}
 \long\def\shorttitle#1{\long\def\@shorttitle{#1}}
 \long\def\note#1{\long\def\@note{#1}}
-\long\def\abstract#1{\long\def\@abstract{#1}}
-\long\def\keywords#1{\long\def\@keywords{#1}}
+\long\def\abstractGerman#1{\long\def\@abstractGerman{#1}}
+\long\def\abstractEnglish#1{\long\def\@abstractEnglish{#1}}
+\long\def\keywordsGerman#1{\long\def\@keywordsGerman{#1}}
+\long\def\keywordsEnglish#1{\long\def\@keywordsEnglish{#1}}
 \long\def\authornote#1{\long\def\@acks{#1}}
 \def\journal#1{\def\@journal{#1}}
 \def\volume#1{\def\@vvolume{#1}}
@@ -909,10 +911,14 @@
    \@ifundefined{def@stu}{% man mode
     \@ifundefined{@shorttitle}{%
    \ClassWarningNoLine{apa7}{Short title not defined}\def\@shorttitle{INSERT SHORTTITLE COMMAND IN PREAMBLE}}{}
-  \@ifundefined{@abstract}{%
-   \ClassWarningNoLine{apa7}{Abstract not defined}}{}
-  \@ifundefined{@keywords}{%
-   \ClassInfo{apa7}{Keywords not defined}}{}
+  \@ifundefined{@abstractGerman}{%
+   \ClassWarningNoLine{apa7}{German abstract not defined}}{}
+  \@ifundefined{@abstractEnglish}{%
+   \ClassWarningNoLine{apa7}{English abstract not defined}}{}
+  \@ifundefined{@keywordsGerman}{%
+   \ClassInfo{apa7}{German keywords not defined}}{}
+  \@ifundefined{@keywordsEnglish}{%
+   \ClassInfo{apa7}{English keywords not defined}}{}
  }{ % stu mode
  \@ifundefined{@course}{%
    \ClassWarningNoLine{apa7}{Course title not defined}\def\@course{Course Title}}{}
@@ -1340,15 +1346,24 @@
   \newpage
   %BDB\hyphenpenalty 10000
   \fussy
-  \@ifundefined{@abstract}{}{%
+  \@ifundefined{@abstractGerman}{}{%
     \section*{\normalfont\normalsize\textbf\abstractname}% BDB
-    \noindent\@abstract\par% BDB
-    \@ifundefined{@keywords}{}{%
+    \noindent\@abstractGerman\par% BDB
+    \@ifundefined{@keywordsGerman}{}{%
       \setlength{\parindent}{0.5in}% BDB
-      \indent\textit{\keywordname:} \@keywords%
+      \indent\textit{\keywordname:} \@keywordsGerman%
     }%
     \newpage
   }
+  \@ifundefined{@abstractEnglish}{}{%
+  \section*{\normalfont\normalsize\textbf\abstractname}% BDB
+  \noindent\@abstractEnglish\par% BDB
+  \@ifundefined{@keywordsEnglish}{}{%
+    \setlength{\parindent}{0.5in}% BDB
+    \indent\textit{\keywordname:} \@keywordsEnglish%
+  }%
+  \newpage
+}
 
   \@ifundefined{def@donotrepeattitle}{
     \section*{\protect\normalfont\textbf{\@title}}
@@ -1454,12 +1469,22 @@
     \vspace{0.32in}
   }
 
-  \@ifundefined{@abstract}
+  \@ifundefined{@abstractGerman}
   {\par }
   {\par \parbox{4.6875in}
-   {\small \noindent \@abstract
-     \@ifundefined{@keywords}{}{%
-      \par\vspace{0.12in}\raggedright\textit{\keywordname:} \@keywords%
+   {\small \noindent \@abstractGerman
+     \@ifundefined{@keywordsGerman}{}{%
+      \par\vspace{0.12in}\raggedright\textit{\keywordname:} \@keywordsGerman%
+     }%
+   }
+   \vspace{0.24in}%
+  }
+  \@ifundefined{@abstractEnglish}
+  {\par }
+  {\par \parbox{4.6875in}
+   {\small \noindent \@abstractEnglish
+     \@ifundefined{@keywordsEnglish}{}{%
+      \par\vspace{0.12in}\raggedright\textit{\keywordname:} \@keywordsEnglish%
      }%
    }
    \vspace{0.24in}%
@@ -1634,12 +1659,21 @@
   }{%  mask author identity -- show nothing in the author note space
   }
 
-  \@ifundefined{@abstract}{}{%
+  \@ifundefined{@abstractGerman}{}{%
    {\abstractname}\vspace{0.1in}% BDB
 
-   \parbox{5in}{\@abstract%
-     \@ifundefined{@keywords}{}{%
-       \par\vspace{0.12in}\textit{\keywordname:} \@keywords%
+   \parbox{5in}{\@abstractGerman%
+     \@ifundefined{@keywordsGerman}{}{%
+       \par\vspace{0.12in}\textit{\keywordname:} \@keywordsGerman%
+     }%
+   }\vspace{0.25in}%
+  }
+  \@ifundefined{@abstractEnglish}{}{%
+   {\abstractname}\vspace{0.1in}% BDB
+
+   \parbox{5in}{\@abstractEnglish%
+     \@ifundefined{@keywordsEnglish}{}{%
+       \par\vspace{0.12in}\textit{\keywordname:} \@keywordsEnglish%
      }%
    }\vspace{0.25in}%
   }
