@@ -1,6 +1,6 @@
 % !TeX spellcheck = en_US
 
-\section{Evaluation}
+\section{Results}
 \label{chap:evaluation}
 \subsection{Data Exclusion}
 Participants who identified their gender as "other" were excluded from the analysis because the present research available and used for this thesis primarily focuses on comparisons between male and female participants.
@@ -10,7 +10,7 @@ Therefore, a performance below 25\% suggests either random guessing or a fundame
 Furthermore, any incomplete data sets were excluded to ensure the integrity and consistency of the analysis, resulting in the exclusion of one additional participant.
 Initially, there were 120 data sets, and after applying the exclusion criteria, 117 data sets remained.
 
-\section{Outline of statistical analysis}
+\subsection{Outline of statistical analysis}
 Having preprocessed and cleaned the data, we proceeded with our statistical analysis using linear mixed models (LMMs).
 These models were chosen for their ability to handle the complexities of repeated measures from the same subjects under varying conditions.
 By incorporating both fixed effects (gender and gamified elements) and random effects (individual differences), LMMs provided a robust framework for our analysis.
@@ -26,12 +26,14 @@ This method helps in achieving more reliable p-values by adjusting the degrees o
 
 This combination of methods and their implementation through LMMs allowed us to systematically analyse the effects of gender and gamified elements on performance and anxiety, controlling for individual variability and the specifics of the experimental design.
 
-\subsection{Results}
+\subsection{Report of findings}
 
 \subsubsection{Performance}
-Our analysis revealed no significant main effects or interactions for all hypotheses regarding performance, as documented in Table \ref{tab:lmm_performance}. Despite this lack of significant effects, some descriptive effects are notable.
+Our analysis revealed no significant main effects or interactions for all hypotheses regarding performance, as documented in Table \ref{tab:lmm_performance}.
+Despite this lack of significant effects, some descriptive effects are notable.
 
-Women exhibited lower performance levels when leaderboards were the gamified Element used ($M $= .700, $SE$ = .056) compared to men ($M$ = .835, $SE$ = .024) and to the overall average performance in gamified settings for women ($M$ = .846, $SE$ = 0.030). Notable is also the variability suggested by the large standard error for women in this leaderboard condition.
+Women exhibited lower performance levels when leaderboards were the gamified element used (\textit{M}= .700, \textit{SE} = .056) compared to men (\textit{M} = .835, \textit{SE} = .024) and to the overall average performance in gamified settings for women (\textit{M} = .846, \textit{SE} = 0.030).
+Notable is also the variability suggested by the large standard error for women in this leaderboard condition.
 
 \begin{figure}[h]
     \centering
@@ -51,27 +53,27 @@ Women exhibited lower performance levels when leaderboards were the gamified Ele
 \begin{table}[h]
     \centering
     \caption{Results of the linear mixed model analysis for percentage correct effects.}
-    \label{tab:lmm_percentage_correct}
+    \label{tab:lmm_performance}
     \resizebox{\textwidth}{!}{
-        \begin{tabular}{|l|l|l|l|l|l|}
+        \begin{tabular}{lccccc}
             \hline
             \textbf{Variable} & \textbf{std. Beta \(\beta\)} & \textbf{standardized 95\% CI of \(\beta\)} & \textbf{\( p \)} & \textbf{Statistic} & \textbf{df} \\
             \hline
-            Gender [male] & 0.07 & [-0.47, 0.62] & 0.994 & 0.27 & 277.62 \\
-            Gamified Element [Points (P)] & -0.33 & [-0.82, 0.16] & 0.493 & -1.35 & 211.82 \\
-            Gamified Element [Badges (B)] & 0.06 & [-0.50, 0.62] & 0.994 & 0.21 & 214.27 \\
-            Gamified Element [Level (L)] & -0.48 & [-1.04, 0.09] & 0.384 & -1.67 & 213.69 \\
-            Gamified Element [Avatars (A)] & 0.13 & [-0.39, 0.64] & 0.994 & 0.49 & 208.19 \\
-            Gamified Element [Narrative Content (N)] & 0.44 & [-0.07, 0.95] & 0.384 & 1.70 & 207.03 \\
-            Gamified Element [Combination (PBLA)] & 0.01 & [-0.45, 0.48] & 0.994 & 0.06 & 208.37 \\
-            Gamified Element [All Elements (PBLAN)] & 0.06 & [-0.46, 0.57] & 0.994 & 0.22 & 210.22 \\
-            Gender [male] × Gamified Element [Points (P)] & 0.42 & [-0.20, 1.04] & 0.493 & 1.33 & 214.33 \\
-            Gender [male] × Gamified Element [Badges (B)] & -0.22 & [-0.88, 0.45] & 0.994 & -0.64 & 213.78 \\
-            Gender [male] × Gamified Element [Level (L)] & 0.61 & [-0.06, 1.28] & 0.384 & 1.79 & 214.82 \\
-            Gender [male] × Gamified Element [Avatars (A)] & 0.01 & [-0.62, 0.64] & 0.994 & 0.03 & 209.52 \\
-            Gender [male] × Gamified Element [Narrative Content (N)] & -0.00 & [-0.63, 0.63] & 0.994 & -0.01 & 210.19 \\
-            Gender [male] × Gamified Element [Combination (PBLA)] & 0.37 & [-0.25, 0.98] & 0.548 & 1.18 & 211.59 \\
-            Gender [male] × Gamified Element [All Elements (PBLAN)] & 0.01 & [-0.63, 0.64] & 0.994 & 0.02 & 210.43 \\
+            gender [male] & 0.07 & [-0.47, 0.62] & 0.994 & 0.27 & 277.62 \\
+            gamified element [Points (P)] & -0.33 & [-0.82, 0.16] & 0.493 & -1.35 & 211.82 \\
+            gamified element [Badges (B)] & 0.06 & [-0.50, 0.62] & 0.994 & 0.21 & 214.27 \\
+            gamified element [Level (L)] & -0.48 & [-1.04, 0.09] & 0.384 & -1.67 & 213.69 \\
+            gamified element [Avatars (A)] & 0.13 & [-0.39, 0.64] & 0.994 & 0.49 & 208.19 \\
+            gamified element [Narrative Content (N)] & 0.44 & [-0.07, 0.95] & 0.384 & 1.70 & 207.03 \\
+            gamified element [Combination (PBLA)] & 0.01 & [-0.45, 0.48] & 0.994 & 0.06 & 208.37 \\
+            gamified element [All Elements (PBLAN)] & 0.06 & [-0.46, 0.57] & 0.994 & 0.22 & 210.22 \\
+            gender [male] × gamified element [Points (P)] & 0.42 & [-0.20, 1.04] & 0.493 & 1.33 & 214.33 \\
+            gender [male] × gamified element [Badges (B)] & -0.22 & [-0.88, 0.45] & 0.994 & -0.64 & 213.78 \\
+            gender [male] × gamified element [Level (L)] & 0.61 & [-0.06, 1.28] & 0.384 & 1.79 & 214.82 \\
+            gender [male] × gamified element [Avatars (A)] & 0.01 & [-0.62, 0.64] & 0.994 & 0.03 & 209.52 \\
+            gender [male] × gamified element [Narrative Content (N)] & -0.00 & [-0.63, 0.63] & 0.994 & -0.01 & 210.19 \\
+            gender [male] × gamified element [Combination (PBLA)] & 0.37 & [-0.25, 0.98] & 0.548 & 1.18 & 211.59 \\
+            gender [male] × gamified element [All Elements (PBLAN)] & 0.01 & [-0.63, 0.64] & 0.994 & 0.02 & 210.43 \\
             \hline
         \end{tabular}
     }
@@ -80,20 +82,19 @@ Women exhibited lower performance levels when leaderboards were the gamified Ele
 
 
 \subsubsection{Anxiety}
-Similarly, our analysis revealed no significant main effects or interactions for all hypotheses regarding anxiety levels, as detailed in Table \ref{tab:lmm_anxiety}. Nonetheless, some descriptive trends are worth noting.
+Similarly, our analysis revealed no significant main effects or interactions for all hypotheses regarding anxiety levels, as detailed in Table \ref{tab:lmm_stai}.
+Nonetheless, some descriptive trends are worth noting.
 
-Figure \ref{fig:plot_anxiety_gender} shows that women experienced higher anxiety levels in the non-gamified environment ($M$ = .571, $SE$ = .092) and with leaderboards ($M$ = .683, $SE$ = .205) compared to men in the same settings ($M$ = .296, $SE$ = .099 and $M$ = .566, $SE$ = .119, respectively). Conversely, the use of avatars led to lower anxiety levels in women ($M$ = .187, $SE$ = .095) compared to men ($M$ = .476, $SE$ = .102 ).
+Figure \ref{fig:anxiety_comparison} shows that women experienced higher anxiety levels in the non-gamified environment (\textit{M} = .571, \textit{SE} = .092) and with leaderboards (\textit{M} = .683, \textit{SE} = .205) compared to men in the same settings (\textit{M} = .296, \textit{SE} = .099 and \textit{M} = .566, \textit{SE} = .119, respectively). Conversely, the use of avatars led to lower anxiety levels in women (\textit{M} = .187, \textit{SE} = .095) compared to men (\textit{M} = .476, \textit{SE} = .102).
 
 \begin{figure}[h]
     \centering
     \begin{subfigure}[b]{0.45\textwidth}
         \includegraphics[width=\textwidth]{img/plots/plot_anxiety.png}
-        \label{fig:plot_anxiety}
     \end{subfigure}
     \hfill
     \begin{subfigure}[b]{0.45\textwidth}
         \includegraphics[width=\textwidth]{img/plots/plot_anxiety_gender.png}
-        \label{fig:plot_anxiety_gender}
     \end{subfigure}
     \caption{On the left: Anxiety levels across different gamification elements. On the right: Differences in anxiety levels between genders in various gamification contexts.}
     \label{fig:anxiety_comparison}
@@ -104,25 +105,25 @@ Figure \ref{fig:plot_anxiety_gender} shows that women experienced higher anxiety
     \caption{Results of the linear mixed model analysis for STAI effects.}
     \label{tab:lmm_stai}
     \resizebox{\textwidth}{!}{
-        \begin{tabular}{|l|l|l|l|l|l|}
+        \begin{tabular}{lccccc}
             \hline
             \textbf{Variable} & \textbf{std. Beta \(\beta\)} & \textbf{standardized 95\% CI of \(\beta\)} & \textbf{\( p \)} & \textbf{Statistic} & \textbf{df} \\
             \hline
-            Gender [male] & -0.25 & [-0.83, 0.34] & 0.623 & -0.83 & 288.25 \\
-            Gamified Element [Points (P)] & -0.28 & [-0.83, 0.27] & 0.564 & -1.00 & 216.76 \\
-            Gamified Element [Badges (B)] & 0.23 & [-0.40, 0.86] & 0.623 & 0.73 & 221.07 \\
-            Gamified Element [Leaderboards (L)] & -0.04 & [-0.67, 0.59] & 0.913 & -0.11 & 220.38 \\
-            Gamified Element [Avatars (A)] & -0.62 & [-1.20, -0.04] & 0.228 & -2.11 & 213.37 \\
-            Gamified Element [Narrative Content (N)] & -0.53 & [-1.10, 0.05] & 0.241 & -1.81 & 211.70 \\
-            Gamified Element [Combination (PBLA)] & -0.03 & [-0.55, 0.50] & 0.913 & -0.11 & 213.53 \\
-            Gamified Element [All Elements (PBLAN)] & -0.60 & [-1.18, -0.02] & 0.228 & -2.04 & 215.77 \\
-            Gender [male] × Gamified Element [Points (P)] & 0.42 & [-0.28, 1.11] & 0.481 & 1.18 & 220.20 \\
-            Gender [male] × Gamified Element [Badges (B)] & -0.18 & [-0.93, 0.57] & 0.787 & -0.47 & 220.26 \\
-            Gender [male] × Gamified Element [Leaderboards (L)] & 0.28 & [-0.47, 1.04] & 0.623 & 0.74 & 221.54 \\
-            Gender [male] × Gamified Element [Avatars (A)] & 0.64 & [-0.07, 1.35] & 0.241 & 1.79 & 214.84 \\
-            Gender [male] × Gamified Element [Narrative Content (N)] & 0.50 & [-0.21, 1.21] & 0.437 & 1.40 & 215.47 \\
-            Gender [male] × Gamified Element [Combination (PBLA)] & 0.10 & [-0.58, 0.79] & 0.882 & 0.29 & 217.43 \\
-            Gender [male] × Gamified Element [All Elements (PBLAN)] & 0.45 & [-0.26, 1.17] & 0.481 & 1.25 & 215.91 \\
+            gender [male] & -0.25 & [-0.83, 0.34] & 0.623 & -0.83 & 288.25 \\
+            gamified element [Points (P)] & -0.28 & [-0.83, 0.27] & 0.564 & -1.00 & 216.76 \\
+            gamified element [Badges (B)] & 0.23 & [-0.40, 0.86] & 0.623 & 0.73 & 221.07 \\
+            gamified element [Leaderboards (L)] & -0.04 & [-0.67, 0.59] & 0.913 & -0.11 & 220.38 \\
+            gamified element [Avatars (A)] & -0.62 & [-1.20, -0.04] & 0.228 & -2.11 & 213.37 \\
+            gamified element [Narrative Content (N)] & -0.53 & [-1.10, 0.05] & 0.241 & -1.81 & 211.70 \\
+            gamified element [Combination (PBLA)] & -0.03 & [-0.55, 0.50] & 0.913 & -0.11 & 213.53 \\
+            gamified element [All Elements (PBLAN)] & -0.60 & [-1.18, -0.02] & 0.228 & -2.04 & 215.77 \\
+            gender [male] × gamified element [Points (P)] & 0.42 & [-0.28, 1.11] & 0.481 & 1.18 & 220.20 \\
+            gender [male] × gamified element [Badges (B)] & -0.18 & [-0.93, 0.57] & 0.787 & -0.47 & 220.26 \\
+            gender [male] × gamified element [Leaderboards (L)] & 0.28 & [-0.47, 1.04] & 0.623 & 0.74 & 221.54 \\
+            gender [male] × gamified element [Avatars (A)] & 0.64 & [-0.07, 1.35] & 0.241 & 1.79 & 214.84 \\
+            gender [male] × gamified element [Narrative Content (N)] & 0.50 & [-0.21, 1.21] & 0.437 & 1.40 & 215.47 \\
+            gender [male] × gamified element [Combination (PBLA)] & 0.10 & [-0.58, 0.79] & 0.882 & 0.29 & 217.43 \\
+            gender [male] × gamified element [All Elements (PBLAN)] & 0.45 & [-0.26, 1.17] & 0.481 & 1.25 & 215.91 \\
             \hline
         \end{tabular}
     }

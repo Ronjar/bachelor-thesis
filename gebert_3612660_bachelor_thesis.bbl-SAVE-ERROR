@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{apa/apasortcite//global/global}
-    \entry{albuquerqueDoesGenderStereotype2017}{article}{}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{albuquerqueDoesGenderStereotype2017}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=6dc2526f85f7683c3dc6b160f892ab62}{%
            family={Albuquerque},
@@ -48,10 +48,12 @@
       }
       \strng{namehash}{fccd19708106deb87bea98958327b5a6}
       \strng{fullhash}{516d1695909bb070534f2cbd613277f0}
+      \strng{fullhashraw}{516d1695909bb070534f2cbd613277f0}
       \strng{bibnamehash}{516d1695909bb070534f2cbd613277f0}
       \strng{authorbibnamehash}{516d1695909bb070534f2cbd613277f0}
       \strng{authornamehash}{fccd19708106deb87bea98958327b5a6}
       \strng{authorfullhash}{516d1695909bb070534f2cbd613277f0}
+      \strng{authorfullhashraw}{516d1695909bb070534f2cbd613277f0}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -88,7 +90,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301914
       \endverb
     \endentry
-    \entry{almeidaSystematicMappingNegative2021}{article}{}
+    \entry{almeidaSystematicMappingNegative2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a9f652e334238b77c10803164ddf99f8}{%
            family={Almeida},
@@ -111,10 +113,12 @@
       }
       \strng{namehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
       \strng{fullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{fullhashraw}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{bibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{authorbibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{authornamehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
       \strng{authorfullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{authorfullhashraw}{32bcee9c09112bbca0f14ab08f24cfc3}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -149,7 +153,55 @@
       \endverb
       \keyw{education,Ethics,Games,gamification,learning,negative effects,snowballing,Software engineering,systematic mapping,Systematics}
     \endentry
-    \entry{chenValidationNewGeneral2001}{article}{}
+    \entry{statistischesbundesamtsDigitalesLernenNimmt2020}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1613dfe5296df8694a628b37e7c22a71}{%
+           family={Bundesamts},
+           familyi={B\bibinitperiod},
+           given={Statistisches},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Statistisches Bundesamt}%
+      }
+      \strng{namehash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{fullhash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{fullhashraw}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{bibnamehash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{authorbibnamehash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{authornamehash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{authorfullhash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{authorfullhashraw}{1613dfe5296df8694a628b37e7c22a71}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Digitales Lernen ist in der Corona-Krise gefragter denn je – vor allem an weiterführenden Schulen. Im ersten Quartal 2020 kommunizierten 59~\% der 10- bis 15-Jährigen mit Lehrkräften oder anderen Lernenden über entsprechende Lernplattformen oder -portale. Wie das Statistische Bundesamt (Destatis) mitteilt, war dieser Wert mehr als sieben Mal so hoch wie im Vorjahr (1. Quartal 2019: 8~\%). Von den Schülerinnen, Schülern und Studierenden ab 16 Jahren nutzten 72~\% diesen Weg der Kommunikation zu Lernzwecken. Damit hat sich in dieser Altersgruppe der Anteil im Vergleich zum entsprechenden Vorjahresquartal verdoppelt (1. Quartal 2019: 35~\%).}
+      \field{day}{8}
+      \field{langid}{ngerman}
+      \field{month}{12}
+      \field{title}{Digitales Lernen nimmt stark zu}
+      \field{urlday}{20}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\robin\Zotero\storage\RQ6ZTCHF\PD20_N081_63.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2020/12/PD20_N081_63.html
+      \endverb
+      \verb{url}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2020/12/PD20_N081_63.html
+      \endverb
+    \endentry
+    \entry{chenValidationNewGeneral2001}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=5ee7ef22770160196a96055862b01412}{%
            family={Chen},
@@ -175,10 +227,12 @@
       }
       \strng{namehash}{31568a015bb2172588de9d229a31577f}
       \strng{fullhash}{48ba123915744ce6e43d76eb340b7fb8}
+      \strng{fullhashraw}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{bibnamehash}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{authorbibnamehash}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{authornamehash}{31568a015bb2172588de9d229a31577f}
       \strng{authorfullhash}{48ba123915744ce6e43d76eb340b7fb8}
+      \strng{authorfullhashraw}{48ba123915744ce6e43d76eb340b7fb8}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -216,7 +270,7 @@
       \verb https://doi.org/10.1177/109442810141004
       \endverb
     \endentry
-    \entry{cheryanClassroomsMatterDesign2011}{article}{}
+    \entry{cheryanClassroomsMatterDesign2011}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9f74dee8600fd3a4a219714b3827d5f6}{%
            family={Cheryan},
@@ -239,10 +293,12 @@
       }
       \strng{namehash}{2604c34a7e6f5851b6b1be7196bf5009}
       \strng{fullhash}{8729a98a861d5b492da8aa248286a293}
+      \strng{fullhashraw}{8729a98a861d5b492da8aa248286a293}
       \strng{bibnamehash}{8729a98a861d5b492da8aa248286a293}
       \strng{authorbibnamehash}{8729a98a861d5b492da8aa248286a293}
       \strng{authornamehash}{2604c34a7e6f5851b6b1be7196bf5009}
       \strng{authorfullhash}{8729a98a861d5b492da8aa248286a293}
+      \strng{authorfullhashraw}{8729a98a861d5b492da8aa248286a293}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -280,7 +336,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S036013151100042X
       \endverb
     \endentry
-    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}
+    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b6b3eb68e514865c87d16278004a73f6}{%
            family={Christy},
@@ -297,10 +353,12 @@
       }
       \strng{namehash}{219220391049affce55f38493007cfdb}
       \strng{fullhash}{219220391049affce55f38493007cfdb}
+      \strng{fullhashraw}{219220391049affce55f38493007cfdb}
       \strng{bibnamehash}{219220391049affce55f38493007cfdb}
       \strng{authorbibnamehash}{219220391049affce55f38493007cfdb}
       \strng{authornamehash}{219220391049affce55f38493007cfdb}
       \strng{authorfullhash}{219220391049affce55f38493007cfdb}
+      \strng{authorfullhashraw}{219220391049affce55f38493007cfdb}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -339,7 +397,7 @@
       \endverb
       \keyw{Distance education and telelearning,Gender studies,Human–computer interface,Interactive learning environments,Teaching/learning strategies}
     \endentry
-    \entry{dabajRoleGenderAge2009}{report}{}
+    \entry{dabajRoleGenderAge2009}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a02dd8932644fde2ea7e5bd4b988d053}{%
            family={Dabaj},
@@ -350,10 +408,12 @@
       }
       \strng{namehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{fullhash}{a02dd8932644fde2ea7e5bd4b988d053}
+      \strng{fullhashraw}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{bibnamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authorbibnamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authornamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authorfullhash}{a02dd8932644fde2ea7e5bd4b988d053}
+      \strng{authorfullhashraw}{a02dd8932644fde2ea7e5bd4b988d053}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -388,7 +448,7 @@
       \endverb
       \keyw{Age Differences,Case Studies,College Programs,College School Cooperation,Computer Assisted Instruction,Computer Attitudes,Computer Science Education,Conventional Instruction,Distance Education,Educational Technology,Electronic Learning,Foreign Countries,Gender Differences,Internet,Nonverbal Communication,Online Courses,Questionnaires,Student Attitudes,Virtual Classrooms,Vocational High Schools,Web Based Instruction}
     \endentry
-    \entry{desantanaEvaluatingImpactMars2016}{article}{}
+    \entry{desantanaEvaluatingImpactMars2016}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=d5b728e332595084cc39c466d5f98278}{%
            family={De\bibnamedelima Santana},
@@ -429,10 +489,12 @@
       }
       \strng{namehash}{f2ade78411381ed0ca9d4cdc7686f9dd}
       \strng{fullhash}{b0e1ef55852191e1853cf0b0e12a1140}
+      \strng{fullhashraw}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{bibnamehash}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{authorbibnamehash}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{authornamehash}{f2ade78411381ed0ca9d4cdc7686f9dd}
       \strng{authorfullhash}{b0e1ef55852191e1853cf0b0e12a1140}
+      \strng{authorfullhashraw}{b0e1ef55852191e1853cf0b0e12a1140}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -468,7 +530,7 @@
       \endverb
       \keyw{Adaptive Learning Technology,Computational modeling,Controlled Experiment,Educational technology,Gender Difference,Mars,Mars and Venus Effect,Mathematical model,Venus}
     \endentry
-    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}
+    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=f3f534efbb82d811bec48937cff6ef83}{%
            family={Dehghanzadeh},
@@ -503,10 +565,12 @@
       }
       \strng{namehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
       \strng{fullhash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{fullhashraw}{8f49a1e43df9356da04450d15c57243d}
       \strng{bibnamehash}{8f49a1e43df9356da04450d15c57243d}
       \strng{authorbibnamehash}{8f49a1e43df9356da04450d15c57243d}
       \strng{authornamehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
       \strng{authorfullhash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{authorfullhashraw}{8f49a1e43df9356da04450d15c57243d}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -545,7 +609,7 @@
       \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13335
       \endverb
     \endentry
-    \entry{dermevalGaTOOntologicalModel2019}{article}{}
+    \entry{dermevalGaTOOntologicalModel2019}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=6593b71bd4f473bb0b7824efda63b291}{%
            family={Dermeval},
@@ -589,10 +653,12 @@
       }
       \strng{namehash}{719a28883f4f7d999fc1f872940e59bd}
       \strng{fullhash}{a15096d2f9274f65775a9ba0c91ec25f}
+      \strng{fullhashraw}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{bibnamehash}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{authorbibnamehash}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{authornamehash}{719a28883f4f7d999fc1f872940e59bd}
       \strng{authorfullhash}{a15096d2f9274f65775a9ba0c91ec25f}
+      \strng{authorfullhashraw}{a15096d2f9274f65775a9ba0c91ec25f}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -630,7 +696,7 @@
       \endverb
       \keyw{Gamification (GAM),Gamified intelligent tutoring systems,Intelligent tutoring systems (ITS),Intelligent tutoring systems (ITSs),Ontologies (26)}
     \endentry
-    \entry{deterdingGameDesignElements2011}{article}{}
+    \entry{deterdingGameDesignElements2011}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
            family={Deterding},
@@ -659,10 +725,12 @@
       }
       \strng{namehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
       \strng{fullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{fullhashraw}{5900b306a627b766e3160b1c23b117f2}
       \strng{bibnamehash}{5900b306a627b766e3160b1c23b117f2}
       \strng{authorbibnamehash}{5900b306a627b766e3160b1c23b117f2}
       \strng{authornamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
       \strng{authorfullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authorfullhashraw}{5900b306a627b766e3160b1c23b117f2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -679,7 +747,7 @@
       \verb C:\Users\robin\Zotero\storage\HZ9CWJSG\Deterding et al. - From game design elements to gamefulness defining.pdf
       \endverb
     \endentry
-    \entry{dichevGamifyingEducationWhat2017}{article}{}
+    \entry{dichevGamifyingEducationWhat2017}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=48a561a04f455ae1b27c05cda5287736}{%
            family={Dichev},
@@ -696,10 +764,12 @@
       }
       \strng{namehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{fullhash}{6e9f9638b3352f9132c832139b90546f}
+      \strng{fullhashraw}{6e9f9638b3352f9132c832139b90546f}
       \strng{bibnamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authorbibnamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authornamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authorfullhash}{6e9f9638b3352f9132c832139b90546f}
+      \strng{authorfullhashraw}{6e9f9638b3352f9132c832139b90546f}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -739,7 +809,7 @@
       \endverb
       \keyw{Critical literature review,Empirical studies,Gamification in education,Gamifying learning}
     \endentry
-    \entry{elhadbiReviewStudyAdaptive2024}{inbook}{}
+    \entry{elhadbiReviewStudyAdaptive2024}{inbook}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=2253cfc5d2a8ced8b3ad49268f36deff}{%
            family={El\bibnamedelima Hadbi},
@@ -797,13 +867,16 @@
       }
       \strng{namehash}{00649789511ba4236b3bd1d66a8c91a5}
       \strng{fullhash}{00f598ef54ed593ff606a15fea19267f}
+      \strng{fullhashraw}{00f598ef54ed593ff606a15fea19267f}
       \strng{bibnamehash}{00f598ef54ed593ff606a15fea19267f}
       \strng{authorbibnamehash}{00f598ef54ed593ff606a15fea19267f}
       \strng{authornamehash}{00649789511ba4236b3bd1d66a8c91a5}
       \strng{authorfullhash}{00f598ef54ed593ff606a15fea19267f}
+      \strng{authorfullhashraw}{00f598ef54ed593ff606a15fea19267f}
       \strng{editorbibnamehash}{c53eecf16cc1b61c3444c70af21783f2}
       \strng{editornamehash}{afd6d0b7bc628b7e5385dd2c5690457c}
       \strng{editorfullhash}{c53eecf16cc1b61c3444c70af21783f2}
+      \strng{editorfullhashraw}{c53eecf16cc1b61c3444c70af21783f2}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -828,7 +901,73 @@
       \endverb
       \keyw{Adaptative E-learning,Adaptative E-learning Systems,Adaptive E-learning,E-learning,Intelligent Tutoring,Intelligent Tutoring Systems,Its,Personalized E-learning}
     \endentry
-    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}
+    \entry{garcia-moralesTransformationHigherEducation2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e8991b120f997aa80f3262b9410d296d}{%
+           family={García-Morales},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Víctor\bibnamedelima J.},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=897d01e36c3ec27f906931230ccf882e}{%
+           family={Garrido-Moreno},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Aurora},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb651b6922f49d7aba1389a986a4487f}{%
+           family={Martín-Rojas},
+           familyi={M\bibinithyphendelim R\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b46ff5761d8f45aa4c12238a2b123a4e}
+      \strng{fullhash}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{fullhashraw}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{bibnamehash}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{authorbibnamehash}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{authornamehash}{b46ff5761d8f45aa4c12238a2b123a4e}
+      \strng{authorfullhash}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{authorfullhashraw}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Crisis requires society to renew itself, albeit in a disruptive way. The current Covid-19 pandemic is transforming ways of working, living, and relating to each other on a global level, suddenly and dramatically. This paper focuses on the field of education to show how higher education institutions are undergoing radical transformations driven by the need to digitalize education and training processes in record time with academics who lack innate technological capabilities for online teaching. The university system must strive to overcome this situation to be competitive and provide high-quality education in a scenario of digital transformation, disruptive technological innovations, and accelerated change. To achieve these goals, this paper explains some barriers and challenges that universities encounter, as well as technological resources and methodologies they have used in the current scenario to transform higher education to face Covid-19 disruption. The discussion and conclusion synthesize significant insights that can be applied to the digitalization of education in the foreseeable future.}
+      \field{day}{11}
+      \field{issn}{1664-1078}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{month}{2}
+      \field{shortjournal}{Front. Psychol.}
+      \field{shorttitle}{The {{Transformation}} of {{Higher Education After}} the {{COVID Disruption}}}
+      \field{title}{The {{Transformation}} of {{Higher Education After}} the {{COVID Disruption}}: {{Emerging Challenges}} in an {{Online Learning Scenario}}}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{616059}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2021.616059
+      \endverb
+      \verb{file}
+      \verb C:\Users\robin\Zotero\storage\R34VUR6E\García-Morales et al. - 2021 - The Transformation of Higher Education After the C.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/fpsyg.2021.616059/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/fpsyg.2021.616059/full
+      \endverb
+    \endentry
+    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=c286a081d07226242ff62579001b5dc0}{%
            family={González},
@@ -857,10 +996,12 @@
       }
       \strng{namehash}{5267206d1acb3e5b0ed254e511619c1c}
       \strng{fullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{fullhashraw}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{bibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{authorbibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{authornamehash}{5267206d1acb3e5b0ed254e511619c1c}
       \strng{authorfullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{authorfullhashraw}{3e9469e14146df8cc63e8059ff9b8f1d}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -897,7 +1038,7 @@
       \endverb
       \keyw{gamification,GBL,ITS}
     \endentry
-    \entry{guayAssessmentSituationalIntrinsic2000}{article}{}
+    \entry{guayAssessmentSituationalIntrinsic2000}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9f75ae264efaeed69b9fd3e41c7ee146}{%
            family={Guay},
@@ -920,10 +1061,12 @@
       }
       \strng{namehash}{0df3278a28ae44c03cddc7baba4c3637}
       \strng{fullhash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
+      \strng{fullhashraw}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{bibnamehash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{authorbibnamehash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{authornamehash}{0df3278a28ae44c03cddc7baba4c3637}
       \strng{authorfullhash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
+      \strng{authorfullhashraw}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -964,7 +1107,7 @@
       \endverb
       \keyw{Construct Validity,Intrinsic Motivation,Laboratory Setting,Laboratory Study,Social Psychology}
     \endentry
-    \entry{hamariDoesGamificationWork2014}{article}{}
+    \entry{hamariDoesGamificationWork2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
            family={Hamari},
@@ -987,10 +1130,12 @@
       }
       \strng{namehash}{abbbc8908f6e89738e74c6165985a45a}
       \strng{fullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{fullhashraw}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{bibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{authorbibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{authornamehash}{abbbc8908f6e89738e74c6165985a45a}
       \strng{authorfullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{authorfullhashraw}{d0a428170cd0c96f6811c01b642b11bc}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -1013,7 +1158,7 @@
       \verb C:\Users\robin\Zotero\storage\3IB7SVSY\Hamari et al. - 2014 - Does Gamification Work — A Literature Review of E.pdf
       \endverb
     \endentry
-    \entry{jacksonMotivationPerformanceGamebased2013}{article}{}
+    \entry{jacksonMotivationPerformanceGamebased2013}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=4c477be08045c3cbb7a2d31f092881f1}{%
            family={Jackson},
@@ -1036,10 +1181,12 @@
       }
       \strng{namehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{fullhash}{4dca9f56d0719ed4ed9f3280b7c301cc}
+      \strng{fullhashraw}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{bibnamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authorbibnamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authornamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authorfullhash}{4dca9f56d0719ed4ed9f3280b7c301cc}
+      \strng{authorfullhashraw}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -1065,7 +1212,7 @@
       \endverb
       \keyw{Games,Intelligent Tutoring Systems,Learning Environment,Motivation,Performance}
     \endentry
-    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}
+    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=7d05031ede84b203ae4d4d88e6a4b1b0}{%
            family={Kampshoff},
@@ -1088,10 +1235,12 @@
       }
       \strng{namehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{fullhash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{fullhashraw}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{bibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editorbibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editornamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editorfullhash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{editorfullhashraw}{6632fcbbc712f57a73e8e92be5f925a4}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -1121,7 +1270,7 @@
       \verb https://link.springer.com/10.1007/978-3-531-18984-0
       \endverb
     \endentry
-    \entry{klabbersArchitectureGameScience2018}{article}{}
+    \entry{klabbersArchitectureGameScience2018}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=14ab837667ced135603a37329b9fabf9}{%
            family={Klabbers},
@@ -1135,10 +1284,12 @@
       }
       \strng{namehash}{14ab837667ced135603a37329b9fabf9}
       \strng{fullhash}{14ab837667ced135603a37329b9fabf9}
+      \strng{fullhashraw}{14ab837667ced135603a37329b9fabf9}
       \strng{bibnamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authorbibnamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authornamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authorfullhash}{14ab837667ced135603a37329b9fabf9}
+      \strng{authorfullhashraw}{14ab837667ced135603a37329b9fabf9}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -1176,7 +1327,135 @@
       \verb https://doi.org/10.1177/1046878118762534
       \endverb
     \endentry
-    \entry{lindqvistWhatGenderAnyway2021}{article}{}
+    \entry{koivistoRiseMotivationalInformation2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8094ef3cdc640cff0e290d32d85869c6}{%
+           family={Koivisto},
+           familyi={K\bibinitperiod},
+           given={Jonna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Juho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{fullhash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{fullhashraw}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{bibnamehash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{authorbibnamehash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{authornamehash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{authorfullhash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{authorfullhashraw}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Today, our reality and lives are increasingly game-like, not only because games have become a pervasive part of our lives, but also because activities, systems and services are increasingly gamified. Gamification refers to designing information systems to afford similar experiences and motivations as games do, and consequently, attempting to affect user behavior. In recent years, popularity of gamification has skyrocketed and manifested in growing numbers of gamified applications, as well as a rapidly increasing amount of research. However, this vein of research has mainly advanced without an agenda, theoretical guidance or a clear picture of the field. To make the picture more coherent, we provide a comprehensive review of the gamification research (N\,=\,819 studies) and analyze the research models and results in empirical studies on gamification. While the results in general lean towards positive findings about the effectiveness of gamification, the amount of mixed results is remarkable. Furthermore, education, health and crowdsourcing as well as points, badges and leaderboards persist as the most common contexts and ways of implementing gamification. Concurrently, gamification research still lacks coherence in research models, and a consistency in the variables and theoretical foundations. As a final contribution of the review, we provide a comprehensive discussion, consisting of 15 future research trajectories, on future agenda for the growing vein of literature on gamification and gameful systems within the information system science field.}
+      \field{day}{1}
+      \field{issn}{0268-4012}
+      \field{journaltitle}{International Journal of Information Management}
+      \field{month}{4}
+      \field{shortjournal}{International Journal of Information Management}
+      \field{shorttitle}{The Rise of Motivational Information Systems}
+      \field{title}{The Rise of Motivational Information Systems: {{A}} Review of Gamification Research}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{45}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{191\bibrangedash 210}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.ijinfomgt.2018.10.013
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\robin\\Zotero\\storage\\7NAD734I\\Koivisto und Hamari - 2019 - The rise of motivational information systems A re.pdf;C\:\\Users\\robin\\Zotero\\storage\\3V8UM2CS\\S0268401217305169.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0268401217305169
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0268401217305169
+      \endverb
+      \keyw{Affordance,Games,Gamification,Literature review,Motivational information system}
+    \endentry
+    \entry{laiszpedroDoesGamificationWork2015}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f8aefd5cb36ef43228ea83701b4ed4c4}{%
+           family={{Lais Z Pedro}},
+           familyi={L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=9a87b404bb40a2a02c2dee128e357acc}{%
+           family={{Aparecida M Z Lopes}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2459d7609d7ab53db390a4c74a2205e9}{%
+           family={Prates},
+           familyi={P\bibinitperiod},
+           given={Bruno\bibnamedelima G},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f8e5f2dc7995520d973705f3b22166e}{%
+           family={Vassileva},
+           familyi={V\bibinitperiod},
+           given={Julita},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddbd4420293c6679bec91464f2e01b87}{%
+           family={Isotani},
+           familyi={I\bibinitperiod},
+           given={Seiji},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[object Object]}%
+      }
+      \strng{namehash}{d320985baf7fc18f295971e83f8c0acc}
+      \strng{fullhash}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{fullhashraw}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{bibnamehash}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{authorbibnamehash}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{authornamehash}{d320985baf7fc18f295971e83f8c0acc}
+      \strng{authorfullhash}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{authorfullhashraw}{2ab2bb9a36e18d107a667651ae8033aa}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{Does {{Gamification Work}} for {{Boys}} and {{Girls}}?}
+      \field{title}{Does {{Gamification Work}} for {{Boys}} and {{Girls}}? {{An Exploratory Study}} with a {{Virtual Learning Environment}}}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.13140/RG.2.1.4783.5686
+      \endverb
+      \verb{file}
+      \verb C:\Users\robin\Zotero\storage\ZADBJMA6\Lais Z Pedro et al. - 2015 - Does Gamification Work for Boys and Girls An Expl.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://rgdoi.net/10.13140/RG.2.1.4783.5686
+      \endverb
+      \verb{url}
+      \verb http://rgdoi.net/10.13140/RG.2.1.4783.5686
+      \endverb
+    \endentry
+    \entry{lindqvistWhatGenderAnyway2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f991d3c71383bc5ed5b1d63eb2838c96}{%
            family={Lindqvist},
@@ -1202,10 +1481,12 @@
       }
       \strng{namehash}{baeeb0b218942dafde90346f514f06f0}
       \strng{fullhash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{fullhashraw}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{bibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{authorbibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{authornamehash}{baeeb0b218942dafde90346f514f06f0}
       \strng{authorfullhash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{authorfullhashraw}{38d9339a8ebde10a2bd69a1b51569047}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -1237,7 +1518,130 @@
       \verb https://www.tandfonline.com/doi/abs/10.1080/19419899.2020.1729844
       \endverb
     \endentry
-    \entry{marteauDevelopmentSixitemShortform1992}{article}{}
+    \entry{lucasSexDifferencesVideo2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ab819cb714f398b84d57406272ea4f9e}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Kristen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de3d8ecb1500e468a2cd59cd92822588}{%
+           family={Sherry},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{fullhash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{fullhashraw}{00becdc6852499381b6db89ee7dd8615}
+      \strng{bibnamehash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{authorbibnamehash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{authornamehash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{authorfullhash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{authorfullhashraw}{00becdc6852499381b6db89ee7dd8615}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this study, we examined gender differences in video game use by focusing on interpersonal needs for inclusion, affection, and control, as well as socially constructed perceptions of gendered game play. Results of a large-scale survey (n = 534) of young adults’ reasons for video game use, preferred game genres, and amount of game play are reported. Female respondents report less frequent play, less motivation to play in social situations, and less orientation to game genres featuring competition and three-dimensional rotation. Implications for game design are discussed.}
+      \field{issn}{0093-6502, 1552-3810}
+      \field{journaltitle}{Communication Research}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{Communication Research}
+      \field{shorttitle}{Sex {{Differences}} in {{Video Game Play}}}
+      \field{title}{Sex {{Differences}} in {{Video Game Play}}: {{A Communication-Based Explanation}}}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{31}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{499\bibrangedash 523}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1177/0093650204267930
+      \endverb
+      \verb{file}
+      \verb C:\Users\robin\Zotero\storage\SHPLYSDL\Lucas und Sherry - 2004 - Sex Differences in Video Game Play A Communicatio.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/0093650204267930
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/0093650204267930
+      \endverb
+    \endentry
+    \entry{lynnSexDifferencesProgressive2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3d2ff2e3770e35adee683d2e09d53e10}{%
+           family={Lynn},
+           familyi={L\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12abf2f837686cd8ef94e100e8f15e78}{%
+           family={Irwing},
+           familyi={I\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{fullhash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{fullhashraw}{5a3951a48c1e170062e61585b1698d54}
+      \strng{bibnamehash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{authorbibnamehash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{authornamehash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{authorfullhash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{authorfullhashraw}{5a3951a48c1e170062e61585b1698d54}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A meta-analysis is presented of 57 studies of sex differences in general population samples on the Standard and Advanced Progressive Matrices (SPM and APM, respectively). Results showed that there is no difference among children aged 6–14 years, but that males obtain higher means from the age of 15 through to old age. Among adults, the male advantage is 0.33d equivalent to 5 IQ points. These results disconfirm the frequent assertion than there are no sex differences on the progressive matrices and support a developmental theory that a male advantage appears from the age of 15 years. A meta-analysis of 15 studies of child samples on the Colored Progressive Matrices showed that among children aged 5–11 years boys have an advantage of 0.21d equivalent to 3.2 IQ points.}
+      \field{day}{1}
+      \field{issn}{0160-2896}
+      \field{journaltitle}{Intelligence}
+      \field{month}{9}
+      \field{number}{5}
+      \field{shortjournal}{Intelligence}
+      \field{shorttitle}{Sex Differences on the Progressive Matrices}
+      \field{title}{Sex Differences on the Progressive Matrices: {{A}} Meta-Analysis}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{481\bibrangedash 498}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.intell.2004.06.008
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\robin\\Zotero\\storage\\C6IYGQXR\\Lynn und Irwing - 2004 - Sex differences on the progressive matrices A met.pdf;C\:\\Users\\robin\\Zotero\\storage\\L62YZUIX\\S0160289604000492.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0160289604000492
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0160289604000492
+      \endverb
+      \keyw{Intelligence,Progressive matrices,Sex differences}
+    \endentry
+    \entry{marteauDevelopmentSixitemShortform1992}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=758841d73486de8a783144e8841088c0}{%
            family={Marteau},
@@ -1254,10 +1658,12 @@
       }
       \strng{namehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{fullhash}{e9d490f8b31302bad9a93a92d9a70a51}
+      \strng{fullhashraw}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{bibnamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authorbibnamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authornamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authorfullhash}{e9d490f8b31302bad9a93a92d9a70a51}
+      \strng{authorfullhashraw}{e9d490f8b31302bad9a93a92d9a70a51}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -1293,7 +1699,7 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8260.1992.tb00997.x
       \endverb
     \endentry
-    \entry{nkambouAdvancesIntelligentTutoring2010}{book}{}
+    \entry{nkambouAdvancesIntelligentTutoring2010}{book}{}{}
       \name{editor}{3}{}{%
         {{un=0,uniquepart=base,hash=02158ea5cfb00ded8a3c96a6c8be84ba}{%
            family={Nkambou},
@@ -1329,13 +1735,16 @@
       }
       \strng{namehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{fullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \strng{fullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{bibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \strng{editorfullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editorabibnamehash}{291b9ed2ce22bd924c545353989f0a73}
       \strng{editoranamehash}{291b9ed2ce22bd924c545353989f0a73}
       \strng{editorafullhash}{291b9ed2ce22bd924c545353989f0a73}
+      \strng{editorafullhashraw}{291b9ed2ce22bd924c545353989f0a73}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -1369,7 +1778,7 @@
       \endverb
       \keyw{Artificial Intelligence in Education,Computational Intelligence,E-learning,Emotion,Intellignet Tutoring,knowledge,learning,modeling,natural language,ontology,Simulation}
     \endentry
-    \entry{oliveiraTailoredGamificationEducation2023}{article}{}
+    \entry{oliveiraTailoredGamificationEducation2023}{article}{}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=b0f73f05f9ab7e746b38ec853880e2e8}{%
            family={Oliveira},
@@ -1416,10 +1825,12 @@
       }
       \strng{namehash}{8ee74e66ecc5e97e44821324f5baa99c}
       \strng{fullhash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{fullhashraw}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{bibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{authorbibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{authornamehash}{8ee74e66ecc5e97e44821324f5baa99c}
       \strng{authorfullhash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{authorfullhashraw}{c8ef26b1543783a4202bb36e2c8235ca}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -1460,7 +1871,7 @@
       \endverb
       \keyw{Adaptive learning,Game-based learning,Gamification,Literature review,Tailoring}
     \endentry
-    \entry{psotkaIntelligentTutoringSystems1988}{book}{}
+    \entry{psotkaIntelligentTutoringSystems1988}{book}{}{}
       \name{editor}{3}{}{%
         {{un=0,uniquepart=base,hash=6133977c3b6f6d8321f75164fe9fef08}{%
            family={Psotka},
@@ -1489,10 +1900,12 @@
       }
       \strng{namehash}{e0b6abc013fcf44ac78ef39b847e6284}
       \strng{fullhash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{fullhashraw}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{bibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{editorbibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{editornamehash}{e0b6abc013fcf44ac78ef39b847e6284}
       \strng{editorfullhash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{editorfullhashraw}{4236212c14e89675bc98ec4d86bd2eaa}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -1516,7 +1929,7 @@
       \endverb
       \keyw{Artificial Intelligence,Computer Assisted Instruction}
     \endentry
-    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}
+    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
            family={Sailer},
@@ -1533,10 +1946,12 @@
       }
       \strng{namehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{fullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{fullhashraw}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{bibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authorbibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authornamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authorfullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{authorfullhashraw}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -1577,7 +1992,7 @@
       \endverb
       \keyw{Behavior,Cognition,Gamification,Gamified learning,Learning,Meta-analysis,Motivation}
     \endentry
-    \entry{santosDoesGenderStereotype2023}{article}{}
+    \entry{santosDoesGenderStereotype2023}{article}{}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=654b7b2fdc6640c69347e1138d42eed5}{%
            family={Santos},
@@ -1636,10 +2051,12 @@
       }
       \strng{namehash}{c6654b8bf7f50306324814902956858f}
       \strng{fullhash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{fullhashraw}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{bibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{authorbibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{authornamehash}{c6654b8bf7f50306324814902956858f}
       \strng{authorfullhash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{authorfullhashraw}{8aaf24f8f0995a356bb03dcec157f76c}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -1680,7 +2097,7 @@
       \endverb
       \keyw{Aggressiveness,Gender stereotype threat,Intelligent tutoring systems,Stereotype threat,Stereotyped educational environments}
     \endentry
-    \entry{swachaStateResearchGamification2021}{article}{}
+    \entry{swachaStateResearchGamification2021}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0f8b6cb4e5c5b0423414f1badee0c458}{%
            family={Swacha},
@@ -1694,10 +2111,12 @@
       }
       \strng{namehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{fullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \strng{fullhashraw}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{bibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authorbibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authornamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authorfullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \strng{authorfullhashraw}{0f8b6cb4e5c5b0423414f1badee0c458}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -1737,7 +2156,7 @@
       \endverb
       \keyw{education,gamification,literature survey,publication analysis}
     \endentry
-    \entry{wehrweinGenderDifferencesLearning2007}{article}{}
+    \entry{wehrweinGenderDifferencesLearning2007}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b13d96b04ea9cbe618e4cf004bd8ae8c}{%
            family={Wehrwein},
@@ -1760,10 +2179,12 @@
       }
       \strng{namehash}{05df0c6074a71c30d591eb302312f093}
       \strng{fullhash}{9a3cc3e29c5f563061c04b23b5dd5b79}
+      \strng{fullhashraw}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{bibnamehash}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{authorbibnamehash}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{authornamehash}{05df0c6074a71c30d591eb302312f093}
       \strng{authorfullhash}{9a3cc3e29c5f563061c04b23b5dd5b79}
+      \strng{authorfullhashraw}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -1801,7 +2222,7 @@
       \verb https://www.physiology.org/doi/10.1152/advan.00060.2006
       \endverb
     \endentry
-    \entry{werbachWinHowGame2012}{book}{}
+    \entry{werbachWinHowGame2012}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=23013e615d774419d7e40f1e14594e57}{%
            family={Werbach},
@@ -1818,10 +2239,12 @@
       }
       \strng{namehash}{7558792aae9c0f366a73672471be5579}
       \strng{fullhash}{7558792aae9c0f366a73672471be5579}
+      \strng{fullhashraw}{7558792aae9c0f366a73672471be5579}
       \strng{bibnamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authorbibnamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authornamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authorfullhash}{7558792aae9c0f366a73672471be5579}
+      \strng{authorfullhashraw}{7558792aae9c0f366a73672471be5579}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -1840,7 +2263,7 @@
       \verb C:\Users\robin\Zotero\storage\U5FNTL9Y\Werbach und Hunter - 2012 - For the Win How Game Thinking can Revolutionize y.pdf
       \endverb
     \endentry
-    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}
+    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=55be320e8437b2dedbd66a2f047806af}{%
            family={Woolf},
@@ -1898,13 +2321,16 @@
       }
       \strng{namehash}{5b34cfe5538e218657b33b24b1bf6627}
       \strng{fullhash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{fullhashraw}{7a67cfffc1af1212929e3094189cb931}
       \strng{bibnamehash}{7a67cfffc1af1212929e3094189cb931}
       \strng{authorbibnamehash}{7a67cfffc1af1212929e3094189cb931}
       \strng{authornamehash}{5b34cfe5538e218657b33b24b1bf6627}
       \strng{authorfullhash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{authorfullhashraw}{7a67cfffc1af1212929e3094189cb931}
       \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \strng{editorfullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -1940,7 +2366,7 @@
       \endverb
       \keyw{Automatic Detection,Intelligent Tutor System,Learn Disability,Pedagogical Agent,Skin Conductance}
     \endentry
-    \entry{zainuddinImpactGamificationLearning2020}{article}{}
+    \entry{zainuddinImpactGamificationLearning2020}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=fe6d5145f9545fdec9efee3b62b23372}{%
            family={Zainuddin},
@@ -1969,10 +2395,12 @@
       }
       \strng{namehash}{6c2412bf20db441f56520cdc1ea9854e}
       \strng{fullhash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{fullhashraw}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{bibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{authorbibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{authornamehash}{6c2412bf20db441f56520cdc1ea9854e}
       \strng{authorfullhash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{authorfullhashraw}{9ac9b414ba0d83fab41c0ba60faab665}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
@@ -2011,7 +2439,7 @@
       \endverb
       \keyw{Empirical evidence,Engagement,Gamification,Motivation,Social influence,Systematic literature review}
     \endentry
-    \entry{zawacki-richterSystematicReviewResearch2019}{article}{}
+    \entry{zawacki-richterSystematicReviewResearch2019}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c23524c2c85c64ea58f95e884e6c760c}{%
            family={Zawacki-Richter},
@@ -2040,10 +2468,12 @@
       }
       \strng{namehash}{50b28aed2201b3003b3bda80f5b81a0a}
       \strng{fullhash}{07714e7882dd904fe72d7656b5bd231b}
+      \strng{fullhashraw}{07714e7882dd904fe72d7656b5bd231b}
       \strng{bibnamehash}{07714e7882dd904fe72d7656b5bd231b}
       \strng{authorbibnamehash}{07714e7882dd904fe72d7656b5bd231b}
       \strng{authornamehash}{50b28aed2201b3003b3bda80f5b81a0a}
       \strng{authorfullhash}{07714e7882dd904fe72d7656b5bd231b}
+      \strng{authorfullhashraw}{07714e7882dd904fe72d7656b5bd231b}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
@@ -2082,8 +2512,8 @@
       \endverb
     \endentry
   \enddatalist
-  \datalist[entry]{apa/global//global/global}
-    \entry{albuquerqueDoesGenderStereotype2017}{article}{}
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{albuquerqueDoesGenderStereotype2017}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=6dc2526f85f7683c3dc6b160f892ab62}{%
            family={Albuquerque},
@@ -2112,10 +2542,12 @@
       }
       \strng{namehash}{fccd19708106deb87bea98958327b5a6}
       \strng{fullhash}{516d1695909bb070534f2cbd613277f0}
+      \strng{fullhashraw}{516d1695909bb070534f2cbd613277f0}
       \strng{bibnamehash}{516d1695909bb070534f2cbd613277f0}
       \strng{authorbibnamehash}{516d1695909bb070534f2cbd613277f0}
       \strng{authornamehash}{fccd19708106deb87bea98958327b5a6}
       \strng{authorfullhash}{516d1695909bb070534f2cbd613277f0}
+      \strng{authorfullhashraw}{516d1695909bb070534f2cbd613277f0}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2152,7 +2584,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301914
       \endverb
     \endentry
-    \entry{almeidaSystematicMappingNegative2021}{article}{}
+    \entry{almeidaSystematicMappingNegative2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a9f652e334238b77c10803164ddf99f8}{%
            family={Almeida},
@@ -2175,10 +2607,12 @@
       }
       \strng{namehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
       \strng{fullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{fullhashraw}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{bibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{authorbibnamehash}{32bcee9c09112bbca0f14ab08f24cfc3}
       \strng{authornamehash}{d7247e9fa9f123e5c33b03b4dbcd623e}
       \strng{authorfullhash}{32bcee9c09112bbca0f14ab08f24cfc3}
+      \strng{authorfullhashraw}{32bcee9c09112bbca0f14ab08f24cfc3}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2213,7 +2647,55 @@
       \endverb
       \keyw{education,Ethics,Games,gamification,learning,negative effects,snowballing,Software engineering,systematic mapping,Systematics}
     \endentry
-    \entry{chenValidationNewGeneral2001}{article}{}
+    \entry{statistischesbundesamtsDigitalesLernenNimmt2020}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1613dfe5296df8694a628b37e7c22a71}{%
+           family={Bundesamts},
+           familyi={B\bibinitperiod},
+           given={Statistisches},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Statistisches Bundesamt}%
+      }
+      \strng{namehash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{fullhash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{fullhashraw}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{bibnamehash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{authorbibnamehash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{authornamehash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{authorfullhash}{1613dfe5296df8694a628b37e7c22a71}
+      \strng{authorfullhashraw}{1613dfe5296df8694a628b37e7c22a71}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Digitales Lernen ist in der Corona-Krise gefragter denn je – vor allem an weiterführenden Schulen. Im ersten Quartal 2020 kommunizierten 59~\% der 10- bis 15-Jährigen mit Lehrkräften oder anderen Lernenden über entsprechende Lernplattformen oder -portale. Wie das Statistische Bundesamt (Destatis) mitteilt, war dieser Wert mehr als sieben Mal so hoch wie im Vorjahr (1. Quartal 2019: 8~\%). Von den Schülerinnen, Schülern und Studierenden ab 16 Jahren nutzten 72~\% diesen Weg der Kommunikation zu Lernzwecken. Damit hat sich in dieser Altersgruppe der Anteil im Vergleich zum entsprechenden Vorjahresquartal verdoppelt (1. Quartal 2019: 35~\%).}
+      \field{day}{8}
+      \field{langid}{ngerman}
+      \field{month}{12}
+      \field{title}{Digitales Lernen nimmt stark zu}
+      \field{urlday}{20}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\robin\Zotero\storage\RQ6ZTCHF\PD20_N081_63.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2020/12/PD20_N081_63.html
+      \endverb
+      \verb{url}
+      \verb https://www.destatis.de/DE/Presse/Pressemitteilungen/2020/12/PD20_N081_63.html
+      \endverb
+    \endentry
+    \entry{chenValidationNewGeneral2001}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=5ee7ef22770160196a96055862b01412}{%
            family={Chen},
@@ -2239,10 +2721,12 @@
       }
       \strng{namehash}{31568a015bb2172588de9d229a31577f}
       \strng{fullhash}{48ba123915744ce6e43d76eb340b7fb8}
+      \strng{fullhashraw}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{bibnamehash}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{authorbibnamehash}{48ba123915744ce6e43d76eb340b7fb8}
       \strng{authornamehash}{31568a015bb2172588de9d229a31577f}
       \strng{authorfullhash}{48ba123915744ce6e43d76eb340b7fb8}
+      \strng{authorfullhashraw}{48ba123915744ce6e43d76eb340b7fb8}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -2280,7 +2764,7 @@
       \verb https://doi.org/10.1177/109442810141004
       \endverb
     \endentry
-    \entry{cheryanClassroomsMatterDesign2011}{article}{}
+    \entry{cheryanClassroomsMatterDesign2011}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9f74dee8600fd3a4a219714b3827d5f6}{%
            family={Cheryan},
@@ -2303,10 +2787,12 @@
       }
       \strng{namehash}{2604c34a7e6f5851b6b1be7196bf5009}
       \strng{fullhash}{8729a98a861d5b492da8aa248286a293}
+      \strng{fullhashraw}{8729a98a861d5b492da8aa248286a293}
       \strng{bibnamehash}{8729a98a861d5b492da8aa248286a293}
       \strng{authorbibnamehash}{8729a98a861d5b492da8aa248286a293}
       \strng{authornamehash}{2604c34a7e6f5851b6b1be7196bf5009}
       \strng{authorfullhash}{8729a98a861d5b492da8aa248286a293}
+      \strng{authorfullhashraw}{8729a98a861d5b492da8aa248286a293}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -2344,7 +2830,7 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S036013151100042X
       \endverb
     \endentry
-    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}
+    \entry{christyLeaderboardsVirtualClassroom2014}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b6b3eb68e514865c87d16278004a73f6}{%
            family={Christy},
@@ -2361,10 +2847,12 @@
       }
       \strng{namehash}{219220391049affce55f38493007cfdb}
       \strng{fullhash}{219220391049affce55f38493007cfdb}
+      \strng{fullhashraw}{219220391049affce55f38493007cfdb}
       \strng{bibnamehash}{219220391049affce55f38493007cfdb}
       \strng{authorbibnamehash}{219220391049affce55f38493007cfdb}
       \strng{authornamehash}{219220391049affce55f38493007cfdb}
       \strng{authorfullhash}{219220391049affce55f38493007cfdb}
+      \strng{authorfullhashraw}{219220391049affce55f38493007cfdb}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -2403,7 +2891,7 @@
       \endverb
       \keyw{Distance education and telelearning,Gender studies,Human–computer interface,Interactive learning environments,Teaching/learning strategies}
     \endentry
-    \entry{dabajRoleGenderAge2009}{report}{}
+    \entry{dabajRoleGenderAge2009}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a02dd8932644fde2ea7e5bd4b988d053}{%
            family={Dabaj},
@@ -2414,10 +2902,12 @@
       }
       \strng{namehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{fullhash}{a02dd8932644fde2ea7e5bd4b988d053}
+      \strng{fullhashraw}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{bibnamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authorbibnamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authornamehash}{a02dd8932644fde2ea7e5bd4b988d053}
       \strng{authorfullhash}{a02dd8932644fde2ea7e5bd4b988d053}
+      \strng{authorfullhashraw}{a02dd8932644fde2ea7e5bd4b988d053}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2452,7 +2942,7 @@
       \endverb
       \keyw{Age Differences,Case Studies,College Programs,College School Cooperation,Computer Assisted Instruction,Computer Attitudes,Computer Science Education,Conventional Instruction,Distance Education,Educational Technology,Electronic Learning,Foreign Countries,Gender Differences,Internet,Nonverbal Communication,Online Courses,Questionnaires,Student Attitudes,Virtual Classrooms,Vocational High Schools,Web Based Instruction}
     \endentry
-    \entry{desantanaEvaluatingImpactMars2016}{article}{}
+    \entry{desantanaEvaluatingImpactMars2016}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=d5b728e332595084cc39c466d5f98278}{%
            family={De\bibnamedelima Santana},
@@ -2493,10 +2983,12 @@
       }
       \strng{namehash}{f2ade78411381ed0ca9d4cdc7686f9dd}
       \strng{fullhash}{b0e1ef55852191e1853cf0b0e12a1140}
+      \strng{fullhashraw}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{bibnamehash}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{authorbibnamehash}{b0e1ef55852191e1853cf0b0e12a1140}
       \strng{authornamehash}{f2ade78411381ed0ca9d4cdc7686f9dd}
       \strng{authorfullhash}{b0e1ef55852191e1853cf0b0e12a1140}
+      \strng{authorfullhashraw}{b0e1ef55852191e1853cf0b0e12a1140}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2532,7 +3024,7 @@
       \endverb
       \keyw{Adaptive Learning Technology,Computational modeling,Controlled Experiment,Educational technology,Gender Difference,Mars,Mars and Venus Effect,Mathematical model,Venus}
     \endentry
-    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}
+    \entry{dehghanzadehUsingGamificationSupport2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=f3f534efbb82d811bec48937cff6ef83}{%
            family={Dehghanzadeh},
@@ -2567,10 +3059,12 @@
       }
       \strng{namehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
       \strng{fullhash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{fullhashraw}{8f49a1e43df9356da04450d15c57243d}
       \strng{bibnamehash}{8f49a1e43df9356da04450d15c57243d}
       \strng{authorbibnamehash}{8f49a1e43df9356da04450d15c57243d}
       \strng{authornamehash}{6eb7fbc1f7fa8cfe5511d993ca902051}
       \strng{authorfullhash}{8f49a1e43df9356da04450d15c57243d}
+      \strng{authorfullhashraw}{8f49a1e43df9356da04450d15c57243d}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2609,7 +3103,7 @@
       \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13335
       \endverb
     \endentry
-    \entry{dermevalGaTOOntologicalModel2019}{article}{}
+    \entry{dermevalGaTOOntologicalModel2019}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=6593b71bd4f473bb0b7824efda63b291}{%
            family={Dermeval},
@@ -2653,10 +3147,12 @@
       }
       \strng{namehash}{719a28883f4f7d999fc1f872940e59bd}
       \strng{fullhash}{a15096d2f9274f65775a9ba0c91ec25f}
+      \strng{fullhashraw}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{bibnamehash}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{authorbibnamehash}{a15096d2f9274f65775a9ba0c91ec25f}
       \strng{authornamehash}{719a28883f4f7d999fc1f872940e59bd}
       \strng{authorfullhash}{a15096d2f9274f65775a9ba0c91ec25f}
+      \strng{authorfullhashraw}{a15096d2f9274f65775a9ba0c91ec25f}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2694,7 +3190,7 @@
       \endverb
       \keyw{Gamification (GAM),Gamified intelligent tutoring systems,Intelligent tutoring systems (ITS),Intelligent tutoring systems (ITSs),Ontologies (26)}
     \endentry
-    \entry{deterdingGameDesignElements2011}{article}{}
+    \entry{deterdingGameDesignElements2011}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
            family={Deterding},
@@ -2723,10 +3219,12 @@
       }
       \strng{namehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
       \strng{fullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{fullhashraw}{5900b306a627b766e3160b1c23b117f2}
       \strng{bibnamehash}{5900b306a627b766e3160b1c23b117f2}
       \strng{authorbibnamehash}{5900b306a627b766e3160b1c23b117f2}
       \strng{authornamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
       \strng{authorfullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{authorfullhashraw}{5900b306a627b766e3160b1c23b117f2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2743,7 +3241,7 @@
       \verb C:\Users\robin\Zotero\storage\HZ9CWJSG\Deterding et al. - From game design elements to gamefulness defining.pdf
       \endverb
     \endentry
-    \entry{dichevGamifyingEducationWhat2017}{article}{}
+    \entry{dichevGamifyingEducationWhat2017}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=48a561a04f455ae1b27c05cda5287736}{%
            family={Dichev},
@@ -2760,10 +3258,12 @@
       }
       \strng{namehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{fullhash}{6e9f9638b3352f9132c832139b90546f}
+      \strng{fullhashraw}{6e9f9638b3352f9132c832139b90546f}
       \strng{bibnamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authorbibnamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authornamehash}{6e9f9638b3352f9132c832139b90546f}
       \strng{authorfullhash}{6e9f9638b3352f9132c832139b90546f}
+      \strng{authorfullhashraw}{6e9f9638b3352f9132c832139b90546f}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -2803,7 +3303,7 @@
       \endverb
       \keyw{Critical literature review,Empirical studies,Gamification in education,Gamifying learning}
     \endentry
-    \entry{elhadbiReviewStudyAdaptive2024}{inbook}{}
+    \entry{elhadbiReviewStudyAdaptive2024}{inbook}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=2253cfc5d2a8ced8b3ad49268f36deff}{%
            family={El\bibnamedelima Hadbi},
@@ -2861,13 +3361,16 @@
       }
       \strng{namehash}{00649789511ba4236b3bd1d66a8c91a5}
       \strng{fullhash}{00f598ef54ed593ff606a15fea19267f}
+      \strng{fullhashraw}{00f598ef54ed593ff606a15fea19267f}
       \strng{bibnamehash}{00f598ef54ed593ff606a15fea19267f}
       \strng{authorbibnamehash}{00f598ef54ed593ff606a15fea19267f}
       \strng{authornamehash}{00649789511ba4236b3bd1d66a8c91a5}
       \strng{authorfullhash}{00f598ef54ed593ff606a15fea19267f}
+      \strng{authorfullhashraw}{00f598ef54ed593ff606a15fea19267f}
       \strng{editorbibnamehash}{c53eecf16cc1b61c3444c70af21783f2}
       \strng{editornamehash}{afd6d0b7bc628b7e5385dd2c5690457c}
       \strng{editorfullhash}{c53eecf16cc1b61c3444c70af21783f2}
+      \strng{editorfullhashraw}{c53eecf16cc1b61c3444c70af21783f2}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -2892,7 +3395,73 @@
       \endverb
       \keyw{Adaptative E-learning,Adaptative E-learning Systems,Adaptive E-learning,E-learning,Intelligent Tutoring,Intelligent Tutoring Systems,Its,Personalized E-learning}
     \endentry
-    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}
+    \entry{garcia-moralesTransformationHigherEducation2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e8991b120f997aa80f3262b9410d296d}{%
+           family={García-Morales},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Víctor\bibnamedelima J.},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=897d01e36c3ec27f906931230ccf882e}{%
+           family={Garrido-Moreno},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Aurora},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb651b6922f49d7aba1389a986a4487f}{%
+           family={Martín-Rojas},
+           familyi={M\bibinithyphendelim R\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b46ff5761d8f45aa4c12238a2b123a4e}
+      \strng{fullhash}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{fullhashraw}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{bibnamehash}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{authorbibnamehash}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{authornamehash}{b46ff5761d8f45aa4c12238a2b123a4e}
+      \strng{authorfullhash}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \strng{authorfullhashraw}{4ee7f1ec0208c1687bcff8e95de0d80e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Crisis requires society to renew itself, albeit in a disruptive way. The current Covid-19 pandemic is transforming ways of working, living, and relating to each other on a global level, suddenly and dramatically. This paper focuses on the field of education to show how higher education institutions are undergoing radical transformations driven by the need to digitalize education and training processes in record time with academics who lack innate technological capabilities for online teaching. The university system must strive to overcome this situation to be competitive and provide high-quality education in a scenario of digital transformation, disruptive technological innovations, and accelerated change. To achieve these goals, this paper explains some barriers and challenges that universities encounter, as well as technological resources and methodologies they have used in the current scenario to transform higher education to face Covid-19 disruption. The discussion and conclusion synthesize significant insights that can be applied to the digitalization of education in the foreseeable future.}
+      \field{day}{11}
+      \field{issn}{1664-1078}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{month}{2}
+      \field{shortjournal}{Front. Psychol.}
+      \field{shorttitle}{The {{Transformation}} of {{Higher Education After}} the {{COVID Disruption}}}
+      \field{title}{The {{Transformation}} of {{Higher Education After}} the {{COVID Disruption}}: {{Emerging Challenges}} in an {{Online Learning Scenario}}}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{616059}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2021.616059
+      \endverb
+      \verb{file}
+      \verb C:\Users\robin\Zotero\storage\R34VUR6E\García-Morales et al. - 2021 - The Transformation of Higher Education After the C.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/fpsyg.2021.616059/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/fpsyg.2021.616059/full
+      \endverb
+    \endentry
+    \entry{gonzalezGamificationIntelligentTutoring2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=c286a081d07226242ff62579001b5dc0}{%
            family={González},
@@ -2921,10 +3490,12 @@
       }
       \strng{namehash}{5267206d1acb3e5b0ed254e511619c1c}
       \strng{fullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{fullhashraw}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{bibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{authorbibnamehash}{3e9469e14146df8cc63e8059ff9b8f1d}
       \strng{authornamehash}{5267206d1acb3e5b0ed254e511619c1c}
       \strng{authorfullhash}{3e9469e14146df8cc63e8059ff9b8f1d}
+      \strng{authorfullhashraw}{3e9469e14146df8cc63e8059ff9b8f1d}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -2961,7 +3532,7 @@
       \endverb
       \keyw{gamification,GBL,ITS}
     \endentry
-    \entry{guayAssessmentSituationalIntrinsic2000}{article}{}
+    \entry{guayAssessmentSituationalIntrinsic2000}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9f75ae264efaeed69b9fd3e41c7ee146}{%
            family={Guay},
@@ -2984,10 +3555,12 @@
       }
       \strng{namehash}{0df3278a28ae44c03cddc7baba4c3637}
       \strng{fullhash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
+      \strng{fullhashraw}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{bibnamehash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{authorbibnamehash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \strng{authornamehash}{0df3278a28ae44c03cddc7baba4c3637}
       \strng{authorfullhash}{0bee29e2b2e98e4be6632a1cdf1ede2d}
+      \strng{authorfullhashraw}{0bee29e2b2e98e4be6632a1cdf1ede2d}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -3028,7 +3601,7 @@
       \endverb
       \keyw{Construct Validity,Intrinsic Motivation,Laboratory Setting,Laboratory Study,Social Psychology}
     \endentry
-    \entry{hamariDoesGamificationWork2014}{article}{}
+    \entry{hamariDoesGamificationWork2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
            family={Hamari},
@@ -3051,10 +3624,12 @@
       }
       \strng{namehash}{abbbc8908f6e89738e74c6165985a45a}
       \strng{fullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{fullhashraw}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{bibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{authorbibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
       \strng{authornamehash}{abbbc8908f6e89738e74c6165985a45a}
       \strng{authorfullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{authorfullhashraw}{d0a428170cd0c96f6811c01b642b11bc}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -3077,7 +3652,7 @@
       \verb C:\Users\robin\Zotero\storage\3IB7SVSY\Hamari et al. - 2014 - Does Gamification Work — A Literature Review of E.pdf
       \endverb
     \endentry
-    \entry{jacksonMotivationPerformanceGamebased2013}{article}{}
+    \entry{jacksonMotivationPerformanceGamebased2013}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=4c477be08045c3cbb7a2d31f092881f1}{%
            family={Jackson},
@@ -3100,10 +3675,12 @@
       }
       \strng{namehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{fullhash}{4dca9f56d0719ed4ed9f3280b7c301cc}
+      \strng{fullhashraw}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{bibnamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authorbibnamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authornamehash}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \strng{authorfullhash}{4dca9f56d0719ed4ed9f3280b7c301cc}
+      \strng{authorfullhashraw}{4dca9f56d0719ed4ed9f3280b7c301cc}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -3129,7 +3706,7 @@
       \endverb
       \keyw{Games,Intelligent Tutoring Systems,Learning Environment,Motivation,Performance}
     \endentry
-    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}
+    \entry{kampshoffHandbuchGeschlechterforschungUnd2012}{book}{}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=7d05031ede84b203ae4d4d88e6a4b1b0}{%
            family={Kampshoff},
@@ -3152,10 +3729,12 @@
       }
       \strng{namehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{fullhash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{fullhashraw}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{bibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editorbibnamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editornamehash}{6632fcbbc712f57a73e8e92be5f925a4}
       \strng{editorfullhash}{6632fcbbc712f57a73e8e92be5f925a4}
+      \strng{editorfullhashraw}{6632fcbbc712f57a73e8e92be5f925a4}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -3185,7 +3764,7 @@
       \verb https://link.springer.com/10.1007/978-3-531-18984-0
       \endverb
     \endentry
-    \entry{klabbersArchitectureGameScience2018}{article}{}
+    \entry{klabbersArchitectureGameScience2018}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=14ab837667ced135603a37329b9fabf9}{%
            family={Klabbers},
@@ -3199,10 +3778,12 @@
       }
       \strng{namehash}{14ab837667ced135603a37329b9fabf9}
       \strng{fullhash}{14ab837667ced135603a37329b9fabf9}
+      \strng{fullhashraw}{14ab837667ced135603a37329b9fabf9}
       \strng{bibnamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authorbibnamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authornamehash}{14ab837667ced135603a37329b9fabf9}
       \strng{authorfullhash}{14ab837667ced135603a37329b9fabf9}
+      \strng{authorfullhashraw}{14ab837667ced135603a37329b9fabf9}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -3240,7 +3821,135 @@
       \verb https://doi.org/10.1177/1046878118762534
       \endverb
     \endentry
-    \entry{lindqvistWhatGenderAnyway2021}{article}{}
+    \entry{koivistoRiseMotivationalInformation2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8094ef3cdc640cff0e290d32d85869c6}{%
+           family={Koivisto},
+           familyi={K\bibinitperiod},
+           given={Jonna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Juho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{fullhash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{fullhashraw}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{bibnamehash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{authorbibnamehash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{authornamehash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{authorfullhash}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \strng{authorfullhashraw}{83bce43cdcbff1a0edd209e8c60f3bfc}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Today, our reality and lives are increasingly game-like, not only because games have become a pervasive part of our lives, but also because activities, systems and services are increasingly gamified. Gamification refers to designing information systems to afford similar experiences and motivations as games do, and consequently, attempting to affect user behavior. In recent years, popularity of gamification has skyrocketed and manifested in growing numbers of gamified applications, as well as a rapidly increasing amount of research. However, this vein of research has mainly advanced without an agenda, theoretical guidance or a clear picture of the field. To make the picture more coherent, we provide a comprehensive review of the gamification research (N\,=\,819 studies) and analyze the research models and results in empirical studies on gamification. While the results in general lean towards positive findings about the effectiveness of gamification, the amount of mixed results is remarkable. Furthermore, education, health and crowdsourcing as well as points, badges and leaderboards persist as the most common contexts and ways of implementing gamification. Concurrently, gamification research still lacks coherence in research models, and a consistency in the variables and theoretical foundations. As a final contribution of the review, we provide a comprehensive discussion, consisting of 15 future research trajectories, on future agenda for the growing vein of literature on gamification and gameful systems within the information system science field.}
+      \field{day}{1}
+      \field{issn}{0268-4012}
+      \field{journaltitle}{International Journal of Information Management}
+      \field{month}{4}
+      \field{shortjournal}{International Journal of Information Management}
+      \field{shorttitle}{The Rise of Motivational Information Systems}
+      \field{title}{The Rise of Motivational Information Systems: {{A}} Review of Gamification Research}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{45}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{191\bibrangedash 210}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.ijinfomgt.2018.10.013
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\robin\\Zotero\\storage\\7NAD734I\\Koivisto und Hamari - 2019 - The rise of motivational information systems A re.pdf;C\:\\Users\\robin\\Zotero\\storage\\3V8UM2CS\\S0268401217305169.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0268401217305169
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0268401217305169
+      \endverb
+      \keyw{Affordance,Games,Gamification,Literature review,Motivational information system}
+    \endentry
+    \entry{laiszpedroDoesGamificationWork2015}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f8aefd5cb36ef43228ea83701b4ed4c4}{%
+           family={{Lais Z Pedro}},
+           familyi={L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=9a87b404bb40a2a02c2dee128e357acc}{%
+           family={{Aparecida M Z Lopes}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2459d7609d7ab53db390a4c74a2205e9}{%
+           family={Prates},
+           familyi={P\bibinitperiod},
+           given={Bruno\bibnamedelima G},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f8e5f2dc7995520d973705f3b22166e}{%
+           family={Vassileva},
+           familyi={V\bibinitperiod},
+           given={Julita},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddbd4420293c6679bec91464f2e01b87}{%
+           family={Isotani},
+           familyi={I\bibinitperiod},
+           given={Seiji},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[object Object]}%
+      }
+      \strng{namehash}{d320985baf7fc18f295971e83f8c0acc}
+      \strng{fullhash}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{fullhashraw}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{bibnamehash}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{authorbibnamehash}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{authornamehash}{d320985baf7fc18f295971e83f8c0acc}
+      \strng{authorfullhash}{2ab2bb9a36e18d107a667651ae8033aa}
+      \strng{authorfullhashraw}{2ab2bb9a36e18d107a667651ae8033aa}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{Does {{Gamification Work}} for {{Boys}} and {{Girls}}?}
+      \field{title}{Does {{Gamification Work}} for {{Boys}} and {{Girls}}? {{An Exploratory Study}} with a {{Virtual Learning Environment}}}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.13140/RG.2.1.4783.5686
+      \endverb
+      \verb{file}
+      \verb C:\Users\robin\Zotero\storage\ZADBJMA6\Lais Z Pedro et al. - 2015 - Does Gamification Work for Boys and Girls An Expl.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://rgdoi.net/10.13140/RG.2.1.4783.5686
+      \endverb
+      \verb{url}
+      \verb http://rgdoi.net/10.13140/RG.2.1.4783.5686
+      \endverb
+    \endentry
+    \entry{lindqvistWhatGenderAnyway2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f991d3c71383bc5ed5b1d63eb2838c96}{%
            family={Lindqvist},
@@ -3266,10 +3975,12 @@
       }
       \strng{namehash}{baeeb0b218942dafde90346f514f06f0}
       \strng{fullhash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{fullhashraw}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{bibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{authorbibnamehash}{38d9339a8ebde10a2bd69a1b51569047}
       \strng{authornamehash}{baeeb0b218942dafde90346f514f06f0}
       \strng{authorfullhash}{38d9339a8ebde10a2bd69a1b51569047}
+      \strng{authorfullhashraw}{38d9339a8ebde10a2bd69a1b51569047}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -3301,7 +4012,130 @@
       \verb https://www.tandfonline.com/doi/abs/10.1080/19419899.2020.1729844
       \endverb
     \endentry
-    \entry{marteauDevelopmentSixitemShortform1992}{article}{}
+    \entry{lucasSexDifferencesVideo2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ab819cb714f398b84d57406272ea4f9e}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Kristen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de3d8ecb1500e468a2cd59cd92822588}{%
+           family={Sherry},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{fullhash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{fullhashraw}{00becdc6852499381b6db89ee7dd8615}
+      \strng{bibnamehash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{authorbibnamehash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{authornamehash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{authorfullhash}{00becdc6852499381b6db89ee7dd8615}
+      \strng{authorfullhashraw}{00becdc6852499381b6db89ee7dd8615}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this study, we examined gender differences in video game use by focusing on interpersonal needs for inclusion, affection, and control, as well as socially constructed perceptions of gendered game play. Results of a large-scale survey (n = 534) of young adults’ reasons for video game use, preferred game genres, and amount of game play are reported. Female respondents report less frequent play, less motivation to play in social situations, and less orientation to game genres featuring competition and three-dimensional rotation. Implications for game design are discussed.}
+      \field{issn}{0093-6502, 1552-3810}
+      \field{journaltitle}{Communication Research}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{Communication Research}
+      \field{shorttitle}{Sex {{Differences}} in {{Video Game Play}}}
+      \field{title}{Sex {{Differences}} in {{Video Game Play}}: {{A Communication-Based Explanation}}}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{31}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{499\bibrangedash 523}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1177/0093650204267930
+      \endverb
+      \verb{file}
+      \verb C:\Users\robin\Zotero\storage\SHPLYSDL\Lucas und Sherry - 2004 - Sex Differences in Video Game Play A Communicatio.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/0093650204267930
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/0093650204267930
+      \endverb
+    \endentry
+    \entry{lynnSexDifferencesProgressive2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3d2ff2e3770e35adee683d2e09d53e10}{%
+           family={Lynn},
+           familyi={L\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12abf2f837686cd8ef94e100e8f15e78}{%
+           family={Irwing},
+           familyi={I\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{fullhash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{fullhashraw}{5a3951a48c1e170062e61585b1698d54}
+      \strng{bibnamehash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{authorbibnamehash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{authornamehash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{authorfullhash}{5a3951a48c1e170062e61585b1698d54}
+      \strng{authorfullhashraw}{5a3951a48c1e170062e61585b1698d54}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A meta-analysis is presented of 57 studies of sex differences in general population samples on the Standard and Advanced Progressive Matrices (SPM and APM, respectively). Results showed that there is no difference among children aged 6–14 years, but that males obtain higher means from the age of 15 through to old age. Among adults, the male advantage is 0.33d equivalent to 5 IQ points. These results disconfirm the frequent assertion than there are no sex differences on the progressive matrices and support a developmental theory that a male advantage appears from the age of 15 years. A meta-analysis of 15 studies of child samples on the Colored Progressive Matrices showed that among children aged 5–11 years boys have an advantage of 0.21d equivalent to 3.2 IQ points.}
+      \field{day}{1}
+      \field{issn}{0160-2896}
+      \field{journaltitle}{Intelligence}
+      \field{month}{9}
+      \field{number}{5}
+      \field{shortjournal}{Intelligence}
+      \field{shorttitle}{Sex Differences on the Progressive Matrices}
+      \field{title}{Sex Differences on the Progressive Matrices: {{A}} Meta-Analysis}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{481\bibrangedash 498}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.intell.2004.06.008
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\robin\\Zotero\\storage\\C6IYGQXR\\Lynn und Irwing - 2004 - Sex differences on the progressive matrices A met.pdf;C\:\\Users\\robin\\Zotero\\storage\\L62YZUIX\\S0160289604000492.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0160289604000492
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0160289604000492
+      \endverb
+      \keyw{Intelligence,Progressive matrices,Sex differences}
+    \endentry
+    \entry{marteauDevelopmentSixitemShortform1992}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=758841d73486de8a783144e8841088c0}{%
            family={Marteau},
@@ -3318,10 +4152,12 @@
       }
       \strng{namehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{fullhash}{e9d490f8b31302bad9a93a92d9a70a51}
+      \strng{fullhashraw}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{bibnamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authorbibnamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authornamehash}{e9d490f8b31302bad9a93a92d9a70a51}
       \strng{authorfullhash}{e9d490f8b31302bad9a93a92d9a70a51}
+      \strng{authorfullhashraw}{e9d490f8b31302bad9a93a92d9a70a51}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -3357,7 +4193,7 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8260.1992.tb00997.x
       \endverb
     \endentry
-    \entry{nkambouAdvancesIntelligentTutoring2010}{book}{}
+    \entry{nkambouAdvancesIntelligentTutoring2010}{book}{}{}
       \name{editor}{3}{}{%
         {{un=0,uniquepart=base,hash=02158ea5cfb00ded8a3c96a6c8be84ba}{%
            family={Nkambou},
@@ -3393,13 +4229,16 @@
       }
       \strng{namehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{fullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \strng{fullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{bibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \strng{editorfullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editorabibnamehash}{291b9ed2ce22bd924c545353989f0a73}
       \strng{editoranamehash}{291b9ed2ce22bd924c545353989f0a73}
       \strng{editorafullhash}{291b9ed2ce22bd924c545353989f0a73}
+      \strng{editorafullhashraw}{291b9ed2ce22bd924c545353989f0a73}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -3433,7 +4272,7 @@
       \endverb
       \keyw{Artificial Intelligence in Education,Computational Intelligence,E-learning,Emotion,Intellignet Tutoring,knowledge,learning,modeling,natural language,ontology,Simulation}
     \endentry
-    \entry{oliveiraTailoredGamificationEducation2023}{article}{}
+    \entry{oliveiraTailoredGamificationEducation2023}{article}{}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=b0f73f05f9ab7e746b38ec853880e2e8}{%
            family={Oliveira},
@@ -3480,10 +4319,12 @@
       }
       \strng{namehash}{8ee74e66ecc5e97e44821324f5baa99c}
       \strng{fullhash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{fullhashraw}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{bibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{authorbibnamehash}{c8ef26b1543783a4202bb36e2c8235ca}
       \strng{authornamehash}{8ee74e66ecc5e97e44821324f5baa99c}
       \strng{authorfullhash}{c8ef26b1543783a4202bb36e2c8235ca}
+      \strng{authorfullhashraw}{c8ef26b1543783a4202bb36e2c8235ca}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -3524,7 +4365,7 @@
       \endverb
       \keyw{Adaptive learning,Game-based learning,Gamification,Literature review,Tailoring}
     \endentry
-    \entry{psotkaIntelligentTutoringSystems1988}{book}{}
+    \entry{psotkaIntelligentTutoringSystems1988}{book}{}{}
       \name{editor}{3}{}{%
         {{un=0,uniquepart=base,hash=6133977c3b6f6d8321f75164fe9fef08}{%
            family={Psotka},
@@ -3553,10 +4394,12 @@
       }
       \strng{namehash}{e0b6abc013fcf44ac78ef39b847e6284}
       \strng{fullhash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{fullhashraw}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{bibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{editorbibnamehash}{4236212c14e89675bc98ec4d86bd2eaa}
       \strng{editornamehash}{e0b6abc013fcf44ac78ef39b847e6284}
       \strng{editorfullhash}{4236212c14e89675bc98ec4d86bd2eaa}
+      \strng{editorfullhashraw}{4236212c14e89675bc98ec4d86bd2eaa}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -3580,7 +4423,7 @@
       \endverb
       \keyw{Artificial Intelligence,Computer Assisted Instruction}
     \endentry
-    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}
+    \entry{sailerGamificationLearningMetaanalysis2020}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d8d811af5b74abad8cd6b169ab55b1dd}{%
            family={Sailer},
@@ -3597,10 +4440,12 @@
       }
       \strng{namehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{fullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{fullhashraw}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{bibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authorbibnamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authornamehash}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \strng{authorfullhash}{5f62c1309f5dd4015ea9ffd2667f3f72}
+      \strng{authorfullhashraw}{5f62c1309f5dd4015ea9ffd2667f3f72}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -3641,7 +4486,7 @@
       \endverb
       \keyw{Behavior,Cognition,Gamification,Gamified learning,Learning,Meta-analysis,Motivation}
     \endentry
-    \entry{santosDoesGenderStereotype2023}{article}{}
+    \entry{santosDoesGenderStereotype2023}{article}{}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=654b7b2fdc6640c69347e1138d42eed5}{%
            family={Santos},
@@ -3700,10 +4545,12 @@
       }
       \strng{namehash}{c6654b8bf7f50306324814902956858f}
       \strng{fullhash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{fullhashraw}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{bibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{authorbibnamehash}{8aaf24f8f0995a356bb03dcec157f76c}
       \strng{authornamehash}{c6654b8bf7f50306324814902956858f}
       \strng{authorfullhash}{8aaf24f8f0995a356bb03dcec157f76c}
+      \strng{authorfullhashraw}{8aaf24f8f0995a356bb03dcec157f76c}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -3744,7 +4591,7 @@
       \endverb
       \keyw{Aggressiveness,Gender stereotype threat,Intelligent tutoring systems,Stereotype threat,Stereotyped educational environments}
     \endentry
-    \entry{swachaStateResearchGamification2021}{article}{}
+    \entry{swachaStateResearchGamification2021}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0f8b6cb4e5c5b0423414f1badee0c458}{%
            family={Swacha},
@@ -3758,10 +4605,12 @@
       }
       \strng{namehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{fullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \strng{fullhashraw}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{bibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authorbibnamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authornamehash}{0f8b6cb4e5c5b0423414f1badee0c458}
       \strng{authorfullhash}{0f8b6cb4e5c5b0423414f1badee0c458}
+      \strng{authorfullhashraw}{0f8b6cb4e5c5b0423414f1badee0c458}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -3801,7 +4650,7 @@
       \endverb
       \keyw{education,gamification,literature survey,publication analysis}
     \endentry
-    \entry{wehrweinGenderDifferencesLearning2007}{article}{}
+    \entry{wehrweinGenderDifferencesLearning2007}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b13d96b04ea9cbe618e4cf004bd8ae8c}{%
            family={Wehrwein},
@@ -3824,10 +4673,12 @@
       }
       \strng{namehash}{05df0c6074a71c30d591eb302312f093}
       \strng{fullhash}{9a3cc3e29c5f563061c04b23b5dd5b79}
+      \strng{fullhashraw}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{bibnamehash}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{authorbibnamehash}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \strng{authornamehash}{05df0c6074a71c30d591eb302312f093}
       \strng{authorfullhash}{9a3cc3e29c5f563061c04b23b5dd5b79}
+      \strng{authorfullhashraw}{9a3cc3e29c5f563061c04b23b5dd5b79}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -3865,7 +4716,7 @@
       \verb https://www.physiology.org/doi/10.1152/advan.00060.2006
       \endverb
     \endentry
-    \entry{werbachWinHowGame2012}{book}{}
+    \entry{werbachWinHowGame2012}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=23013e615d774419d7e40f1e14594e57}{%
            family={Werbach},
@@ -3882,10 +4733,12 @@
       }
       \strng{namehash}{7558792aae9c0f366a73672471be5579}
       \strng{fullhash}{7558792aae9c0f366a73672471be5579}
+      \strng{fullhashraw}{7558792aae9c0f366a73672471be5579}
       \strng{bibnamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authorbibnamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authornamehash}{7558792aae9c0f366a73672471be5579}
       \strng{authorfullhash}{7558792aae9c0f366a73672471be5579}
+      \strng{authorfullhashraw}{7558792aae9c0f366a73672471be5579}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -3904,7 +4757,7 @@
       \verb C:\Users\robin\Zotero\storage\U5FNTL9Y\Werbach und Hunter - 2012 - For the Win How Game Thinking can Revolutionize y.pdf
       \endverb
     \endentry
-    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}
+    \entry{woolfAffectiveTutorsAutomatic2010}{inbook}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=55be320e8437b2dedbd66a2f047806af}{%
            family={Woolf},
@@ -3962,13 +4815,16 @@
       }
       \strng{namehash}{5b34cfe5538e218657b33b24b1bf6627}
       \strng{fullhash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{fullhashraw}{7a67cfffc1af1212929e3094189cb931}
       \strng{bibnamehash}{7a67cfffc1af1212929e3094189cb931}
       \strng{authorbibnamehash}{7a67cfffc1af1212929e3094189cb931}
       \strng{authornamehash}{5b34cfe5538e218657b33b24b1bf6627}
       \strng{authorfullhash}{7a67cfffc1af1212929e3094189cb931}
+      \strng{authorfullhashraw}{7a67cfffc1af1212929e3094189cb931}
       \strng{editorbibnamehash}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \strng{editornamehash}{98dc16f6bb2616cada209e6034379a52}
       \strng{editorfullhash}{f307dfbd9d11643e3f3596e5a9bfca7a}
+      \strng{editorfullhashraw}{f307dfbd9d11643e3f3596e5a9bfca7a}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -4004,7 +4860,7 @@
       \endverb
       \keyw{Automatic Detection,Intelligent Tutor System,Learn Disability,Pedagogical Agent,Skin Conductance}
     \endentry
-    \entry{zainuddinImpactGamificationLearning2020}{article}{}
+    \entry{zainuddinImpactGamificationLearning2020}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=fe6d5145f9545fdec9efee3b62b23372}{%
            family={Zainuddin},
@@ -4033,10 +4889,12 @@
       }
       \strng{namehash}{6c2412bf20db441f56520cdc1ea9854e}
       \strng{fullhash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{fullhashraw}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{bibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{authorbibnamehash}{9ac9b414ba0d83fab41c0ba60faab665}
       \strng{authornamehash}{6c2412bf20db441f56520cdc1ea9854e}
       \strng{authorfullhash}{9ac9b414ba0d83fab41c0ba60faab665}
+      \strng{authorfullhashraw}{9ac9b414ba0d83fab41c0ba60faab665}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
@@ -4075,7 +4933,7 @@
       \endverb
       \keyw{Empirical evidence,Engagement,Gamification,Motivation,Social influence,Systematic literature review}
     \endentry
-    \entry{zawacki-richterSystematicReviewResearch2019}{article}{}
+    \entry{zawacki-richterSystematicReviewResearch2019}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c23524c2c85c64ea58f95e884e6c760c}{%
            family={Zawacki-Richter},
@@ -4104,10 +4962,12 @@
       }
       \strng{namehash}{50b28aed2201b3003b3bda80f5b81a0a}
       \strng{fullhash}{07714e7882dd904fe72d7656b5bd231b}
+      \strng{fullhashraw}{07714e7882dd904fe72d7656b5bd231b}
       \strng{bibnamehash}{07714e7882dd904fe72d7656b5bd231b}
       \strng{authorbibnamehash}{07714e7882dd904fe72d7656b5bd231b}
       \strng{authornamehash}{50b28aed2201b3003b3bda80f5b81a0a}
       \strng{authorfullhash}{07714e7882dd904fe72d7656b5bd231b}
+      \strng{authorfullhashraw}{07714e7882dd904fe72d7656b5bd231b}
       \field{sortinit}{Z}
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
@@ -4146,7 +5006,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{ravenStandardProgressiveMatrices2003}
 \endrefsection
 \endinput
 

@@ -33,7 +33,7 @@ se <- function(x){
 
 ## ------------ read in data set ---------------
 dat_gender_All <-
-  read.table("C:\\Users\\robin\\Downloads\\dataGenderPreProcessed.txt",
+  read.table("dataGenderPreProcessed.txt",
              header = TRUE,
              sep = "\t")
 
@@ -83,6 +83,8 @@ lmer_per <-
 aggregate(percentage_correct ~ gender, dat_gender, mean)
 
 aggregate(percentage_correct ~ gamifiedElement, dat_gender, mean)
+
+aggregate(percentage_correct ~ gender + gamifiedElement, dat_gender, mean)
 
 sjPlot::tab_model(
   lmer_per,
