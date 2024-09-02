@@ -1,0 +1,130 @@
+% !TeX spellcheck = en_US
+
+\section{Results}
+\label{chap:evaluation}
+\subsection{Data Exclusion}
+Participants who identified their gender as "other" were excluded from the analysis because the present research available and used for this thesis primarily focuses on comparisons between male and female participants.
+This criterion led to the exclusion of two participants. Additionally, participants who achieved less than 25\% correct answers in the gamified learning environment were excluded.
+This threshold was set because there were five possible answers for each question, and random clicking would statistically result in a 20\% correct response rate.
+Therefore, a performance below 25\% suggests either random guessing or a fundamental misunderstanding of the task.
+Furthermore, any incomplete data sets were excluded to ensure the integrity and consistency of the analysis, resulting in the exclusion of one additional participant.
+Initially, there were 120 data sets, and after applying the exclusion criteria, 117 data sets remained.
+
+\subsection{Outline of Statistical Analysis}
+Having preprocessed and cleaned the data, we proceeded with our statistical analysis using linear mixed models (LMMs).
+These models were chosen for their ability to handle the complexities of repeated measures from the same subjects under varying conditions.
+By incorporating both fixed effects (gender and gamified elements) and random effects (individual differences), LMMs provided a robust framework for our analysis.
+
+We utilized the Nelder-Mead optimization method to estimate the parameters of our models.
+This method is ideal for our needs as it efficiently handles models with multiple interacting effects without requiring derivative calculations, making it suitable for our complex dataset.
+
+For the estimation of variance components within our models, we employed Restricted Maximum Likelihood (REML).
+REML is preferred in mixed model contexts because it adjusts the estimates for the fixed effects, providing unbiased variance estimates despite the presence of random effects.
+
+Finally, to ensure accurate inference regarding the fixed effects, we applied the Satterthwaite approximation for estimating degrees of freedom.
+This method helps in achieving more reliable p-values by adjusting the degrees of freedom for the complexity of the model, crucial in cases with multiple levels of interactions and a limited sample size.
+
+This combination of methods and their implementation through LMMs allowed us to systematically analyse the effects of gender and gamified elements on performance and anxiety, controlling for individual variability and the specifics of the experimental design.
+
+\subsection{Report of findings}
+
+\subsubsection{Performance}
+Women exhibited lower performance levels when leaderboards were the gamified element used (\textit{M}= .700, \textit{SE} = .056) compared to men (\textit{M} = .835, \textit{SE} = .024) and to the overall average performance in gamified settings for women (\textit{M} = .846, \textit{SE} = 0.030).
+Notable is also the variability suggested by the large standard error for women in this leaderboard condition.
+Despite some descriptive effects, our analysis revealed no significant main effects or interactions for all hypotheses regarding performance, as documented in Table \ref{tab:lmm_performance}.
+
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}[b]{0.45\textwidth}
+        \includegraphics[width=\textwidth]{img/plots/grey/plot_performance.png}
+        \label{fig:plot_performance}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.45\textwidth}
+        \includegraphics[width=\textwidth]{img/plots/grey/plot_performance_gender.png}
+        \label{fig:plot_performance_gender}
+    \end{subfigure}
+    \caption{On the left: Overall performance across different gamification elements as percentage. On the right: Performance by gender grouped by gamification element as percentage.}
+    \label{fig:performance_comparison}
+\end{figure}
+
+\begin{table}[h]
+    \centering
+    \caption{Results of the linear mixed model analysis for percentage correct effects.}
+    \label{tab:lmm_performance}
+    \begin{tabular}{lcccc}
+        \hline
+        Variable & \textit{beta} & \textit{p} & \textit{t} & \textit{df} \\
+        \hline
+        m & 0.07 & .994 & 0.27 & 277.62 \\
+        P & -0.33 & .493 & -1.35 & 211.82 \\
+        B & 0.06 & .994 & 0.21 & 214.27 \\
+        L & -0.48 & .384 & -1.67 & 213.69 \\
+        A & 0.13 & .994 & 0.49 & 208.19 \\
+        N & 0.44 & .384 & 1.70 & 207.03 \\
+        PBLA & 0.01 & .994 & 0.06 & 208.37 \\
+        PBLAN & 0.06 & .994 & 0.22 & 210.22 \\
+        m $\times$ P & 0.42 & .493 & 1.33 & 214.33 \\
+        m $\times$ B & -0.22 & .994 & -0.64 & 213.78 \\
+        m $\times$ L & 0.61 & .384 & 1.79 & 214.82 \\
+        m $\times$ A & 0.01 & .994 & 0.03 & 209.52 \\
+        m $\times$ N & -0.00 & .994 & -0.01 & 210.19 \\
+        m $\times$ PBLA & 0.37 & .548 & 1.18 & 211.59 \\
+        m $\times$ PBLAN & 0.01 & .994 & 0.02 & 210.43 \\
+        \hline
+    \end{tabular}
+    \tablenote{Abbreviations: m = Male, P = Points, B = Badges, L = Level, A = Avatars, N = Narrative Content, PBLA = Combination of Points, Badges, Level, and Avatars, PBLAN = Combination of all elements. Male is compared to female performance, gamified elements are compared to the non-gamified environment. The interactions are compared to female in the non-gamified environment.}
+\end{table}
+
+
+
+
+\subsubsection{Anxiety}
+Some descriptive trends emerged from our analysis, as illustrated in Figure \ref{fig:anxiety_comparison}.
+Women experienced higher anxiety levels than men in the non-gamified environment (\textit{M} = .571, \textit{SE} = .092 for women compared to \textit{M} = .296, \textit{SE} = .099 for men) and when leaderboards were used (\textit{M} = .683, \textit{SE} = .205 for women compared to \textit{M} = .566, \textit{SE} = .119 for men).
+In contrast, the use of avatars was associated with lower anxiety levels for women (\textit{M} = .187, \textit{SE} = .095) than for men (\textit{M} = .476, \textit{SE} = .102).
+
+Despite these trends, our analysis revealed no significant main effects or interactions for any of the hypotheses regarding anxiety levels, as detailed in Table \ref{tab:lmm_stai}.
+This leads us to conclude that the hypotheses regarding anxiety must be rejected.
+
+
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}[b]{0.45\textwidth}
+        \includegraphics[width=\textwidth]{img/plots/grey/plot_anxiety.png}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.45\textwidth}
+        \includegraphics[width=\textwidth]{img/plots/grey/plot_anxiety_gender.png}
+    \end{subfigure}
+    \caption{On the left: Anxiety levels across different gamification elements. On the right: Differences in anxiety levels by gender grouped by gamified element.}
+    \label{fig:anxiety_comparison}
+\end{figure}
+
+\begin{table}[h]
+    \centering
+    \caption{Results of the linear mixed model analysis for STAI effects.}
+    \label{tab:lmm_stai}
+    \begin{tabular}{lccccc}
+        \hline
+        Variable & \textit{beta} & \textit{p} & \textit{t} & \textit{df} \\
+        \hline
+        m & -0.25 & .623 & -0.83 & 288.25 \\
+        P & -0.28 & .564 & -1.00 & 216.76 \\
+        B & 0.23 & .623 & 0.73 & 221.07 \\
+        L & -0.04 & .913 & -0.11 & 220.38 \\
+        A & -0.62 & .228 & -2.11 & 213.37 \\
+        N & -0.53 & .241 & -1.81 & 211.70 \\
+        PBLA & -0.03 & .913 & -0.11 & 213.53 \\
+        PBLAN & -0.60 & .228 & -2.04 & 215.77 \\
+        m $\times$ P & 0.42 & .481 & 1.18 & 220.20 \\
+        m $\times$ B & -0.18 & .787 & -0.47 & 220.26 \\
+        m $\times$ L & 0.28 & .623 & 0.74 & 221.54 \\
+        m $\times$ A & 0.64 & .241 & 1.79 & 214.84 \\
+        m $\times$ N & 0.50 & .437 & 1.40 & 215.47 \\
+        m $\times$ PBLA & 0.10 & .882 & 0.29 & 217.43 \\
+        m $\times$ PBLAN & 0.45 & .481 & 1.25 & 215.91 \\
+        \hline
+    \end{tabular}
+    \tablenote{Abbreviations: m = Male, P = Points, B = Badges, L = Leaderboards, A = Avatars, N = Narrative Content, PBLA = Combination of Points, Badges, Leaderboards, and Avatars, PBLAN = Combination of all elements. Male is compared to female anxiety, gamified elements are compared to the non-gamified environment. The interactions are compared to female in the non-gamified environment.}
+\end{table}
