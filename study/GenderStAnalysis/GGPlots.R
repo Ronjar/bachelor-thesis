@@ -3,16 +3,25 @@ library(dplyr)
 library(ggplot2)
 library(cowplot)
 
-# Funktion zur Berechnung von Mittelwerten und Standardfehlern
+# Funktion zur Berechnung von Statistiken
 calculate_stats <- function(data, group_variables, value_variable) {
   data %>%
     group_by(across(all_of(group_variables))) %>%
     summarise(
-      Mean = mean({{ value_variable }}, na.rm = TRUE),  # Berechnet den absoluten Wert des Mittelwerts
+      Mean = mean({{ value_variable }}, na.rm = TRUE),
+      Median = median({{ value_variable }}, na.rm = TRUE),
+      Q1 = quantile({{ value_variable }}, 0.25, na.rm = TRUE),
+      Q3 = quantile({{ value_variable }}, 0.75, na.rm = TRUE),
+      IQR = IQR({{ value_variable }}, na.rm = TRUE),
       SE = sd({{ value_variable }}, na.rm = TRUE) / sqrt(n()),
+      Min = min({{ value_variable }}, na.rm = TRUE),
+      Max = max({{ value_variable }}, na.rm = TRUE),
+      Lower = max(Min, Median - 1.5 * IQR), # Berechnung des unteren Whisker, wobei Min die untere Grenze ist
+      Upper = min(Max, Median + 1.5 * IQR), # Berechnung des oberen Whisker, wobei Max die obere Grenze ist
       .groups = 'drop'
     )
 }
+
 
 # Funktion zur Anpassung der Legendenbeschriftung
 capitalize_labels <- function(labels) {
@@ -21,14 +30,14 @@ capitalize_labels <- function(labels) {
   })
 }
 
-# Funktion zum Erstellen von Balkendiagrammen mit Unterstützung für negative Werte und Achsenspiegelung
+# Funktion zum Erstellen von Boxplots mit horizontalen Whisker-Linien
 plot_data <- function(data, xlab, ylab, by_gender = FALSE) {
-  
   if (by_gender) {
     p <- ggplot(data, aes(x = gamifiedElement, y = Mean, fill = gender)) +
-      geom_bar(stat = "identity", position = position_dodge(width = 0.8), width = 0.7) +
-      geom_errorbar(aes(ymin = Mean - SE, ymax = Mean + SE),
-                    width = 0.25, position = position_dodge(width = 0.8)) +
+      geom_boxplot(aes(lower = Q1, upper = Q3, middle = Median, ymin = Lower, ymax = Upper),
+                   stat = "identity", color = "black", position = position_dodge(width = 0.8), width = 0.7) +
+      geom_errorbar(aes(ymin = Lower, ymax = Upper, width = 0.5),
+                    position = position_dodge(width = 0.8)) +
       labs(x = xlab, y = ylab) +
       theme_minimal(base_family = "Arial") +
       guides(fill = guide_legend(title = "Gender", label.position = "right",
@@ -37,50 +46,55 @@ plot_data <- function(data, xlab, ylab, by_gender = FALSE) {
         panel.background = element_blank(),
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
-        text = element_text(size = 25),  # Textgröße erhöhen
-        axis.text.x = element_text(angle = -45, hjust = 0, vjust = 0, size = 22),  # X-Achsenbeschriftung drehen
-        axis.text.y = element_text(size = 25),  # Y-Achsenbeschriftung Textgröße
-        axis.title.x = element_text(size = 25, margin = margin(t = 20)),  # X-Achsentitel Textgröße und Abstand
-        axis.title.y = element_text(size = 25, margin = margin(r = 20)),  # Y-Achsentitel Textgröße und Abstand
-        legend.title = element_text(size = 25),  # Legendentitel Textgröße
-        legend.text = element_text(size = 25),  # Legendeneinträge Textgröße
-        plot.margin = margin(t = 20, r = 20, b = 20, l = 20)  # Ränder hinzufügen
-      ) +
-      scale_y_continuous(labels = scales::comma, limits = c(floor(min(data$Mean - data$SE)), ceiling(max(data$Mean + data$SE))))
+        text = element_text(size = 25),
+        axis.text.x = element_text(angle = -45, hjust = 0, vjust = 0, size = 22),
+        axis.text.y = element_text(size = 25),
+        axis.title.x = element_text(size = 25, margin = margin(t = 20)),
+        axis.title.y = element_text(size = 25, margin = margin(r = 20)),
+        legend.title = element_text(size = 25),
+        legend.text = element_text(size = 25),
+        plot.margin = margin(t = 20, r = 20, b = 20, l = 20)
+      )+
+      scale_y_continuous(labels = scales::comma, limits = c(floor(min(data$Min)), ceiling(max(data$Max))))+
+      scale_fill_manual(values = gray.colors(length(unique(data$gender)), start = 0.8, end = 0.2), labels = capitalize_labels)
   } else {
     p <- ggplot(data, aes(x = gamifiedElement, y = Mean, fill = "color")) +
-      geom_bar(stat = "identity", position = "dodge", width = 0.7) +
-      geom_errorbar(aes(ymin = Mean - SE, ymax = Mean + SE),
-                    width = 0.25, position = position_dodge(width = 0.7)) +
-      scale_fill_manual(values = c("color" = "#f8bc6d")) +
+      geom_boxplot(aes(lower = Q1, upper = Q3, middle = Median, ymin = Lower, ymax = Upper),
+                   stat = "identity", position = position_dodge(width = 0.8), width = 0.7) +
+      geom_errorbar(aes(ymin = Lower, ymax = Upper, width = 0.5),
+                    position = position_dodge(width = 0.8)) +
+      scale_fill_manual(values = c("color" = "#aaaaaa")) +
       labs(x = xlab, y = ylab) +
       theme_minimal(base_family = "Arial") +
       theme(
         panel.background = element_blank(),
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
-        text = element_text(size = 25),  # Textgröße erhöhen
-        axis.text.x = element_text(angle = -45, hjust = 0, vjust = 0, size = 22),  # X-Achsenbeschriftung drehen
-        axis.text.y = element_text(size = 25),  # Y-Achsenbeschriftung Textgröße
-        axis.title.x = element_text(size = 25, margin = margin(t = 20)),  # X-Achsentitel Textgröße und Abstand
-        axis.title.y = element_text(size = 25, margin = margin(r = 20)),  # Y-Achsentitel Textgröße und Abstand
-        legend.position = "none",  # Legende entfernen
-        plot.margin = margin(t = 20, r = 140, b = 20, l = 20)  # Ränder hinzufügen
-      ) +
-      scale_y_continuous(labels = scales::comma, limits = c(floor(min(data$Mean - data$SE)), ceiling(max(data$Mean + data$SE))))
+        text = element_text(size = 25),
+        axis.text.x = element_text(angle = -45, hjust = 0, vjust = 0, size = 22),
+        axis.text.y = element_text(size = 25),
+        axis.title.x = element_text(size = 25, margin = margin(t = 20)),
+        axis.title.y = element_text(size = 25, margin = margin(r = 20)),
+        legend.position = "none",
+        plot.margin = margin(t = 20, r = 140, b = 20, l = 20)
+      )+
+      scale_y_continuous(labels = scales::comma, limits = c(floor(min(data$Min)), ceiling(max(data$Max))))
   }    
   # Achsen spiegeln, wenn negative Werte vorhanden sind
-  if (any(data$Mean < 0)) {
-    p <- p + scale_y_reverse()
-  }
+  #if (any(data$Mean < 0)) {
+  #  p <- p + scale_y_reverse()
+  #}
   return(p)
 }
 
 
 
 
+
+
 # Globale Variable für den Speicherpfad
-output_folder <<- "C:\\Users\\robin\\Documents\\GitHub\\bachelor-thesis\\img\\plots\\4"
+#output_folder <<- "C:\\Users\\robin\\Documents\\GitHub\\bachelor-thesis\\img\\plots\\color"
+output_folder <<- "D:\\Dokumente\\GitHub\\bachelor-thesis\\img\\plots\\grey"
 
 # Funktion zum Speichern von Plots mit Ordnerauswahl
 save_ggplot <- function(plot, plot_name) {

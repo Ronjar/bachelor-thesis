@@ -107,9 +107,9 @@ data$stai_5_weight <- item5[data[,c("stai_5")]]
 data$stai_6_weight <- item6[data[,c("stai_6")]]
 
 # get stai-y value
-stai_columns <- grep("stai_[1-20]?", colnames(data), value = TRUE)
-stai_weight_columns <- grep("stai_[1-20]?_weight", colnames(data), value = TRUE)
-data$stai <- rowMeans(data[,names(data) %in% stai_columns])
+stai_columns <- grep("stai_[1-6]?", colnames(data), value = TRUE)
+stai_weight_columns <- grep("stai_[1-6]?_weight", colnames(data), value = TRUE)
+data$stai <- rowMeans(data[,names(data) %in% stai_weight_columns])
 
 #------------ write external table with relevant data ---------------
 write.table(data[,!names(data) %in% c(ngse_columns, sims_columns, 

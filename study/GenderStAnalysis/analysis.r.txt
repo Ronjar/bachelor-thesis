@@ -65,6 +65,12 @@ dat_gender$gamifiedElement <- factor(dat_gender$gamifiedElement,
 # Umbenennen der Faktoren für 'gamifiedElement'
 levels(dat_gender$gamifiedElement) <- c("None", "Points (P)", "Badges (B)", "Leaderboards (L)", "Avatars (A)", "Narrative Content (N)", "Combination (PBLA)", "All Elements (PBLAN)")
 
+dat_gender_leaderboards <- dat_gender[dat_gender$gamifiedElement == "Leaderboards (L)", ]
+dat_gender_avatars <- dat_gender[dat_gender$gamifiedElement == "Avatars (A)", ]
+
+count_fours <- sapply(dat_gender[, c("stai_1", "stai_2", "stai_3", "stai_4", "stai_5", "stai_6")], function(x) sum(x == 1))
+print(count_fours)
+
 
 dat_gender$id <- factor(dat_gender$id)
 dat_gender$round <- factor(dat_gender$round)

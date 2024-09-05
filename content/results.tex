@@ -3,25 +3,26 @@
 \section{Results}
 \label{chap:evaluation}
 \subsection{Data Exclusion}
+Initially 120 students participated in the study.
 Participants who identified their gender as "other" were excluded from the analysis because the present research available and used for this thesis primarily focuses on comparisons between male and female participants.
 This criterion led to the exclusion of two participants. Additionally, participants who achieved less than 25\% correct answers in the gamified learning environment were excluded.
 This threshold was set because there were five possible answers for each question, and random clicking would statistically result in a 20\% correct response rate.
 Therefore, a performance below 25\% suggests either random guessing or a fundamental misunderstanding of the task.
 Furthermore, any incomplete data sets were excluded to ensure the integrity and consistency of the analysis, resulting in the exclusion of one additional participant.
-Initially, there were 120 data sets, and after applying the exclusion criteria, 117 data sets remained.
+Of the 120 data sets, after applying the exclusion criteria, 117 data sets remained.
 
 \subsection{Outline of Statistical Analysis}
-Having preprocessed and cleaned the data, we proceeded with our statistical analysis using linear mixed models (LMMs).
+Having preprocessed and cleaned the data, we proceeded with our statistical analysis using linear mixed models (LMMs \textcite{deanGeneralizedLinearMixed2007}).
 These models were chosen for their ability to handle the complexities of repeated measures from the same subjects under varying conditions.
 By incorporating both fixed effects (gender and gamified elements) and random effects (individual differences), LMMs provided a robust framework for our analysis.
 
-We utilized the Nelder-Mead optimization method to estimate the parameters of our models.
+We utilized the Nelder-Mead \parencite{nelderSimplexMethodFunction1965} optimization method to estimate the parameters of our models.
 This method is ideal for our needs as it efficiently handles models with multiple interacting effects without requiring derivative calculations, making it suitable for our complex dataset.
 
-For the estimation of variance components within our models, we employed Restricted Maximum Likelihood (REML).
+For the estimation of variance components within our models, we employed Restricted Maximum Likelihood (REML \textcite{corbeilRestrictedMaximumLikelihood1976}).
 REML is preferred in mixed model contexts because it adjusts the estimates for the fixed effects, providing unbiased variance estimates despite the presence of random effects.
 
-Finally, to ensure accurate inference regarding the fixed effects, we applied the Satterthwaite approximation for estimating degrees of freedom.
+Finally, to ensure accurate inference regarding the fixed effects, we applied the Satterthwaite \parencite{satterthwaiteApproximateDistributionEstimates1946} approximation for estimating degrees of freedom.
 This method helps in achieving more reliable p-values by adjusting the degrees of freedom for the complexity of the model, crucial in cases with multiple levels of interactions and a limited sample size.
 
 This combination of methods and their implementation through LMMs allowed us to systematically analyse the effects of gender and gamified elements on performance and anxiety, controlling for individual variability and the specifics of the experimental design.
@@ -81,8 +82,8 @@ Despite some descriptive effects, our analysis revealed no significant main effe
 
 \subsubsection{Anxiety}
 Some descriptive trends emerged from our analysis, as illustrated in \autoref{fig:anxiety_comparison}.
-Women experienced higher anxiety levels than men in the non-gamified environment (\textit{M} = .571, \textit{SE} = .092 for women compared to \textit{M} = .296, \textit{SE} = .099 for men) and when leaderboards were used (\textit{M} = .683, \textit{SE} = .205 for women compared to \textit{M} = .566, \textit{SE} = .119 for men).
-In contrast, the use of avatars was associated with lower anxiety levels for women (\textit{M} = .187, \textit{SE} = .095) than for men (\textit{M} = .476, \textit{SE} = .102).
+Women experienced higher anxiety levels than men in the non-gamified environment (\textit{M} = -1.3, \textit{SE} = .188 for women compared to \textit{M} = -1.62, \textit{SE} = .212 for men) and when leaderboards were used (\textit{M} = -.79, \textit{SE} = .46 for women compared to \textit{M} = -.1.19, \textit{SE} = .217 for men).
+In contrast, the use of avatars was associated with lower anxiety levels for women (\textit{M} = -1.91, \textit{SE} = .20) than for men (\textit{M} = -1.4, \textit{SE} = .177).
 
 Despite these trends, our analysis revealed no significant main effects or interactions for any of the hypotheses regarding anxiety levels, as detailed in \autoref{tab:lmm_stai}.
 This leads us to conclude that the hypotheses regarding anxiety must be rejected.
